@@ -1,0 +1,833 @@
+﻿annee_scolaire;Ordre_CRE;Nom_CRE;Niveau_scolaire;Nb_classes_eleve
+2021/2022;1;Tunis 1;1ère année primaire;238
+2021/2022;1;Tunis 1;2ème année primaire;244
+2021/2022;1;Tunis 1;3ème année primaire;251
+2021/2022;1;Tunis 1;4ème année primaire;256
+2021/2022;1;Tunis 1;5ème année primaire;248
+2021/2022;1;Tunis 1;6ème année primaire;246
+2021/2022;2;Tunis 2;1ère année primaire;255
+2021/2022;2;Tunis 2;2ème année primaire;255
+2021/2022;2;Tunis 2;3ème année primaire;260
+2021/2022;2;Tunis 2;4ème année primaire;264
+2021/2022;2;Tunis 2;5ème année primaire;250
+2021/2022;2;Tunis 2;6ème année primaire;255
+2021/2022;3;Ariana;1ère année primaire;296
+2021/2022;3;Ariana;2ème année primaire;281
+2021/2022;3;Ariana;3ème année primaire;281
+2021/2022;3;Ariana;4ème année primaire;286
+2021/2022;3;Ariana;5ème année primaire;279
+2021/2022;3;Ariana;6ème année primaire;276
+2021/2022;4;Mannouba;1ère année primaire;231
+2021/2022;4;Mannouba;2ème année primaire;230
+2021/2022;4;Mannouba;3ème année primaire;236
+2021/2022;4;Mannouba;4ème année primaire;228
+2021/2022;4;Mannouba;5ème année primaire;224,5
+2021/2022;4;Mannouba;6ème année primaire;233,5
+2021/2022;5;Ben Arous;1ère année primaire;387,5
+2021/2022;5;Ben Arous;2ème année primaire;374,5
+2021/2022;5;Ben Arous;3ème année primaire;390,5
+2021/2022;5;Ben Arous;4ème année primaire;387,5
+2021/2022;5;Ben Arous;5ème année primaire;373,5
+2021/2022;5;Ben Arous;6ème année primaire;368,5
+2021/2022;6;Zaghouan;1ère année primaire;162
+2021/2022;6;Zaghouan;2ème année primaire;161
+2021/2022;6;Zaghouan;3ème année primaire;164,5
+2021/2022;6;Zaghouan;4ème année primaire;154,5
+2021/2022;6;Zaghouan;5ème année primaire;150
+2021/2022;6;Zaghouan;6ème année primaire;143
+2021/2022;7;Bizerte;1ère année primaire;375,5
+2021/2022;7;Bizerte;2ème année primaire;382,5
+2021/2022;7;Bizerte;3ème année primaire;396,5
+2021/2022;7;Bizerte;4ème année primaire;385,5
+2021/2022;7;Bizerte;5ème année primaire;375,5
+2021/2022;7;Bizerte;6ème année primaire;375,5
+2021/2022;8;Béja;1ère année primaire;238,5
+2021/2022;8;Béja;2ème année primaire;240,5
+2021/2022;8;Béja;3ème année primaire;254,5
+2021/2022;8;Béja;4ème année primaire;240,5
+2021/2022;8;Béja;5ème année primaire;238,5
+2021/2022;8;Béja;6ème année primaire;232,5
+2021/2022;9;Jendouba;1ère année primaire;317
+2021/2022;9;Jendouba;2ème année primaire;315
+2021/2022;9;Jendouba;3ème année primaire;318
+2021/2022;9;Jendouba;4ème année primaire;309
+2021/2022;9;Jendouba;5ème année primaire;309
+2021/2022;9;Jendouba;6ème année primaire;307
+2021/2022;10;Siliana;1ère année primaire;221,5
+2021/2022;10;Siliana;2ème année primaire;231,5
+2021/2022;10;Siliana;3ème année primaire;231,5
+2021/2022;10;Siliana;4ème année primaire;228,5
+2021/2022;10;Siliana;5ème année primaire;227
+2021/2022;10;Siliana;6ème année primaire;224
+2021/2022;11;Le Kef;1ère année primaire;225,5
+2021/2022;11;Le Kef;2ème année primaire;224,5
+2021/2022;11;Le Kef;3ème année primaire;227,5
+2021/2022;11;Le Kef;4ème année primaire;225,5
+2021/2022;11;Le Kef;5ème année primaire;216
+2021/2022;11;Le Kef;6ème année primaire;214
+2021/2022;12;Kasserine;1ère année primaire;484,5
+2021/2022;12;Kasserine;2ème année primaire;478,5
+2021/2022;12;Kasserine;3ème année primaire;477,5
+2021/2022;12;Kasserine;4ème année primaire;448,5
+2021/2022;12;Kasserine;5ème année primaire;433
+2021/2022;12;Kasserine;6ème année primaire;416
+2021/2022;13;Sidi Bouzid;1ère année primaire;462
+2021/2022;13;Sidi Bouzid;2ème année primaire;464
+2021/2022;13;Sidi Bouzid;3ème année primaire;468,5
+2021/2022;13;Sidi Bouzid;4ème année primaire;442,5
+2021/2022;13;Sidi Bouzid;5ème année primaire;442
+2021/2022;13;Sidi Bouzid;6ème année primaire;421
+2021/2022;14;Gafsa;1ère année primaire;319,5
+2021/2022;14;Gafsa;2ème année primaire;330,5
+2021/2022;14;Gafsa;3ème année primaire;323
+2021/2022;14;Gafsa;4ème année primaire;303
+2021/2022;14;Gafsa;5ème année primaire;297,5
+2021/2022;14;Gafsa;6ème année primaire;293,5
+2021/2022;15;Tozeur;1ère année primaire;93,5
+2021/2022;15;Tozeur;2ème année primaire;95,5
+2021/2022;15;Tozeur;3ème année primaire;97,5
+2021/2022;15;Tozeur;4ème année primaire;96,5
+2021/2022;15;Tozeur;5ème année primaire;95
+2021/2022;15;Tozeur;6ème année primaire;86
+2021/2022;16;Kébili;1ère année primaire;150
+2021/2022;16;Kébili;2ème année primaire;152
+2021/2022;16;Kébili;3ème année primaire;146,5
+2021/2022;16;Kébili;4ème année primaire;150,5
+2021/2022;16;Kébili;5ème année primaire;150,5
+2021/2022;16;Kébili;6ème année primaire;132,5
+2021/2022;17;Tataouine;1ère année primaire;140,5
+2021/2022;17;Tataouine;2ème année primaire;136,5
+2021/2022;17;Tataouine;3ème année primaire;140
+2021/2022;17;Tataouine;4ème année primaire;142
+2021/2022;17;Tataouine;5ème année primaire;139,5
+2021/2022;17;Tataouine;6ème année primaire;128,5
+2021/2022;18;Médenine;1ère année primaire;437,5
+2021/2022;18;Médenine;2ème année primaire;441,5
+2021/2022;18;Médenine;3ème année primaire;447
+2021/2022;18;Médenine;4ème année primaire;438
+2021/2022;18;Médenine;5ème année primaire;444
+2021/2022;18;Médenine;6ème année primaire;417
+2021/2022;19;Gabès;1ère année primaire;330
+2021/2022;19;Gabès;2ème année primaire;334
+2021/2022;19;Gabès;3ème année primaire;326
+2021/2022;19;Gabès;4ème année primaire;306,5
+2021/2022;19;Gabès;5ème année primaire;296
+2021/2022;19;Gabès;6ème année primaire;295,5
+2021/2022;20;Sfax 1;1ère année primaire;366
+2021/2022;20;Sfax 1;2ème année primaire;365
+2021/2022;20;Sfax 1;3ème année primaire;357
+2021/2022;20;Sfax 1;4ème année primaire;350
+2021/2022;20;Sfax 1;5ème année primaire;346
+2021/2022;20;Sfax 1;6ème année primaire;332
+2021/2022;21;Sfax 2;1ère année primaire;381
+2021/2022;21;Sfax 2;2ème année primaire;393
+2021/2022;21;Sfax 2;3ème année primaire;392,5
+2021/2022;21;Sfax 2;4ème année primaire;377,5
+2021/2022;21;Sfax 2;5ème année primaire;370,5
+2021/2022;21;Sfax 2;6ème année primaire;352,5
+2021/2022;22;Mahdia;1ère année primaire;357
+2021/2022;22;Mahdia;2ème année primaire;366
+2021/2022;22;Mahdia;3ème année primaire;381
+2021/2022;22;Mahdia;4ème année primaire;366
+2021/2022;22;Mahdia;5ème année primaire;349,5
+2021/2022;22;Mahdia;6ème année primaire;333,5
+2021/2022;23;Kairouan;1ère année primaire;539,5
+2021/2022;23;Kairouan;2ème année primaire;546,5
+2021/2022;23;Kairouan;3ème année primaire;562,5
+2021/2022;23;Kairouan;4ème année primaire;537,5
+2021/2022;23;Kairouan;5ème année primaire;509
+2021/2022;23;Kairouan;6ème année primaire;486
+2021/2022;24;Monastir;1ère année primaire;395
+2021/2022;24;Monastir;2ème année primaire;395
+2021/2022;24;Monastir;3ème année primaire;408
+2021/2022;24;Monastir;4ème année primaire;404
+2021/2022;24;Monastir;5ème année primaire;394
+2021/2022;24;Monastir;6ème année primaire;372
+2021/2022;25;Sousse;1ère année primaire;454
+2021/2022;25;Sousse;2ème année primaire;460
+2021/2022;25;Sousse;3ème année primaire;465
+2021/2022;25;Sousse;4ème année primaire;451
+2021/2022;25;Sousse;5ème année primaire;461
+2021/2022;25;Sousse;6ème année primaire;422
+2021/2022;26;Nabeul;1ère année primaire;548
+2021/2022;26;Nabeul;2ème année primaire;553
+2021/2022;26;Nabeul;3ème année primaire;562,5
+2021/2022;26;Nabeul;4ème année primaire;555,5
+2021/2022;26;Nabeul;5ème année primaire;540
+2021/2022;26;Nabeul;6ème année primaire;529
+2021/2022;1;Tunis 1;7ème année de base;315
+2021/2022;1;Tunis 1;8ème année de base;249
+2021/2022;1;Tunis 1;9ème année de base;232
+2021/2022;1;Tunis 1;1ère année secondaire Tronc commun;231
+2021/2022;1;Tunis 1;1ère année secondaire Sport;4
+2021/2022;1;Tunis 1;2ème année secondaire Lettres;24
+2021/2022;1;Tunis 1;2ème année secondaire Sciences;86
+2021/2022;1;Tunis 1;2ème année secondaire Technologie informatique;33
+2021/2022;1;Tunis 1;2ème année secondaire Economie et services;61
+2021/2022;1;Tunis 1;2ème année secondaire Sport;4
+2021/2022;1;Tunis 1;3ème année secondaire Lettres;23
+2021/2022;1;Tunis 1;3ème année secondaire Mathématiques;28
+2021/2022;1;Tunis 1;3ème année secondaire Sc. Expérimentales;44
+2021/2022;1;Tunis 1;3ème année secondaire Sc.Techniques;13
+2021/2022;1;Tunis 1;3ème année secondaire Sc.Informatique;21
+2021/2022;1;Tunis 1;3ème année secondaire Economie et Gestion;67
+2021/2022;1;Tunis 1;3ème année secondaire Sport ;7
+2021/2022;1;Tunis 1;4ème année secondaire Lettres;26
+2021/2022;1;Tunis 1;4ème année secondaire Mathématiques;26
+2021/2022;1;Tunis 1;4ème année secondaire Sc. Expérimentales;57
+2021/2022;1;Tunis 1;4ème année secondaire Sc.Techniques;16
+2021/2022;1;Tunis 1;4ème année secondaire Sc.Informatique;19
+2021/2022;1;Tunis 1;4ème année secondaire Economie et Gestion;78
+2021/2022;1;Tunis 1;4ème année secondaire Sport ;8
+2021/2022;2;Tunis 2;7ème année de base;298
+2021/2022;2;Tunis 2;8ème année de base;227
+2021/2022;2;Tunis 2;9ème année de base;224
+2021/2022;2;Tunis 2;1ère année secondaire Tronc commun;190
+2021/2022;2;Tunis 2;1ère année secondaire Sport;2
+2021/2022;2;Tunis 2;2ème année secondaire Lettres;17
+2021/2022;2;Tunis 2;2ème année secondaire Sciences;62
+2021/2022;2;Tunis 2;2ème année secondaire Technologie informatique;34
+2021/2022;2;Tunis 2;2ème année secondaire Economie et services;47
+2021/2022;2;Tunis 2;2ème année secondaire Sport;1
+2021/2022;2;Tunis 2;3ème année secondaire Lettres;16
+2021/2022;2;Tunis 2;3ème année secondaire Mathématiques;17
+2021/2022;2;Tunis 2;3ème année secondaire Sc. Expérimentales;30
+2021/2022;2;Tunis 2;3ème année secondaire Sc.Techniques;17
+2021/2022;2;Tunis 2;3ème année secondaire Sc.Informatique;26
+2021/2022;2;Tunis 2;3ème année secondaire Economie et Gestion;56
+2021/2022;2;Tunis 2;3ème année secondaire Sport ;2
+2021/2022;2;Tunis 2;4ème année secondaire Lettres;19
+2021/2022;2;Tunis 2;4ème année secondaire Mathématiques;23
+2021/2022;2;Tunis 2;4ème année secondaire Sc. Expérimentales;40
+2021/2022;2;Tunis 2;4ème année secondaire Sc.Techniques;23
+2021/2022;2;Tunis 2;4ème année secondaire Sc.Informatique;26
+2021/2022;2;Tunis 2;4ème année secondaire Economie et Gestion;69
+2021/2022;2;Tunis 2;4ème année secondaire Sport ;2
+2021/2022;3;Ariana;7ème année de base;325
+2021/2022;3;Ariana;8ème année de base;257
+2021/2022;3;Ariana;9ème année de base;225
+2021/2022;3;Ariana;1ère année secondaire Tronc commun;223
+2021/2022;3;Ariana;1ère année secondaire Sport;1
+2021/2022;3;Ariana;2ème année secondaire Lettres;24
+2021/2022;3;Ariana;2ème année secondaire Sciences;74
+2021/2022;3;Ariana;2ème année secondaire Technologie informatique;37
+2021/2022;3;Ariana;2ème année secondaire Economie et services;50
+2021/2022;3;Ariana;2ème année secondaire Sport;1
+2021/2022;3;Ariana;3ème année secondaire Lettres;21
+2021/2022;3;Ariana;3ème année secondaire Mathématiques;22
+2021/2022;3;Ariana;3ème année secondaire Sc. Expérimentales;39
+2021/2022;3;Ariana;3ème année secondaire Sc.Techniques;12
+2021/2022;3;Ariana;3ème année secondaire Sc.Informatique;28
+2021/2022;3;Ariana;3ème année secondaire Economie et Gestion;56
+2021/2022;3;Ariana;3ème année secondaire Sport ;1
+2021/2022;3;Ariana;4ème année secondaire Lettres;25
+2021/2022;3;Ariana;4ème année secondaire Mathématiques;24
+2021/2022;3;Ariana;4ème année secondaire Sc. Expérimentales;42
+2021/2022;3;Ariana;4ème année secondaire Sc.Techniques;17
+2021/2022;3;Ariana;4ème année secondaire Sc.Informatique;23
+2021/2022;3;Ariana;4ème année secondaire Economie et Gestion;64
+2021/2022;3;Ariana;4ème année secondaire Sport ;2
+2021/2022;4;Mannouba;7ème année de base;248
+2021/2022;4;Mannouba;8ème année de base;216
+2021/2022;4;Mannouba;9ème année de base;187
+2021/2022;4;Mannouba;1ère année secondaire Tronc commun;182
+2021/2022;4;Mannouba;1ère année secondaire Sport;2
+2021/2022;4;Mannouba;2ème année secondaire Lettres;25
+2021/2022;4;Mannouba;2ème année secondaire Sciences;57
+2021/2022;4;Mannouba;2ème année secondaire Technologie informatique;31
+2021/2022;4;Mannouba;2ème année secondaire Economie et services;47
+2021/2022;4;Mannouba;2ème année secondaire Sport;2
+2021/2022;4;Mannouba;3ème année secondaire Lettres;20
+2021/2022;4;Mannouba;3ème année secondaire Mathématiques;12
+2021/2022;4;Mannouba;3ème année secondaire Sc. Expérimentales;28
+2021/2022;4;Mannouba;3ème année secondaire Sc.Techniques;18
+2021/2022;4;Mannouba;3ème année secondaire Sc.Informatique;15
+2021/2022;4;Mannouba;3ème année secondaire Economie et Gestion;50
+2021/2022;4;Mannouba;3ème année secondaire Sport ;1
+2021/2022;4;Mannouba;4ème année secondaire Lettres;29
+2021/2022;4;Mannouba;4ème année secondaire Mathématiques;12
+2021/2022;4;Mannouba;4ème année secondaire Sc. Expérimentales;36
+2021/2022;4;Mannouba;4ème année secondaire Sc.Techniques;24
+2021/2022;4;Mannouba;4ème année secondaire Sc.Informatique;17
+2021/2022;4;Mannouba;4ème année secondaire Economie et Gestion;52
+2021/2022;4;Mannouba;4ème année secondaire Sport ;1
+2021/2022;5;Ben Arous;7ème année de base;409
+2021/2022;5;Ben Arous;8ème année de base;313
+2021/2022;5;Ben Arous;9ème année de base;288
+2021/2022;5;Ben Arous;1ère année secondaire Tronc commun;265
+2021/2022;5;Ben Arous;1ère année secondaire Sport;1
+2021/2022;5;Ben Arous;2ème année secondaire Lettres;31
+2021/2022;5;Ben Arous;2ème année secondaire Sciences;83
+2021/2022;5;Ben Arous;2ème année secondaire Technologie informatique;56
+2021/2022;5;Ben Arous;2ème année secondaire Economie et services;68
+2021/2022;5;Ben Arous;2ème année secondaire Sport;1
+2021/2022;5;Ben Arous;3ème année secondaire Lettres;30
+2021/2022;5;Ben Arous;3ème année secondaire Mathématiques;29
+2021/2022;5;Ben Arous;3ème année secondaire Sc. Expérimentales;43
+2021/2022;5;Ben Arous;3ème année secondaire Sc.Techniques;21
+2021/2022;5;Ben Arous;3ème année secondaire Sc.Informatique;41
+2021/2022;5;Ben Arous;3ème année secondaire Economie et Gestion;84
+2021/2022;5;Ben Arous;3ème année secondaire Sport ;1
+2021/2022;5;Ben Arous;4ème année secondaire Lettres;38
+2021/2022;5;Ben Arous;4ème année secondaire Mathématiques;29
+2021/2022;5;Ben Arous;4ème année secondaire Sc. Expérimentales;57
+2021/2022;5;Ben Arous;4ème année secondaire Sc.Techniques;30
+2021/2022;5;Ben Arous;4ème année secondaire Sc.Informatique;35
+2021/2022;5;Ben Arous;4ème année secondaire Economie et Gestion;84
+2021/2022;5;Ben Arous;4ème année secondaire Sport ;2
+2021/2022;6;Zaghouan;7ème année de base;142
+2021/2022;6;Zaghouan;8ème année de base;110
+2021/2022;6;Zaghouan;9ème année de base;90
+2021/2022;6;Zaghouan;1ère année secondaire Tronc commun;94
+2021/2022;6;Zaghouan;1ère année secondaire Sport;1
+2021/2022;6;Zaghouan;2ème année secondaire Lettres;15
+2021/2022;6;Zaghouan;2ème année secondaire Sciences;24
+2021/2022;6;Zaghouan;2ème année secondaire Technologie informatique;6
+2021/2022;6;Zaghouan;2ème année secondaire Economie et services;24
+2021/2022;6;Zaghouan;2ème année secondaire Sport;1
+2021/2022;6;Zaghouan;3ème année secondaire Lettres;14
+2021/2022;6;Zaghouan;3ème année secondaire Mathématiques;5
+2021/2022;6;Zaghouan;3ème année secondaire Sc. Expérimentales;13
+2021/2022;6;Zaghouan;3ème année secondaire Sc.Techniques;10
+2021/2022;6;Zaghouan;3ème année secondaire Sc.Informatique;3
+2021/2022;6;Zaghouan;3ème année secondaire Economie et Gestion;27
+2021/2022;6;Zaghouan;3ème année secondaire Sport ;1
+2021/2022;6;Zaghouan;4ème année secondaire Lettres;17
+2021/2022;6;Zaghouan;4ème année secondaire Mathématiques;4
+2021/2022;6;Zaghouan;4ème année secondaire Sc. Expérimentales;13
+2021/2022;6;Zaghouan;4ème année secondaire Sc.Techniques;13
+2021/2022;6;Zaghouan;4ème année secondaire Sc.Informatique;2
+2021/2022;6;Zaghouan;4ème année secondaire Economie et Gestion;26
+2021/2022;6;Zaghouan;4ème année secondaire Sport ;2
+2021/2022;7;Bizerte;7ème année de base;375
+2021/2022;7;Bizerte;8ème année de base;287
+2021/2022;7;Bizerte;9ème année de base;254
+2021/2022;7;Bizerte;1ère année secondaire Tronc commun;234
+2021/2022;7;Bizerte;1ère année secondaire Sport;1
+2021/2022;7;Bizerte;2ème année secondaire Lettres;32
+2021/2022;7;Bizerte;2ème année secondaire Sciences;68
+2021/2022;7;Bizerte;2ème année secondaire Technologie informatique;32
+2021/2022;7;Bizerte;2ème année secondaire Economie et services;68
+2021/2022;7;Bizerte;2ème année secondaire Sport;1
+2021/2022;7;Bizerte;3ème année secondaire Lettres;30
+2021/2022;7;Bizerte;3ème année secondaire Mathématiques;17
+2021/2022;7;Bizerte;3ème année secondaire Sc. Expérimentales;33
+2021/2022;7;Bizerte;3ème année secondaire Sc.Techniques;20
+2021/2022;7;Bizerte;3ème année secondaire Sc.Informatique;19
+2021/2022;7;Bizerte;3ème année secondaire Economie et Gestion;74
+2021/2022;7;Bizerte;3ème année secondaire Sport ;1
+2021/2022;7;Bizerte;4ème année secondaire Lettres;40
+2021/2022;7;Bizerte;4ème année secondaire Mathématiques;22
+2021/2022;7;Bizerte;4ème année secondaire Sc. Expérimentales;48
+2021/2022;7;Bizerte;4ème année secondaire Sc.Techniques;30
+2021/2022;7;Bizerte;4ème année secondaire Sc.Informatique;16
+2021/2022;7;Bizerte;4ème année secondaire Economie et Gestion;80
+2021/2022;7;Bizerte;4ème année secondaire Sport ;2
+2021/2022;8;Béja;7ème année de base;201
+2021/2022;8;Béja;8ème année de base;161
+2021/2022;8;Béja;9ème année de base;152
+2021/2022;8;Béja;1ère année secondaire Tronc commun;147
+2021/2022;8;Béja;1ère année secondaire Sport;3
+2021/2022;8;Béja;2ème année secondaire Lettres;28
+2021/2022;8;Béja;2ème année secondaire Sciences;41
+2021/2022;8;Béja;2ème année secondaire Technologie informatique;11
+2021/2022;8;Béja;2ème année secondaire Economie et services;37
+2021/2022;8;Béja;2ème année secondaire Sport;3
+2021/2022;8;Béja;3ème année secondaire Lettres;23
+2021/2022;8;Béja;3ème année secondaire Mathématiques;10
+2021/2022;8;Béja;3ème année secondaire Sc. Expérimentales;20
+2021/2022;8;Béja;3ème année secondaire Sc.Techniques;14
+2021/2022;8;Béja;3ème année secondaire Sc.Informatique;7
+2021/2022;8;Béja;3ème année secondaire Economie et Gestion;36
+2021/2022;8;Béja;3ème année secondaire Sport ;2
+2021/2022;8;Béja;4ème année secondaire Lettres;33
+2021/2022;8;Béja;4ème année secondaire Mathématiques;10
+2021/2022;8;Béja;4ème année secondaire Sc. Expérimentales;29
+2021/2022;8;Béja;4ème année secondaire Sc.Techniques;22
+2021/2022;8;Béja;4ème année secondaire Sc.Informatique;8
+2021/2022;8;Béja;4ème année secondaire Economie et Gestion;46
+2021/2022;8;Béja;4ème année secondaire Sport ;3
+2021/2022;9;Jendouba;7ème année de base;271
+2021/2022;9;Jendouba;8ème année de base;212
+2021/2022;9;Jendouba;9ème année de base;188
+2021/2022;9;Jendouba;1ère année secondaire Tronc commun;185
+2021/2022;9;Jendouba;1ère année secondaire Sport;2
+2021/2022;9;Jendouba;2ème année secondaire Lettres;40
+2021/2022;9;Jendouba;2ème année secondaire Sciences;47
+2021/2022;9;Jendouba;2ème année secondaire Technologie informatique;24
+2021/2022;9;Jendouba;2ème année secondaire Economie et services;42
+2021/2022;9;Jendouba;2ème année secondaire Sport;1
+2021/2022;9;Jendouba;3ème année secondaire Lettres;32
+2021/2022;9;Jendouba;3ème année secondaire Mathématiques;10
+2021/2022;9;Jendouba;3ème année secondaire Sc. Expérimentales;24
+2021/2022;9;Jendouba;3ème année secondaire Sc.Techniques;18
+2021/2022;9;Jendouba;3ème année secondaire Sc.Informatique;14
+2021/2022;9;Jendouba;3ème année secondaire Economie et Gestion;44
+2021/2022;9;Jendouba;3ème année secondaire Sport ;1
+2021/2022;9;Jendouba;4ème année secondaire Lettres;47
+2021/2022;9;Jendouba;4ème année secondaire Mathématiques;10
+2021/2022;9;Jendouba;4ème année secondaire Sc. Expérimentales;36
+2021/2022;9;Jendouba;4ème année secondaire Sc.Techniques;23
+2021/2022;9;Jendouba;4ème année secondaire Sc.Informatique;14
+2021/2022;9;Jendouba;4ème année secondaire Economie et Gestion;60
+2021/2022;9;Jendouba;4ème année secondaire Sport ;3
+2021/2022;10;Siliana;7ème année de base;166
+2021/2022;10;Siliana;8ème année de base;127
+2021/2022;10;Siliana;9ème année de base;113
+2021/2022;10;Siliana;1ère année secondaire Tronc commun;112
+2021/2022;10;Siliana;1ère année secondaire Sport;1
+2021/2022;10;Siliana;2ème année secondaire Lettres;29
+2021/2022;10;Siliana;2ème année secondaire Sciences;37
+2021/2022;10;Siliana;2ème année secondaire Technologie informatique;11
+2021/2022;10;Siliana;2ème année secondaire Economie et services;26
+2021/2022;10;Siliana;2ème année secondaire Sport;1
+2021/2022;10;Siliana;3ème année secondaire Lettres;29
+2021/2022;10;Siliana;3ème année secondaire Mathématiques;9
+2021/2022;10;Siliana;3ème année secondaire Sc. Expérimentales;20
+2021/2022;10;Siliana;3ème année secondaire Sc.Techniques;15
+2021/2022;10;Siliana;3ème année secondaire Sc.Informatique;7
+2021/2022;10;Siliana;3ème année secondaire Economie et Gestion;27
+2021/2022;10;Siliana;3ème année secondaire Sport ;1
+2021/2022;10;Siliana;4ème année secondaire Lettres;34
+2021/2022;10;Siliana;4ème année secondaire Mathématiques;6
+2021/2022;10;Siliana;4ème année secondaire Sc. Expérimentales;24
+2021/2022;10;Siliana;4ème année secondaire Sc.Techniques;18
+2021/2022;10;Siliana;4ème année secondaire Sc.Informatique;6
+2021/2022;10;Siliana;4ème année secondaire Economie et Gestion;29
+2021/2022;10;Siliana;4ème année secondaire Sport ;1
+2021/2022;11;Le Kef;7ème année de base;146
+2021/2022;11;Le Kef;8ème année de base;130
+2021/2022;11;Le Kef;9ème année de base;126
+2021/2022;11;Le Kef;1ère année secondaire Tronc commun;126
+2021/2022;11;Le Kef;1ère année secondaire Sport;2
+2021/2022;11;Le Kef;2ème année secondaire Lettres;33
+2021/2022;11;Le Kef;2ème année secondaire Sciences;40
+2021/2022;11;Le Kef;2ème année secondaire Technologie informatique;7
+2021/2022;11;Le Kef;2ème année secondaire Economie et services;25
+2021/2022;11;Le Kef;2ème année secondaire Sport;1
+2021/2022;11;Le Kef;3ème année secondaire Lettres;30
+2021/2022;11;Le Kef;3ème année secondaire Mathématiques;5
+2021/2022;11;Le Kef;3ème année secondaire Sc. Expérimentales;23
+2021/2022;11;Le Kef;3ème année secondaire Sc.Techniques;18
+2021/2022;11;Le Kef;3ème année secondaire Sc.Informatique;4
+2021/2022;11;Le Kef;3ème année secondaire Economie et Gestion;26
+2021/2022;11;Le Kef;3ème année secondaire Sport ;1
+2021/2022;11;Le Kef;4ème année secondaire Lettres;44
+2021/2022;11;Le Kef;4ème année secondaire Mathématiques;6
+2021/2022;11;Le Kef;4ème année secondaire Sc. Expérimentales;30
+2021/2022;11;Le Kef;4ème année secondaire Sc.Techniques;22
+2021/2022;11;Le Kef;4ème année secondaire Sc.Informatique;7
+2021/2022;11;Le Kef;4ème année secondaire Economie et Gestion;29
+2021/2022;11;Le Kef;4ème année secondaire Sport ;2
+2021/2022;12;Kasserine;7ème année de base;328
+2021/2022;12;Kasserine;8ème année de base;249
+2021/2022;12;Kasserine;9ème année de base;214
+2021/2022;12;Kasserine;1ère année secondaire Tronc commun;218
+2021/2022;12;Kasserine;1ère année secondaire Sport;2
+2021/2022;12;Kasserine;2ème année secondaire Lettres;53
+2021/2022;12;Kasserine;2ème année secondaire Sciences;66
+2021/2022;12;Kasserine;2ème année secondaire Technologie informatique;14
+2021/2022;12;Kasserine;2ème année secondaire Economie et services;37
+2021/2022;12;Kasserine;2ème année secondaire Sport;2
+2021/2022;12;Kasserine;3ème année secondaire Lettres;48
+2021/2022;12;Kasserine;3ème année secondaire Mathématiques;10
+2021/2022;12;Kasserine;3ème année secondaire Sc. Expérimentales;42
+2021/2022;12;Kasserine;3ème année secondaire Sc.Techniques;17
+2021/2022;12;Kasserine;3ème année secondaire Sc.Informatique;11
+2021/2022;12;Kasserine;3ème année secondaire Economie et Gestion;42
+2021/2022;12;Kasserine;3ème année secondaire Sport ;2
+2021/2022;12;Kasserine;4ème année secondaire Lettres;60
+2021/2022;12;Kasserine;4ème année secondaire Mathématiques;11
+2021/2022;12;Kasserine;4ème année secondaire Sc. Expérimentales;45
+2021/2022;12;Kasserine;4ème année secondaire Sc.Techniques;17
+2021/2022;12;Kasserine;4ème année secondaire Sc.Informatique;10
+2021/2022;12;Kasserine;4ème année secondaire Economie et Gestion;41
+2021/2022;12;Kasserine;4ème année secondaire Sport ;4
+2021/2022;13;Sidi Bouzid;7ème année de base;325
+2021/2022;13;Sidi Bouzid;8ème année de base;251
+2021/2022;13;Sidi Bouzid;9ème année de base;215
+2021/2022;13;Sidi Bouzid;1ère année secondaire Tronc commun;198
+2021/2022;13;Sidi Bouzid;1ère année secondaire Sport;2
+2021/2022;13;Sidi Bouzid;2ème année secondaire Lettres;41
+2021/2022;13;Sidi Bouzid;2ème année secondaire Sciences;64
+2021/2022;13;Sidi Bouzid;2ème année secondaire Technologie informatique;15
+2021/2022;13;Sidi Bouzid;2ème année secondaire Economie et services;45
+2021/2022;13;Sidi Bouzid;2ème année secondaire Sport;2
+2021/2022;13;Sidi Bouzid;3ème année secondaire Lettres;41
+2021/2022;13;Sidi Bouzid;3ème année secondaire Mathématiques;8
+2021/2022;13;Sidi Bouzid;3ème année secondaire Sc. Expérimentales;33
+2021/2022;13;Sidi Bouzid;3ème année secondaire Sc.Techniques;28
+2021/2022;13;Sidi Bouzid;3ème année secondaire Sc.Informatique;6
+2021/2022;13;Sidi Bouzid;3ème année secondaire Economie et Gestion;44
+2021/2022;13;Sidi Bouzid;3ème année secondaire Sport ;2
+2021/2022;13;Sidi Bouzid;4ème année secondaire Lettres;51
+2021/2022;13;Sidi Bouzid;4ème année secondaire Mathématiques;5
+2021/2022;13;Sidi Bouzid;4ème année secondaire Sc. Expérimentales;35
+2021/2022;13;Sidi Bouzid;4ème année secondaire Sc.Techniques;32
+2021/2022;13;Sidi Bouzid;4ème année secondaire Sc.Informatique;6
+2021/2022;13;Sidi Bouzid;4ème année secondaire Economie et Gestion;45
+2021/2022;13;Sidi Bouzid;4ème année secondaire Sport ;3
+2021/2022;14;Gafsa;7ème année de base;250
+2021/2022;14;Gafsa;8ème année de base;204
+2021/2022;14;Gafsa;9ème année de base;179
+2021/2022;14;Gafsa;1ère année secondaire Tronc commun;179
+2021/2022;14;Gafsa;1ère année secondaire Sport;3
+2021/2022;14;Gafsa;2ème année secondaire Lettres;47
+2021/2022;14;Gafsa;2ème année secondaire Sciences;67
+2021/2022;14;Gafsa;2ème année secondaire Technologie informatique;25
+2021/2022;14;Gafsa;2ème année secondaire Economie et services;28
+2021/2022;14;Gafsa;2ème année secondaire Sport;3
+2021/2022;14;Gafsa;3ème année secondaire Lettres;44
+2021/2022;14;Gafsa;3ème année secondaire Mathématiques;11
+2021/2022;14;Gafsa;3ème année secondaire Sc. Expérimentales;49
+2021/2022;14;Gafsa;3ème année secondaire Sc.Techniques;22
+2021/2022;14;Gafsa;3ème année secondaire Sc.Informatique;15
+2021/2022;14;Gafsa;3ème année secondaire Economie et Gestion;27
+2021/2022;14;Gafsa;3ème année secondaire Sport ;2
+2021/2022;14;Gafsa;4ème année secondaire Lettres;54
+2021/2022;14;Gafsa;4ème année secondaire Mathématiques;12
+2021/2022;14;Gafsa;4ème année secondaire Sc. Expérimentales;54
+2021/2022;14;Gafsa;4ème année secondaire Sc.Techniques;26
+2021/2022;14;Gafsa;4ème année secondaire Sc.Informatique;15
+2021/2022;14;Gafsa;4ème année secondaire Economie et Gestion;27
+2021/2022;14;Gafsa;4ème année secondaire Sport ;3
+2021/2022;15;Tozeur;7ème année de base;93
+2021/2022;15;Tozeur;8ème année de base;69
+2021/2022;15;Tozeur;9ème année de base;62
+2021/2022;15;Tozeur;1ère année secondaire Tronc commun;61
+2021/2022;15;Tozeur;1ère année secondaire Sport;2
+2021/2022;15;Tozeur;2ème année secondaire Lettres;9
+2021/2022;15;Tozeur;2ème année secondaire Sciences;24
+2021/2022;15;Tozeur;2ème année secondaire Technologie informatique;7
+2021/2022;15;Tozeur;2ème année secondaire Economie et services;11
+2021/2022;15;Tozeur;2ème année secondaire Sport;2
+2021/2022;15;Tozeur;3ème année secondaire Lettres;11
+2021/2022;15;Tozeur;3ème année secondaire Mathématiques;3
+2021/2022;15;Tozeur;3ème année secondaire Sc. Expérimentales;10
+2021/2022;15;Tozeur;3ème année secondaire Sc.Techniques;8
+2021/2022;15;Tozeur;3ème année secondaire Sc.Informatique;4
+2021/2022;15;Tozeur;3ème année secondaire Economie et Gestion;16
+2021/2022;15;Tozeur;3ème année secondaire Sport ;1
+2021/2022;15;Tozeur;4ème année secondaire Lettres;14
+2021/2022;15;Tozeur;4ème année secondaire Mathématiques;5
+2021/2022;15;Tozeur;4ème année secondaire Sc. Expérimentales;14
+2021/2022;15;Tozeur;4ème année secondaire Sc.Techniques;12
+2021/2022;15;Tozeur;4ème année secondaire Sc.Informatique;4
+2021/2022;15;Tozeur;4ème année secondaire Economie et Gestion;14
+2021/2022;15;Tozeur;4ème année secondaire Sport ;2
+2021/2022;16;Kébili;7ème année de base;139
+2021/2022;16;Kébili;8ème année de base;103
+2021/2022;16;Kébili;9ème année de base;93
+2021/2022;16;Kébili;1ère année secondaire Tronc commun;81
+2021/2022;16;Kébili;1ère année secondaire Sport;2
+2021/2022;16;Kébili;2ème année secondaire Lettres;14
+2021/2022;16;Kébili;2ème année secondaire Sciences;31
+2021/2022;16;Kébili;2ème année secondaire Technologie informatique;8
+2021/2022;16;Kébili;2ème année secondaire Economie et services;18
+2021/2022;16;Kébili;2ème année secondaire Sport;1
+2021/2022;16;Kébili;3ème année secondaire Lettres;11
+2021/2022;16;Kébili;3ème année secondaire Mathématiques;4
+2021/2022;16;Kébili;3ème année secondaire Sc. Expérimentales;18
+2021/2022;16;Kébili;3ème année secondaire Sc.Techniques;10
+2021/2022;16;Kébili;3ème année secondaire Sc.Informatique;5
+2021/2022;16;Kébili;3ème année secondaire Economie et Gestion;20
+2021/2022;16;Kébili;3ème année secondaire Sport ;1
+2021/2022;16;Kébili;4ème année secondaire Lettres;15
+2021/2022;16;Kébili;4ème année secondaire Mathématiques;5
+2021/2022;16;Kébili;4ème année secondaire Sc. Expérimentales;20
+2021/2022;16;Kébili;4ème année secondaire Sc.Techniques;12
+2021/2022;16;Kébili;4ème année secondaire Sc.Informatique;4
+2021/2022;16;Kébili;4ème année secondaire Economie et Gestion;22
+2021/2022;16;Kébili;4ème année secondaire Sport ;2
+2021/2022;17;Tataouine;7ème année de base;112
+2021/2022;17;Tataouine;8ème année de base;86
+2021/2022;17;Tataouine;9ème année de base;77
+2021/2022;17;Tataouine;1ère année secondaire Tronc commun;72
+2021/2022;17;Tataouine;1ère année secondaire Sport;1
+2021/2022;17;Tataouine;2ème année secondaire Lettres;11
+2021/2022;17;Tataouine;2ème année secondaire Sciences;24
+2021/2022;17;Tataouine;2ème année secondaire Technologie informatique;10
+2021/2022;17;Tataouine;2ème année secondaire Economie et services;18
+2021/2022;17;Tataouine;2ème année secondaire Sport;0
+2021/2022;17;Tataouine;3ème année secondaire Lettres;11
+2021/2022;17;Tataouine;3ème année secondaire Mathématiques;2
+2021/2022;17;Tataouine;3ème année secondaire Sc. Expérimentales;15
+2021/2022;17;Tataouine;3ème année secondaire Sc.Techniques;10
+2021/2022;17;Tataouine;3ème année secondaire Sc.Informatique;4
+2021/2022;17;Tataouine;3ème année secondaire Economie et Gestion;23
+2021/2022;17;Tataouine;3ème année secondaire Sport ;0
+2021/2022;17;Tataouine;4ème année secondaire Lettres;14
+2021/2022;17;Tataouine;4ème année secondaire Mathématiques;5
+2021/2022;17;Tataouine;4ème année secondaire Sc. Expérimentales;20
+2021/2022;17;Tataouine;4ème année secondaire Sc.Techniques;13
+2021/2022;17;Tataouine;4ème année secondaire Sc.Informatique;4
+2021/2022;17;Tataouine;4ème année secondaire Economie et Gestion;18
+2021/2022;17;Tataouine;4ème année secondaire Sport ;0
+2021/2022;18;Médenine;7ème année de base;355
+2021/2022;18;Médenine;8ème année de base;257
+2021/2022;18;Médenine;9ème année de base;233
+2021/2022;18;Médenine;1ère année secondaire Tronc commun;215
+2021/2022;18;Médenine;1ère année secondaire Sport;2
+2021/2022;18;Médenine;2ème année secondaire Lettres;30
+2021/2022;18;Médenine;2ème année secondaire Sciences;71
+2021/2022;18;Médenine;2ème année secondaire Technologie informatique;34
+2021/2022;18;Médenine;2ème année secondaire Economie et services;48
+2021/2022;18;Médenine;2ème année secondaire Sport;2
+2021/2022;18;Médenine;3ème année secondaire Lettres;32
+2021/2022;18;Médenine;3ème année secondaire Mathématiques;15
+2021/2022;18;Médenine;3ème année secondaire Sc. Expérimentales;39
+2021/2022;18;Médenine;3ème année secondaire Sc.Techniques;22
+2021/2022;18;Médenine;3ème année secondaire Sc.Informatique;24
+2021/2022;18;Médenine;3ème année secondaire Economie et Gestion;63
+2021/2022;18;Médenine;3ème année secondaire Sport ;1
+2021/2022;18;Médenine;4ème année secondaire Lettres;37
+2021/2022;18;Médenine;4ème année secondaire Mathématiques;19
+2021/2022;18;Médenine;4ème année secondaire Sc. Expérimentales;47
+2021/2022;18;Médenine;4ème année secondaire Sc.Techniques;23
+2021/2022;18;Médenine;4ème année secondaire Sc.Informatique;18
+2021/2022;18;Médenine;4ème année secondaire Economie et Gestion;53
+2021/2022;18;Médenine;4ème année secondaire Sport ;2
+2021/2022;19;Gabès;7ème année de base;270
+2021/2022;19;Gabès;8ème année de base;214
+2021/2022;19;Gabès;9ème année de base;188
+2021/2022;19;Gabès;1ère année secondaire Tronc commun;180
+2021/2022;19;Gabès;1ère année secondaire Sport;2
+2021/2022;19;Gabès;2ème année secondaire Lettres;27
+2021/2022;19;Gabès;2ème année secondaire Sciences;59
+2021/2022;19;Gabès;2ème année secondaire Technologie informatique;18
+2021/2022;19;Gabès;2ème année secondaire Economie et services;40
+2021/2022;19;Gabès;2ème année secondaire Sport;2
+2021/2022;19;Gabès;3ème année secondaire Lettres;28
+2021/2022;19;Gabès;3ème année secondaire Mathématiques;15
+2021/2022;19;Gabès;3ème année secondaire Sc. Expérimentales;32
+2021/2022;19;Gabès;3ème année secondaire Sc.Techniques;26
+2021/2022;19;Gabès;3ème année secondaire Sc.Informatique;10
+2021/2022;19;Gabès;3ème année secondaire Economie et Gestion;50
+2021/2022;19;Gabès;3ème année secondaire Sport ;1
+2021/2022;19;Gabès;4ème année secondaire Lettres;34
+2021/2022;19;Gabès;4ème année secondaire Mathématiques;16
+2021/2022;19;Gabès;4ème année secondaire Sc. Expérimentales;37
+2021/2022;19;Gabès;4ème année secondaire Sc.Techniques;30
+2021/2022;19;Gabès;4ème année secondaire Sc.Informatique;9
+2021/2022;19;Gabès;4ème année secondaire Economie et Gestion;47
+2021/2022;19;Gabès;4ème année secondaire Sport ;2
+2021/2022;20;Sfax 1;7ème année de base;341
+2021/2022;20;Sfax 1;8ème année de base;256
+2021/2022;20;Sfax 1;9ème année de base;226
+2021/2022;20;Sfax 1;1ère année secondaire Tronc commun;242
+2021/2022;20;Sfax 1;1ère année secondaire Sport;4
+2021/2022;20;Sfax 1;2ème année secondaire Lettres;24
+2021/2022;20;Sfax 1;2ème année secondaire Sciences;96
+2021/2022;20;Sfax 1;2ème année secondaire Technologie informatique;17
+2021/2022;20;Sfax 1;2ème année secondaire Economie et services;57
+2021/2022;20;Sfax 1;2ème année secondaire Sport;5
+2021/2022;20;Sfax 1;3ème année secondaire Lettres;22
+2021/2022;20;Sfax 1;3ème année secondaire Mathématiques;27
+2021/2022;20;Sfax 1;3ème année secondaire Sc. Expérimentales;46
+2021/2022;20;Sfax 1;3ème année secondaire Sc.Techniques;30
+2021/2022;20;Sfax 1;3ème année secondaire Sc.Informatique;9
+2021/2022;20;Sfax 1;3ème année secondaire Economie et Gestion;65
+2021/2022;20;Sfax 1;3ème année secondaire Sport ;4
+2021/2022;20;Sfax 1;4ème année secondaire Lettres;30
+2021/2022;20;Sfax 1;4ème année secondaire Mathématiques;31
+2021/2022;20;Sfax 1;4ème année secondaire Sc. Expérimentales;44
+2021/2022;20;Sfax 1;4ème année secondaire Sc.Techniques;31
+2021/2022;20;Sfax 1;4ème année secondaire Sc.Informatique;5
+2021/2022;20;Sfax 1;4ème année secondaire Economie et Gestion;67
+2021/2022;20;Sfax 1;4ème année secondaire Sport ;4
+2021/2022;21;Sfax 2;7ème année de base;312
+2021/2022;21;Sfax 2;8ème année de base;230
+2021/2022;21;Sfax 2;9ème année de base;198
+2021/2022;21;Sfax 2;1ère année secondaire Tronc commun;169
+2021/2022;21;Sfax 2;1ère année secondaire Sport;0
+2021/2022;21;Sfax 2;2ème année secondaire Lettres;19
+2021/2022;21;Sfax 2;2ème année secondaire Sciences;70
+2021/2022;21;Sfax 2;2ème année secondaire Technologie informatique;11
+2021/2022;21;Sfax 2;2ème année secondaire Economie et services;42
+2021/2022;21;Sfax 2;2ème année secondaire Sport;0
+2021/2022;21;Sfax 2;3ème année secondaire Lettres;18
+2021/2022;21;Sfax 2;3ème année secondaire Mathématiques;18
+2021/2022;21;Sfax 2;3ème année secondaire Sc. Expérimentales;29
+2021/2022;21;Sfax 2;3ème année secondaire Sc.Techniques;19
+2021/2022;21;Sfax 2;3ème année secondaire Sc.Informatique;4
+2021/2022;21;Sfax 2;3ème année secondaire Economie et Gestion;49
+2021/2022;21;Sfax 2;3ème année secondaire Sport ;0
+2021/2022;21;Sfax 2;4ème année secondaire Lettres;20
+2021/2022;21;Sfax 2;4ème année secondaire Mathématiques;19
+2021/2022;21;Sfax 2;4ème année secondaire Sc. Expérimentales;35
+2021/2022;21;Sfax 2;4ème année secondaire Sc.Techniques;17
+2021/2022;21;Sfax 2;4ème année secondaire Sc.Informatique;4
+2021/2022;21;Sfax 2;4ème année secondaire Economie et Gestion;45
+2021/2022;21;Sfax 2;4ème année secondaire Sport ;0
+2021/2022;22;Mahdia;7ème année de base;320
+2021/2022;22;Mahdia;8ème année de base;227
+2021/2022;22;Mahdia;9ème année de base;192
+2021/2022;22;Mahdia;1ère année secondaire Tronc commun;190
+2021/2022;22;Mahdia;1ère année secondaire Sport;3
+2021/2022;22;Mahdia;2ème année secondaire Lettres;31
+2021/2022;22;Mahdia;2ème année secondaire Sciences;60
+2021/2022;22;Mahdia;2ème année secondaire Technologie informatique;13
+2021/2022;22;Mahdia;2ème année secondaire Economie et services;42
+2021/2022;22;Mahdia;2ème année secondaire Sport;3
+2021/2022;22;Mahdia;3ème année secondaire Lettres;27
+2021/2022;22;Mahdia;3ème année secondaire Mathématiques;13
+2021/2022;22;Mahdia;3ème année secondaire Sc. Expérimentales;27
+2021/2022;22;Mahdia;3ème année secondaire Sc.Techniques;20
+2021/2022;22;Mahdia;3ème année secondaire Sc.Informatique;7
+2021/2022;22;Mahdia;3ème année secondaire Economie et Gestion;47
+2021/2022;22;Mahdia;3ème année secondaire Sport ;4
+2021/2022;22;Mahdia;4ème année secondaire Lettres;31
+2021/2022;22;Mahdia;4ème année secondaire Mathématiques;15
+2021/2022;22;Mahdia;4ème année secondaire Sc. Expérimentales;28
+2021/2022;22;Mahdia;4ème année secondaire Sc.Techniques;23
+2021/2022;22;Mahdia;4ème année secondaire Sc.Informatique;9
+2021/2022;22;Mahdia;4ème année secondaire Economie et Gestion;40
+2021/2022;22;Mahdia;4ème année secondaire Sport ;3
+2021/2022;23;Kairouan;7ème année de base;407
+2021/2022;23;Kairouan;8ème année de base;296
+2021/2022;23;Kairouan;9ème année de base;242
+2021/2022;23;Kairouan;1ère année secondaire Tronc commun;231
+2021/2022;23;Kairouan;1ère année secondaire Sport;2
+2021/2022;23;Kairouan;2ème année secondaire Lettres;37
+2021/2022;23;Kairouan;2ème année secondaire Sciences;70
+2021/2022;23;Kairouan;2ème année secondaire Technologie informatique;20
+2021/2022;23;Kairouan;2ème année secondaire Economie et services;60
+2021/2022;23;Kairouan;2ème année secondaire Sport;2
+2021/2022;23;Kairouan;3ème année secondaire Lettres;36
+2021/2022;23;Kairouan;3ème année secondaire Mathématiques;17
+2021/2022;23;Kairouan;3ème année secondaire Sc. Expérimentales;37
+2021/2022;23;Kairouan;3ème année secondaire Sc.Techniques;22
+2021/2022;23;Kairouan;3ème année secondaire Sc.Informatique;9
+2021/2022;23;Kairouan;3ème année secondaire Economie et Gestion;71
+2021/2022;23;Kairouan;3ème année secondaire Sport ;2
+2021/2022;23;Kairouan;4ème année secondaire Lettres;50
+2021/2022;23;Kairouan;4ème année secondaire Mathématiques;18
+2021/2022;23;Kairouan;4ème année secondaire Sc. Expérimentales;44
+2021/2022;23;Kairouan;4ème année secondaire Sc.Techniques;31
+2021/2022;23;Kairouan;4ème année secondaire Sc.Informatique;11
+2021/2022;23;Kairouan;4ème année secondaire Economie et Gestion;72
+2021/2022;23;Kairouan;4ème année secondaire Sport ;4
+2021/2022;24;Monastir;7ème année de base;421
+2021/2022;24;Monastir;8ème année de base;323
+2021/2022;24;Monastir;9ème année de base;272
+2021/2022;24;Monastir;1ère année secondaire Tronc commun;279
+2021/2022;24;Monastir;1ère année secondaire Sport;4
+2021/2022;24;Monastir;2ème année secondaire Lettres;27
+2021/2022;24;Monastir;2ème année secondaire Sciences;101
+2021/2022;24;Monastir;2ème année secondaire Technologie informatique;37
+2021/2022;24;Monastir;2ème année secondaire Economie et services;62
+2021/2022;24;Monastir;2ème année secondaire Sport;5
+2021/2022;24;Monastir;3ème année secondaire Lettres;26
+2021/2022;24;Monastir;3ème année secondaire Mathématiques;30
+2021/2022;24;Monastir;3ème année secondaire Sc. Expérimentales;41
+2021/2022;24;Monastir;3ème année secondaire Sc.Techniques;40
+2021/2022;24;Monastir;3ème année secondaire Sc.Informatique;23
+2021/2022;24;Monastir;3ème année secondaire Economie et Gestion;75
+2021/2022;24;Monastir;3ème année secondaire Sport ;4
+2021/2022;24;Monastir;4ème année secondaire Lettres;32
+2021/2022;24;Monastir;4ème année secondaire Mathématiques;26
+2021/2022;24;Monastir;4ème année secondaire Sc. Expérimentales;48
+2021/2022;24;Monastir;4ème année secondaire Sc.Techniques;46
+2021/2022;24;Monastir;4ème année secondaire Sc.Informatique;18
+2021/2022;24;Monastir;4ème année secondaire Economie et Gestion;76
+2021/2022;24;Monastir;4ème année secondaire Sport ;4
+2021/2022;25;Sousse;7ème année de base;477
+2021/2022;25;Sousse;8ème année de base;362
+2021/2022;25;Sousse;9ème année de base;301
+2021/2022;25;Sousse;1ère année secondaire Tronc commun;293
+2021/2022;25;Sousse;1ère année secondaire Sport;4
+2021/2022;25;Sousse;2ème année secondaire Lettres;44
+2021/2022;25;Sousse;2ème année secondaire Sciences;105
+2021/2022;25;Sousse;2ème année secondaire Technologie informatique;25
+2021/2022;25;Sousse;2ème année secondaire Economie et services;70
+2021/2022;25;Sousse;2ème année secondaire Sport;4
+2021/2022;25;Sousse;3ème année secondaire Lettres;40
+2021/2022;25;Sousse;3ème année secondaire Mathématiques;28
+2021/2022;25;Sousse;3ème année secondaire Sc. Expérimentales;46
+2021/2022;25;Sousse;3ème année secondaire Sc.Techniques;43
+2021/2022;25;Sousse;3ème année secondaire Sc.Informatique;12
+2021/2022;25;Sousse;3ème année secondaire Economie et Gestion;80
+2021/2022;25;Sousse;3ème année secondaire Sport ;4
+2021/2022;25;Sousse;4ème année secondaire Lettres;51
+2021/2022;25;Sousse;4ème année secondaire Mathématiques;25
+2021/2022;25;Sousse;4ème année secondaire Sc. Expérimentales;49
+2021/2022;25;Sousse;4ème année secondaire Sc.Techniques;48
+2021/2022;25;Sousse;4ème année secondaire Sc.Informatique;10
+2021/2022;25;Sousse;4ème année secondaire Economie et Gestion;76
+2021/2022;25;Sousse;4ème année secondaire Sport ;4
+2021/2022;26;Nabeul;7ème année de base;515
+2021/2022;26;Nabeul;8ème année de base;380
+2021/2022;26;Nabeul;9ème année de base;324
+2021/2022;26;Nabeul;1ère année secondaire Tronc commun;290
+2021/2022;26;Nabeul;1ère année secondaire Sport;1
+2021/2022;26;Nabeul;2ème année secondaire Lettres;48
+2021/2022;26;Nabeul;2ème année secondaire Sciences;92
+2021/2022;26;Nabeul;2ème année secondaire Technologie informatique;43
+2021/2022;26;Nabeul;2ème année secondaire Economie et services;61
+2021/2022;26;Nabeul;2ème année secondaire Sport;3
+2021/2022;26;Nabeul;3ème année secondaire Lettres;39
+2021/2022;26;Nabeul;3ème année secondaire Mathématiques;29
+2021/2022;26;Nabeul;3ème année secondaire Sc. Expérimentales;44
+2021/2022;26;Nabeul;3ème année secondaire Sc.Techniques;28
+2021/2022;26;Nabeul;3ème année secondaire Sc.Informatique;30
+2021/2022;26;Nabeul;3ème année secondaire Economie et Gestion;75
+2021/2022;26;Nabeul;3ème année secondaire Sport ;1
+2021/2022;26;Nabeul;4ème année secondaire Lettres;48
+2021/2022;26;Nabeul;4ème année secondaire Mathématiques;30
+2021/2022;26;Nabeul;4ème année secondaire Sc. Expérimentales;51
+2021/2022;26;Nabeul;4ème année secondaire Sc.Techniques;36
+2021/2022;26;Nabeul;4ème année secondaire Sc.Informatique;28
+2021/2022;26;Nabeul;4ème année secondaire Economie et Gestion;85
+2021/2022;26;Nabeul;4ème année secondaire Sport ;1
+2021/2022;1;Tunis 1;8ème année technique;9
+2021/2022;1;Tunis 1;9ème année technique;9
+2021/2022;2;Tunis 2;8ème année technique;2
+2021/2022;2;Tunis 2;9ème année technique;2
+2021/2022;3;Ariana;8ème année technique;9
+2021/2022;3;Ariana;9ème année technique;6
+2021/2022;4;Mannouba;8ème année technique;7
+2021/2022;4;Mannouba;9ème année technique;5
+2021/2022;5;Ben Arous;8ème année technique;10
+2021/2022;5;Ben Arous;9ème année technique;8
+2021/2022;6;Zaghouan;8ème année technique;2
+2021/2022;6;Zaghouan;9ème année technique;3
+2021/2022;7;Bizerte;8ème année technique;9
+2021/2022;7;Bizerte;9ème année technique;13
+2021/2022;8;Béja;8ème année technique;9
+2021/2022;8;Béja;9ème année technique;8
+2021/2022;9;Jendouba;8ème année technique;2
+2021/2022;9;Jendouba;9ème année technique;2
+2021/2022;10;Siliana;8ème année technique;3
+2021/2022;10;Siliana;9ème année technique;3
+2021/2022;11;Le Kef;8ème année technique;2
+2021/2022;11;Le Kef;9ème année technique;1
+2021/2022;12;Kasserine;8ème année technique;2
+2021/2022;12;Kasserine;9ème année technique;2
+2021/2022;13;Sidi Bouzid;8ème année technique;7
+2021/2022;13;Sidi Bouzid;9ème année technique;7
+2021/2022;14;Gafsa;8ème année technique;5
+2021/2022;14;Gafsa;9ème année technique;5
+2021/2022;15;Tozeur;8ème année technique;2
+2021/2022;15;Tozeur;9ème année technique;2
+2021/2022;16;Kébili;8ème année technique;6
+2021/2022;16;Kébili;9ème année technique;6
+2021/2022;17;Tataouine;8ème année technique;4
+2021/2022;17;Tataouine;9ème année technique;3
+2021/2022;18;Médenine;8ème année technique;11
+2021/2022;18;Médenine;9ème année technique;8
+2021/2022;19;Gabès;8ème année technique;15
+2021/2022;19;Gabès;9ème année technique;15
+2021/2022;20;Sfax 1;8ème année technique;9
+2021/2022;20;Sfax 1;9ème année technique;12
+2021/2022;21;Sfax 2;8ème année technique;3
+2021/2022;21;Sfax 2;9ème année technique;3
+2021/2022;22;Mahdia;8ème année technique;12
+2021/2022;22;Mahdia;9ème année technique;10
+2021/2022;23;Kairouan;8ème année technique;11
+2021/2022;23;Kairouan;9ème année technique;8
+2021/2022;24;Monastir;8ème année technique;11
+2021/2022;24;Monastir;9ème année technique;10
+2021/2022;25;Sousse;8ème année technique;21
+2021/2022;25;Sousse;9ème année technique;15
+2021/2022;26;Nabeul;8ème année technique;19
+2021/2022;26;Nabeul;9ème année technique;13

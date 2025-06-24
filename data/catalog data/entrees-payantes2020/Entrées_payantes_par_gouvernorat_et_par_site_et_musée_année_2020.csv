@@ -1,0 +1,52 @@
+gov_name_f,gov_id,Sites-et-musees,Janvier,Fevrier,Mars,Avril,Mai,Juin,Juillet,Aout,Septembre,Octobre,Novembre,Decembre,TOTAL
+Tunis,11,Musée du Bardo,6572,5431,1860,0,0,83,314,942,1395,608,260,475,17940
+Tunis,11,Musée de Carthage,3844,3673,1249,0,0,71,259,974,1893,1208,314,485,13970
+Tunis,11,Les Thermes d'Antonin,4467,3928,1684,0,0,74,307,814,1041,1078,219,351,13963
+Tunis,11,Villas Romaines,331,376,144,0,0,8,57,102,45,65,47,69,1244
+Tunis,11,Amphithéatre de Carthage,450,405,199,0,0,4,39,48,56,115,41,27,1384
+Tunis,11,Tophet Salambo,796,649,300,0,0,25,9,63,22,121,19,35,2039
+Tunis,11,Théatre Romain,272,94,22,0,0,0,7,21,0,10,0,3,429
+Ben Arous,13,Site Oudhna,759,1179,431,0,0,235,68,113,258,781,965,574,5363
+Bizerte,17,Site et musée Utique,166,309,78,0,0,78,65,90,94,138,159,213,1390
+Nabeul,15,Borj Hammamet,690,702,217,0,0,38,158,226,86,68,45,106,2336
+Nabeul,15,Site et Musée Kerkouene,1073,788,338,0,0,106,360,899,218,244,71,143,4240
+Nabeul,15,Musée de Nabeul,82,113,61,0,0,2,28,34,13,19,11,16,379
+Nabeul,15,Pupput Hammamet,73,93,43,0,0,0,22,11,18,10,0,5,275
+Nabeul,15,Fort Khélibia,803,723,258,0,0,327,1074,2256,626,327,263,330,6987
+Nabeul,15,Haouaria,33,0,0,0,0,0,0,0,0,0,0,0,33
+Nabeul,15,Site Néapolis,34,56,40,0,0,2,11,16,7,23,14,9,212
+Zaghouan,16,Thuburbo Majus,330,267,213,0,0,14,32,18,28,52,12,41,1007
+Siliana,24,Site et musée Makhtar,95,171,71,0,0,15,17,45,35,41,25,72,587
+Béja,21,Site de Dougga,2717,2984,1104,0,0,210,150,326,431,754,284,871,9831
+Jendouba,22,Site et musée Bulla Régia,531,664,268,0,0,73,133,132,118,196,111,370,2596
+Jendouba,22,Site et musée Chimtou,72,44,9,0,0,11,12,10,16,14,1,32,221
+Le Kef,23,ATP Kef,38,83,18,0,0,22,20,21,17,26,10,55,310
+Kassérine,42,Site et musée de Sbeitla,1120,1080,448,0,0,134,181,247,238,209,129,291,4077
+Kairouan,41,Kairouan,4182,2534,1042,0,0,0,56,49,292,193,1,24,8373
+Kairouan,41,Mosquée Okba,1013,713,246,0,0,20,41,97,43,60,1,50,2284
+Kairouan,41,Abou Zomaa El Balaoui,196,135,56,0,0,8,6,6,4,0,3,5,419
+Kairouan,41,Musée Raqqada,58,23,0,0,0,20,15,14,9,0,14,20,173
+Sousse,31,Musée de Sousse,1125,1250,564,0,0,30,99,273,237,186,50,136,3950
+Sousse,31,Ribat Sousse,1577,1471,452,0,0,36,93,283,270,186,76,115,4559
+Sousse,31,Musée Enfidha,17,23,10,0,0,12,23,10,9,8,17,9,138
+Sousse,31,Grand Mosquée de Sousse,200,184,54,0,0,2,0,24,17,13,0,0,494
+Monastir,32,Ribat Monastir,1869,2281,827,0,0,297,756,1311,738,357,268,578,9282
+Monastir,33,ATP Monastir,24,42,7,0,0,6,16,44,11,6,7,1,164
+Monastir,34,musée bourguiba,325,447,112,0,0,83,124,337,122,101,86,173,1910
+Monastir,35,Musée de Lamta,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mahdia,33,Musée El Jem,276,278,163,0,0,4,16,75,23,84,4,35,958
+Mahdia,34,Colisée El Jem,8449,6961,2725,0,0,438,1098,2562,3077,2290,534,1301,29435
+Mahdia,35,Borj Mahdia,216,227,96,0,0,62,141,318,119,76,40,67,1362
+Mahdia,36,Musée Mahdia,99,67,47,0,0,14,71,112,37,29,3,24,503
+Mahdia,37,Salakta,10,17,15,0,0,27,15,32,3,7,1,14,141
+Sfax,34,ATP Sfax,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sfax,34,Musée de Sfax,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sfax,34,Kasbah Sfax,93,158,18,0,0,8,6,26,23,22,27,21,402
+Gafsa,61,Musée de Gafsa,11,3,0,0,0,5,0,3,0,0,0,10,32
+Gafsa,61,Escargotière de Gafsa,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kebili,63,Musée de Douz,52,96,54,0,0,4,3,2,6,12,5,10,244
+Médenine,52,Mosquée Fadhloun Djerba,86,97,59,0,0,1,40,36,23,51,7,4,404
+Médenine,52,M.patrimoine traditionnel.Djerba,227,227,98,0,0,12,51,84,185,135,6,36,1061
+Médenine,52,Musée de Zarzis,11,19,7,0,0,4,1,21,4,3,4,6,80
+Médenine,52,BGM Jerba,652,603,265,0,0,63,156,299,441,328,79,247,3133
+Médenine,52,Gightis,48,28,20,0,0,9,8,9,13,22,2,16,175

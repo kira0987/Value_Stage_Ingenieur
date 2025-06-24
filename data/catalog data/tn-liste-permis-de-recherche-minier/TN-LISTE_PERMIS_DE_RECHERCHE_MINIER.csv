@@ -1,0 +1,65 @@
+;Permis de recherche;Groupe/Produit;Titulaire;Situation;Gouvernorat;Superficie (Ha);Date institution Permis;JORT N°;Date du JORT;Validité Permis
+;Jebel Boujabeur;3ème groupe;European Industrial And Base Metals (90%) ONM (10%);2ème renouvellement;Le Kef;690;29/03/2006;12;08/02/2013;06/04/2015
+;Fej Lahdoum;3ème groupe;North Africa Mining And Minerals (90%) ONM (10%);2ème renouvellement;Béja-Siliana;336;29/03/2006;12;08/02/2013;06/04/2015
+;Jebel remila;3ème groupe;Tunisian Mining Services;2ème renouvellement;Kasserine;1200;28/07/2009;96;01/12/2015;03/08/2016
+;Oued Jebs;3ème groupe;Tunisian Mining Services;1er renouvellement;Béja;400;08/09/2011;85;21/10/2014;15/09/2017
+;Sidi Driss;3ème groupe;Tunisian Mining Services;1er renouvellement;Bizerte;1600;08/09/2011;85;21/10/2014;15/09/2017
+;Kef Er Sass;3ème groupe;Tunisian Mining Services;Institution;Jendouba;1600;22/04/2016;33;22/04/2016;21/04/2019
+;Sidi Bouaoune;3ème groupe;Société d'Exploitation Minière;1er renouvellement;Jendouba;1600;23/02/2011;85;21/10/2014;03/03/2017
+;Boukhil;3ème groupe;Société d'Exploitation Minière;1er renouvellement;Siliana;800;23/02/2011;85;21/10/2014;03/03/2017
+;Kebbouch;3ème groupe;Société d'Exploitation Minière;1er renouvellement;Le Kef;1600;21/03/2012;90;10/11/2015;26/03/2017
+;Jebel Fej Lahdoum;3ème groupe;Office National des Mines;1er renouvellement;Béja-Siliana;2064;15/01/2013;36;03/05/2016;07/02/2019
+;Hammam-Zriba-Jebel Guebi;3ème groupe;Office National des Mines;1er renouvellement;Zaghouan;3600;29/04/2013;73;06/09/2016;06/05/2019
+;Diar Loubet;3ème groupe;"société minière et sidérurgique de Tunisie ""SMST""";1er renouvellement;Le Kef;800;16/04/2013;73;06/09/2016;22/04/2018
+;Jebel Hamra;3ème groupe;société de produits de revêtement des bâtiments;1er renouvellement;Kasserine;1600;24/04/2013;73;06/09/2016;02/05/2019
+;Jebel Lorbeus;3ème groupe;High Marsh Holdings Tunisia;Institution;Le Kef;6000;22/04/2016;33;22/04/2016;21/04/2019
+;Sidi Taya;3ème groupe;Tarek Souissi;Institution;Zaghouan;800;22/04/2016;33;22/04/2016;21/04/2019
+;Sebkhat El Brigua;4ème groupe/Sel;Cotusal;1er renouvellement;Medenine;4400;21/03/2012;90;10/11/2015;26/03/2018
+;Sebkhet Mechiguig;4ème groupe/Sel;Tahar Hached;Institution;Sidi Bouzid;4400;21/03/2012;24;27/03/2012;26/03/2015
+;Sebkhat Oum El Khialate;4ème groupe/Sel;Société les Salines de Tataouine;1er renouvellement;Tataouine;4400;16/04/2013;73;06/09/2016;22/04/2017
+;Sebkhet Boujmal;4ème groupe/Sel;Mourad Mejai;Institution;Medenine;1200;22/04/2016;33;22/04/2016;21/04/2019
+;Jebel Hdhifa;4ème groupe/Sel;Société Safir Immobilière;Institution;Gabès;1600;22/04/2016;33;22/04/2016;21/04/2019
+;Sebkhet Tader;4ème groupe/Sel;Jilani Jouili;Institution;Medenine;5200;22/04/2016;33;22/04/2016;21/04/2019
+;Sidi El Heni Occidentale;4ème groupe/Sel;Société City Sel;Institution;Mehdia-Sousse;1600;22/04/2016;33;22/04/2016;21/04/2019
+;Sebhat En Naouel;4ème groupe/Sel;Africa Business Engineering;Institution;Sfax-Sidi Bouzid;24000;22/04/2016;33;22/04/2016;21/04/2019
+;Halk El Menzel;4ème groupe/Sel;Sotusel;Institution;Sousse;4800;22/04/2016;33;22/04/2016;21/04/2019
+;Sebkhet Samara;4ème groupe/Sel;Sel d'Or;Institution;Sfax;2000;22/04/2016;33;22/04/2016;21/04/2019
+;Ain Maider;4ème groupe/Sel;Medisel;Institution;Medenine;1200;22/04/2016;33;22/04/2016;21/04/2019
+;Sebkhet Aïn Maider;4ème groupe/Sel;Abdelfattah Kharrat;Institution;Medenine;4800;22/04/2016;33;22/04/2016;21/04/2019
+;Boujmal;4ème groupe/Sel;Tusco;Institution;Medenine;1200;22/04/2016;33;22/04/2016;21/04/2019
+;Sebkhet El Jem;4ème groupe/Sel;Société Les Sels de Carthage;Institution;Sfax;3200;22/04/2016;33;22/04/2016;21/04/2019
+;El Mahassen;4ème groupe/Sel;Africa Business Engineering;Institution;Tozeur;800;23/052016;53;29/06/2016;28/06/2019
+;Menchia-Chott Jérid;4ème groupe/Sel;ETPT Carrières;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Chott Jerid;4ème groupe/Sel;Salakta Fertilizer Company;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;El Moncef;4ème groupe/Sel;La Chimique de Tunisie;Institution;Tozeur;800;23/05/2006;53;29/06/2016;28/06/2019
+;Djerid;4ème groupe/Sel;Société Pure Djerid Salt;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;El Nakhla;4ème groupe/Sel;"société Tunisienne des Analyses du Sol ""STIASE""";Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Tozrous;4ème groupe/Sel;société Djerid Sel;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Bouhlel;4ème groupe/Sel;société Chott Djerid Sel;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Neptus;4ème groupe/Sel;"société Oasis de Sel ""SOS""";Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Dguech;4ème groupe/Sel;Tahar Oudira;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Chott Ouest;4ème groupe/Sel;société Sel de Djerid;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Hawadef;4ème groupe/Sel;EcoSalt Plus;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Chott Rebeh;4ème groupe/Sel;société Chott Djerid Sel;Institution;Tozeur;800;23/05/2016;53;29/06/2016;28/06/2019
+;Adam;4ème groupe/Sel;Yasmine Bentchikou;Institution;Tozeur;800;08/08/2016;73;06/09/2016;05/09/2019
+;Bouchniba;4ème groupe/Sel;société Moderne de Salines;Institution;Kebili;800;08/08/2016;73;06/09/2016;05/09/2019
+;Chott Fejej;4ème groupe/Sel;sociétéTunisienne des Services Internationaux;Institution;Gabès;800;27/06/2016;73;06/09/2016;05/09/2019
+;Chott El Garsa;4ème groupe/Sel;société de transport et services pétroliers;Institution;Tozeur;1600;27/06/2016;73;06/09/2016;05/09/2019
+;Jebel Jebs;4ème groupe/Gypse;Salakta Mining Company;Institution;Sidi Bouzid;800;04/08/2011;60;12/08/2011;11/08/2014
+;Jebel grimissa;4ème groupe/Gypse;Société New North Africa;Institution;Tataouine;800;21/03/2012;24;27/03/2012;26/03/2015
+;Aziz;4ème groupe/Gypse;Slim Sifaoui;1er renouvellement;Tataouine;800;01/12/2015;96;01/12/2015;26/03/2016
+;Mezouna;4ème groupe/Gypse;société Power King International Mena;Institution;Sidi Bouzid;400;22/04/2016;33;22/04/2016;21/04/2019
+;Jebel El Ahzem;4ème groupe/Gypse;société Ben Zayed de commerce international;Institution;Sidi Bouzid;1200;22/04/2016;33;22/04/2016;21/04/2019
+;Koudiat Ez-Zitoun;4ème groupe/Gypse;société Alfa Système;Institution;Le Kef;400;22/04/2016;33;22/04/2016;21/04/2019
+;Koudiat En-Nab Lazreg;4ème groupe/Gypse;société Alfa Système;Institution;Le Kef;400;22/04/2016;33;22/04/2016;21/04/2019
+;Lâababsa;4ème groupe/Gypse;société La plâtrière du Jebel Ressas;Institution;Ben Arous;800;22/04/2016;33;22/04/2016;21/04/2019
+;Oued El Gabel Est;4ème groupe/Gypse;Naceur Fathallah;Institution;Tataouine;800;27/06/2016;73;06/09/2016;05/09/2019
+;Bir Zitoune;4ème groupe/Gypse;société du Gypse du Sud;Institution;Tataouine;400;27/06/2016;73;06/09/2016;05/09/2019
+;Jebel Oum Ed  Debba;4ème groupe/Gypse;société Mareth Matériaux de Construction;Institution;Tataouine;400;27/06/2016;73;06/09/2016;05/06/2019
+;Merbah Chtioua;4ème groupe/Gypse;société Montage et Services;Institution;Tataouine;400;27/06/2016;73;06/09/2016;05/06/2019
+;Bir Lafou;5ème groupe/Phosphate;Tunisian Mining Services;1er renouvellement;Le Kef;5200;10/02/2010;37;07/05/2013;15/02/2016
+;Chaketma;5ème groupe/Phosphate;société Chaketma Phosphates;2ème renouvellement;Kasserine;5600;10/02/2010;33;22/04/2016;15/02/2018
+;Nefta-Tozeur;5ème groupe/Phosphate;Compagnie des Phosphates de Gafsa;1er renouvellement;Tozeur;22400;21/03/2012;90;10/11/2015;26/03/2018
+;Zabbeus-Abdallah-Gourguiba-Kef En Nsour;5ème groupe/Phosphate;Compagnie des Phosphates de Gafsa;1er renouvellement;Sidi Bouzid;30000;29/04/2013;73;06/09/2016;06/05/2019
+;Sra Ouertane;5ème groupe/Phosphate;société d'Etudes  d'Exploitation du Phosphate de Sra Ouertane;1er renouvellement;Le Kef;3600;15/01/2013;73;06/09/2016;07/02/2019
+;Kalaa Khasba;5ème groupe/Phosphate;Société d'Exploitation Minière;Institution;Le Kef;4800;22/04/2016;33;22/04/2016;21/04/2019

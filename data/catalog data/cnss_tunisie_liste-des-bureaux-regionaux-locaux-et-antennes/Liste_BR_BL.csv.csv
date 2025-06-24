@@ -1,0 +1,56 @@
+Code_BR,Nat_Etablissement,Localite,Adresse,Code_Postal,Gouvernorat,Code_Gouvernorat
+10,BR régional,Ariana,Avenue de l'indépendance,2080,l'Ariana,12
+12,BR régional,Manouba,Rue El Masjed El Aksa,2010,Manouba,14
+65,BR local,Mournaguia,"29, Avenue Habib Bourguiba ",1110,Manouba,14
+13,BR régional,Ben Arous,Cité Administrative Km 5 GP1,2013,Ben Arous,13
+14,BR local,Hammam Lif,Angle des rues Ali Ben Ayed et Farouk Aouididi,2050,Ben Arous,13
+16,BR régional,Nabeul,Avenue Habib Bourguiba ,8000,Nabeul,15
+17,BR local,Soliman,Avenue Habib Thameur-Route de Grombalia Km1,8020,Nabeul,15
+18,BR local,Menzel Temime,Avenue Béchir Ben Fadhel- Route de la Plage,8080,Nabeul,15
+19,BR local,Zaghouan,Rue de Palestine,1100,Zaghouan,16
+20,BR local,Hammamet,Avenue Hédi Wali ,8050,Nabeul,15
+22,BR local,Bizerte,"Avenue Farhat Hached, Route cimetière des martyrs",7000,Bizerte,17
+23,BR local,Menzel Bourguiba,Rue Aboulkassem Echabi.,7050,Bizerte,17
+24,BR local,Ras Jebel,"104, Avenue Habib Bougatfa",7070,Bizerte,17
+25,BR régional,Béja,Rue Aboulkacem Echebi,9000,Béja,21
+42,BR local,Medjez el-Bab,Route Béja Km 1 Cité Chamek,9170,Béja,21
+28,BR régional,Jendouba,Avenue Habib Bourguiba,8100,Jendouba,22
+29,BR local,Bou Salem,Avenue Taieb M'hiri ,8170,Jendouba,22
+30,BR local,Tabarka,Rue Essaada Résidence Tabarka Centre,8110,Jendouba,22
+31,BR régional,Le Kef,"5, rue Ahmed Amara",7100,Le Kef,23
+34,BR régional,Siliana,Route de Gaafour,6100,Siliana,24
+36,BR local,Haffouz,Avenue Mohamed V,3130,Kairouan,41
+37,BR régional,Kairouan,Rue de Fès,3100,Kairouan,41
+38,BR local,El Jem,Avenue de l'environnement,5160,Mahdia,33
+40,BR régional,Kasserine,Avenue Habib Bourguiba,1200,Kasserine,42
+43,BR régional,Sidi Bouzid,Avenue Habib Bourguiba ,9100,Sidi Bouzid,43
+44,BR local,Regueb,Route Maknassy,9170,Sidi Bouzid,43
+46,BR régional,Sousse,Avenue de la République,4000,Sousse,31
+47,BR local,Hammam Sousse,Route de Tunis n°208 ,4011,Sousse,31
+48,BR local,M'saken,Oued Echargui- Route de Sousse,4070,Sousse,31
+49,BR régional,Monastir,Avenue Farhat Hached ,5000,Monastir,32
+50,BR local,Jebeniana,Avenue Habib Bourguiba,3080,Sfax,34
+51,BR local,Ksar Helal,Rue Mohamed Bouzouita,5070,Monastir,32
+52,BR régional,Mahdia,Avenue du 02 mars 1934,5100,Mahdia,33
+53,BR régional,Sfax Nord,Avenue Ahmed Aloulou Nouvel Sfax,3027,Sfax,34
+54,BR local,Kerkennah,"Rue Ibn Sina, Erramla",3070,Sfax,34
+55,BR régional,Sfax Centre,"31, rue Habib Thameur",3029,Sfax,34
+56,BR local,Sakiet Ezzit,"Route de Tunis Km 5,5",3021,Sfax,34
+58,BR régional,Gafsa,Rue du Caire cité des jeunes,2133,Gafsa,61
+61,BR régional,Tozeur,Route de Nefta,2200,Tozeur,62
+62,BR local,Metlaoui,Policlinique Metlaoui Cité Thelja,2130,Gafsa,61
+64,BR régional,Kebili,Route de Gabès,4200,Kebili,63
+67,BR régional,Gabes,Avenue de la République,6002,Gabes,51
+69,BR local,El Hamma,Route Kebili SOMBAT,6013,Gabes,51
+70,BR régional,Medenine,Avenue Habib Bourguiba ,4100,Medenine,52
+71,BR local,Djerba,Avenue Salah Ben Youssef. Houmet Souk,4185,Medenine,52
+72,BR local,Zarzis ,Avenue Tahar Sfar,4170,Medenine,52
+73,BR régional,Tataouine,Avenue Habib Bourguiba,3200,Tataouine,53
+74,Antenne,Benguerdene,Avenue de Tunis,4160,Medenine,52
+80,BR régional,Tunis Belvédère,"8, Rue de Beyrout",1002,Tunis,11
+81,BR régional,Tunis Centre,"12, Avenue de Madrid",1006,Tunis,11
+82,BR local,Raoued,Rue Inkhilette,2083,l'Ariana,12
+83,BR régional,Tunis Sud,Rue Bab EL Gorjani,1008,Tunis,11
+84,BR local,Le Bardo,"11, Avenue de la république",2000,Tunis,11
+85,BR régional,Tunis Nord,"3, Rue Jean Jaques Rousseau",1002,Tunis,11
+86,BR local,Le Kram,"23, Rue de l'ivoire.",2015,Tunis,11

@@ -1,0 +1,18 @@
+Bibliotheque,Delegation,Siege-enfants,Siege-jeunes-adultes,Nbre-salles,Surface-couvert,Nbre-employes,Fonds-arabe,Fonds-latin,Fonds-enfants,Fonds-jeunes-adultes,Abonnes-enfants,Abonnes-jeunes-adultes,Abonnes-male,Abonnes-femelle,Lecteurs-enfants,Lecteurs-jeunes-adultes,Lecteurs-male,Lecteurs-femelle,Livres-lus,Livres-empruntes
+Bibliothèque Régionale de Medenine,Medenine Sud,50,121,5,472,11,27211,7864,9961,25114,579,761,403,937,7440,8296,5578,10158,56770,8120
+Bibliothèque Publique Medenine Nord,Medenine Nord,41,47,5,637,9,14534,3894,8845,9583,209,319,180,348,625,348,422,551,978,1502
+Bibliothèque Publique  Sidi Makhlouf,Sidi Makhlouf,44,40,3,380,3,12532,2662,7551,7643,79,24,43,60,645,626,580,691,3726,1340
+Bibliothèque Publique Béni Kadèche,Béni Kadèche,28,50,2,93,3,14653,3597,8373,9877,202,98,119,181,2047,1480,1365,2162,3650,2887
+Bibliothèque Publique Ben Guerdane,Ben Guerdane,49,90,2,180,7,16931,5657,10457,12131,301,198,192,307,1304,1428,1177,1555,13802,9992
+Bibliothèque Publique Zarzis,Zarzis,64,129,3,277,4,14455,7239,4755,16939,254,220,123,351,2096,9627,3779,7944,40201,2459
+Bibliothèque Publique El Mouanessa,Zarzis,43,53,2,140,3,10427,2487,5553,7361,75,18,41,52,372,472,354,490,1971,1652
+Bibliothèque Publique Midoun,Midoun,63,124,4,806,3,17830,6867,8384,16313,198,540,229,509,1690,3810,1859,3641,9731,5404
+Bibliothèque Publique Sedwikch,Midoun,26,24,3,175,2,9402,2594,4903,7093,123,71,58,136,687,552,359,880,2848,596
+Bibliothèque Publique Guellala,Ajim,32,60,5,320,1,11567,2986,7812,6741,206,34,96,144,1603,621,806,1418,2648,1432
+Bibliothèque Publique  Ajim,Ajim,24,68,1,95,2,11356,2701,5074,8983,179,104,124,159,449,908,558,799,1803,1168
+Bibliothèque Publique Riadh,Houmt Souk,79,53,4,170,2,12784,3611,7754,8641,276,125,146,255,2897,1256,1483,2670,8966,7683
+Bibliothèque Publique Houmt Souk,Houmt Souk,85,107,5,621,5,25198,10361,13016,22543,308,531,264,575,2887,4371,2042,5216,12586,8494
+Bibliothèque Ambulante Medenine,Medenine Sud,0,0,0,0,1,2040,881,2350,571,532,21,212,341,0,0,641,1434,0,16520
+Bibliothèque Ambulante Medenine 1,Medenine Sud,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bibliothèque Ambulante Djerba,Houmt Souk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bibliothèque Publique  El  May,Midoun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

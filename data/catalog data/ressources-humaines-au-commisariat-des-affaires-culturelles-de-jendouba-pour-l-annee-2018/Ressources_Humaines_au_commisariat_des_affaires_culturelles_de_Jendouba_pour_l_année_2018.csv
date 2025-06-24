@@ -1,0 +1,14 @@
+"Categorie","Grade","Situation_professionnelle","Nombre"
+"Cadre","A1","Titulaire",3
+"Cadre","A1","Contractuel",1
+"Cadre","A2","Titulaire",6
+"Cadre","A2","Temporaire",1
+"Cadre","A3","Titulaire",1
+"Agent","B","Titulaire",1
+"Agent","C","Titulaire",1
+"Agent","D","Titulaire",1
+"Ouvrier","Categorie_1","Titulaire",2
+"Ouvrier","Categorie_1","Temporaire",2
+"Ouvrier","Categorie_2","Titulaire",3
+"Ouvrier","Categorie_2","Temporaire",2
+"Ouvrier","Categorie_4","Stagiaire",1

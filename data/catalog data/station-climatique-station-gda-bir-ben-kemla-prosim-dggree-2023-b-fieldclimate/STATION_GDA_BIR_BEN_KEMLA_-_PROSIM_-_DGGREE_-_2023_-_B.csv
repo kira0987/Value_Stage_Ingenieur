@@ -1,0 +1,25 @@
+Date,nom_ar,nom_fr,unite,valeur
+2025-05-05 04:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-05 04:00:00,Battery,Battery,mV,6319.0
+2025-05-05 03:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-05 03:00:00,Battery,Battery,mV,6319.0
+2025-05-05 02:00:00,Battery,Battery,mV,6319.0
+2025-05-05 02:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-05 01:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-05 01:00:00,Battery,Battery,mV,6319.0
+2025-05-05 00:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-05 00:00:00,Battery,Battery,mV,6319.0
+2025-05-04 23:00:00,Battery,Battery,mV,6323.0
+2025-05-04 23:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-04 22:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-04 22:00:00,Battery,Battery,mV,6328.0
+2025-05-04 21:00:00,Battery,Battery,mV,6328.0
+2025-05-04 21:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-04 20:00:00,Battery,Battery,mV,6339.0
+2025-05-04 20:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-05-04 07:00:00,Solar Panel,Solar Panel,mV,6661.0
+2025-05-04 07:00:00,Battery,Battery,mV,6379.0
+2025-05-04 06:00:00,Solar Panel,Solar Panel,mV,6665.0
+2025-05-04 06:00:00,Battery,Battery,mV,6377.0
+2025-05-04 05:00:00,Battery,Battery,mV,6323.0
+2025-05-04 05:00:00,Solar Panel,Solar Panel,mV,6571.0

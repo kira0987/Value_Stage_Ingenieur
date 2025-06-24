@@ -1,0 +1,406 @@
+﻿القطاع;"القطــاع الفرعي";"رمز الاختصاص";"تسمية الإختصاص";رمز;الشهادة;"مدة التكوين بالسنة"
+;;301204;Ferrailleur;حدائدي;"ش ك م";1
+;;301210;"Poseur de revêtements souples pour sols et murs";"مركب التكسية اللينة للأرضيات والجدران";"ش ك م";1
+;;301214;Piscinier;"معد أحواض السباحة";"ش ك م";
+;;301306;"Technicien en laboratoire option béton";"تقني مخبر اختيار خرسانة";"م ت م";2
+;;301310;"Chef de chantier en travaux d'échafaudages";"رئيس حضيرة في أشغال الصقالات";"م ت م";2
+;;301402;"Technicien supérieur en sécurité sur chantier de bâtiment et travaux publics";"تقني سام في السلامة بحضائر البناء والأشغال العمومية";"م ت س";2.5
+;;301403;"Technicien supérieur en  béton précontraint";"تقني سام في الخرسانة المضغوطة";"م ت س";2.5
+;;302102;"Fabricant de meubles en panneaux";"صانع أثاث من اللوح المضغوط";"ش م";
+;;302106;"Conducteur de machines à bois";"مسير آلات النجارة";"ش م";
+;;302206;"Sculpteur sur bois";"نقاش على الخشب";"ش ك م";1.5
+;;302402;"Technicien supérieur de gestion en production de bois et d'ameublement";"تقني سام في التصرف في إنتاج  الخشب والأثاث";"م ت س";
+;;303202;"Installateur thermique et sanitaire";"مجهز حراري  وصحي";"ش ك م";1.5
+;;303303;"Dessinateur projeteur en climatisation";"رسام مصمم في تكييف الهواء";"م ت م";2
+;;303308;"Chef de chantier en plomberie sanitaire";"رئيس حضيرة في اللحام الصحي";"م ت م";2
+;;401301;"Technicien en design textile";"تقني مصمم في النسيج";"م ت م";2
+;"CONFECTION 
+  الخياطة";402103;"Agent en coupe industrielle";"عون في القص الصناعي";"ش م";
+;;402201;"Agent de fabrication des industries de l'habillement";"عون في صناعة الملابس";"ش ك م";1.5
+;;402303;"Technicien en fabrication des industries de l'habillement";"تقني في صناعة الملابس";"م ت م";2
+"CUIR ET CHAUSSURES
+ الجلــــــــود و الأحــــــذية";"CHAUSSURES 
+  الأحذيـــــــة";501101;"Préparateur tige";"محضر وجه الحذاء";"ش م";
+;;501201;Chausseur;إسـكـــــــــافــي;"ش ك م";2
+;;501302;"Technicien en méthodes des industries du cuir et chaussures";"تقني في أساليب صناعة الجلد والأحذية";"م ت م";2
+;;502201;Maroquinier;"صانع لوازم جلدية";"ش ك م";2
+;;601106;"Aide en maintenance  mécanique";"مساعد في الصيانة الميكانيكية";"ش م";
+;;601201;"Opérateur sur machines outils";"مشغل آلات الأدوات";"ش ك م";2
+;"MECANIQUE D'ENTRETIEN
+الصيـانة الآلية";602201;"Agent de maintenance des systèmes mécaniques";"عون صيانة الأنظمة الميكانيكية";"ش ك م";2
+;;603104;"Soudeur à l'arc avec électrode réfractaire (TIG)";"لحام بالقوس الكهربائي باستخدام التقنستان والغاز الخامل";"ش م";
+;;604102;"Aide ferronnier soudeur";"مساعد حداد لحام";"ش م";
+;;604301;"Dessinateur d'étude en construction métallique";"رسام دراسات في البناء المعدني";"م ت م";2
+;;605301;"Technicien régleur en industrie plastique";"تقني معدل في صناعة البلاستيك";"م ت م";2
+;"FORAGE  
+  التنقــيــب";606201;Sondeur;"عون تنقيب";"ش ك م";1
+;;607301;"Technicien en horlogerie";"تقني ساعاتي";"م ت م";2
+;;701104;"Aide tabletier câbleur en électricité";"مساعد مركب الأسلاك الكهربائية";"ش م";
+;;701105;"Aide réparateur des équipements  électroménagers";"مساعد مصلح التجهيزات الكهربائية المنزلية";"ش م";
+;;701205;"Installateur en électricité de bâtiment";"مركب في كهرباء البناء";"ش ك م";1
+;;701304;"Technicien en maintenance industrielle option matériel de confection";"تقني في الصيانة الصناعية  اختيار آلات الخياطة";"م ت م";2
+;;701310;"Technicien en fabrication des systèmes électriques";"تقني في صناعة الأنظمة الكهربائية";"م ت م";2
+;;701314;"Monteur d’ascenseurs";"مركب مصاعد";"م ت م";2
+;;701402;"Technicien supérieur en systèmes de sécurité incendie";"تقني سام في أنظمة السلامة  من الحرائق";"م ت س";2.5
+"ELECTRICITE ET ELECTRONIQUE 
+الكهربــــــــــــاء والإلكـــــــــترونيك";"ELECTRONIQUE 
+  الإلكترونيك";702101;"Ouvrier en installation des composantes électroniques";"عامل في تركيب القطع الالكترونية";"ش م";
+;;702305;"Technicien en automatisme et informatique industrielle";"تقني في الآلية والإعلامية الصناعية";"م ت م";2
+;;702309;"Technicien de fabrication en électronique";"تقني في صناعة الإلكترونيك";"م ت م";2
+;;702403;"Technicien supérieur en techniques de conception pour l'industrie électronique";"تقني سام في تقنيات التصميم للصناعة الإلكترونية";"م ت س";2
+;;702405;"Technicien supérieur en développement des systèmes intelligents et informatique industrielle";"تقني سام في تطوير الأنظمة الذكية والإعلامية الصناعية";"م ت س";
+;;703402;"Technicien supérieur en infrastructure et réseaux d'accès";"تقني سام في البنى التحتية والشبكات";"م ت س";2.5
+;;801402;"Technicien supérieur en emballage et conditionnement en industries agro-alimentaires";"تقني سام في التغليف والتعبئة في الصناعات الغذائية";"م ت س";2.5
+;"ALIMENTATION
+التغذية";802201;"Agent d'abattage";"عون مسالخ";"ش ك م";2
+;;902102;"Conducteur de niveleuses et de compacteurs";"سائق آلة تسوية وآلة رص";"ش م";
+;;902108;"Conducteur de pelles hydrauliques";"سائق حفارة";"ش م";
+;;903106;"Agent d'entretien et de montage des pneus";"عون تعهد وتركيب العجلات";"ش م";
+;;903110;"Aide en montage et réparation de bicyclettes et de motocycles";"مساعد مصلح دراجات عادية ونارية";"ش م";
+;;903205;"Mécanicien diéséliste poids lourd";"ميكانيكي محركات ديزل شاحنات ثقيلة";"ش ك م";1
+;;903305;"Technicien en électricité et électronique automobile";"تقني في كهرباء وإلكترونيك السيارات";"م ت م";2
+;;904302;"Technicien de maintenance et de réparation des machines agricoles";"تقني في صيانة وإصلاح المعدات الفلاحية";"م ت م";2
+;;905202;"Agent de manutention";"عون شحن وترصيف";"ش ك م";1
+;;905401;"Logisticien de distribution";"لوجيستيكي في التوزيع";"م ت س";2
+"TOURISME ET HOTELLERIE
+ السيــــــــاحة و الـفـنـدقــة";"TOURISME ET ANIMATION
+السياحة والتـنـشـيـط";1001301;"Technicien en animation touristique";"تقني في التنشيط السياحي";"م ت م";2
+;;1001403;"Technicien supérieur en tourisme option promotion et gestion de ventes de voyages";"تقني سام في السياحة اختيار التنمية والتصرف في مبيعات الأسفار";"م ت س";
+;;1002104;"Aide pâtissier";"مساعد مرطباتي";"ش م";
+;;1002202;"Agent de restaurant et bar";"عون مطعم وحانة";"ش ك م";2
+;;1002303;"Technicien d'accueil et de réception";"تقني استقبال";"م ت م";2
+"METIERS D'ART ET DE L'ARTISANAT
+ الحرف الفنية والتقليدية";"METIERS DU CUIR ET CHAUSSURES
+حرف الجلود والأحذية";1101101;"Fabricant d'articles artisanaux en cuir";"صانع لوازم تقليدية من الجلد";"ش م";
+;"METIERS DU BOIS
+حرف الخشب";1102102;"Aide en sculpture et décoration artisanale sur bois";"مساعد في النحت والتزويق التقليدي على الخشب";"ش م";
+;"METIERS DES FIBRES VEGETALES 
+حرف الألياف النباتية";1103101;"Aide artisan en fabrication de produits en osier, palmier et rotin";"مساعد حرفي في صنع منتوجات القصب وعود الجريد والخيزران";"ش م";
+;;1104201;"Artisan en tapis, tapisserie murale et tissage bédouin";"حرفي في صناعة الزربية والمنسوجات الحائطية والنسيج البدوي";"ش ك م";2
+;;1105102;"Ouvrier en broderie traditionnelle";"عامل في التطريز التقليدي";"ش م";
+;;1105104;"Ouvrier en bonneterie mécanique et manuelle";"عامل في الزرد الآلي واليدوي";"ش م";
+;;1105204;"Artisan en bonneterie manuelle";"حرفي في الزرد اليدوي";"ش ك م";
+;;1106202;Joaillerie;المجوهرات;"ش ك م";2
+;;1106204;"Artisan en fabrication de filigrane";"حرفي في صناعة المصوغ المشبك";"ش ك م";
+;;1107201;"Ferronnier d'art";"حداد فني";"ش ك م";2
+;;1107301;"Technicien en ferronnerie d'art";"تقني في الحدادة الفنية";"م ت م";2
+;;1108201;"Décorateur en céramique";"مزوق على الخزف";"ش ك م";2
+;;1108205;"Artisan en gravure et sculpture sur pierre et marbre";"حرفي في النحت والنقش على الحجارة  والرخام";"ش ك م";
+;;1109202;"Verrier au chalumeau";"حرفي زجاج بنفاثة النار";"ش ك م";2
+;;1109301;"Technicien en arts et techniques du verre option verre froid";"تقني في فنون وتقنيات البلور اختيار البلور البارد";"م ت م";2
+;;1110203;"Artisan en fabrication des instruments musicaux artisanaux";"حرفي في صنع الآلات الموسيقية التقليدية";"ش ك م";
+"EMPLOIS DE BUREAU, COMMERCE ET INFORMATIQUE
+ الوظائف الإدارية والتجارة والإعلامية";"COMMERCE ET COMPTABILITE 
+ التجارة  و المحـــــــاسبة";1202301;"Comptable d'entreprise";"محاسب منشأة";"م ت م";2
+;;1202402;"Technicien supérieur en commerce";"تقني سام في التجارة";"م ت س";2.5
+;;1202403;"Technicien supérieur en commerce international";"تقني سام في التجارة الدولية";"م ت س";2.5
+"SERVICES ET INDUSTRIES DIVERS
+الخدمات والصناعات المختلفة";"ARTS GRAPHIQUES  
+ فنون الطباعة";1301101;"Agent d'impression";"عون في الطباعة";"ش م";
+;;1301303;"Technicien en finition des travaux d'impression";"تقني في إنهاء أشغال الطباعة";"م ت م";2
+;"SPÉCIALITES PARA - MEDICALES ET INDUSTRIES PHARMACEUTIQUES
+الإختـصـاصات شـــبه الطــــبيّة والصناعات الصيدلية";1302201;"Aide préparateur en pharmacie";"معين محضر صيدلي";"ش ك م";2
+;;1302303;"Préparateur en laboratoires de biologie médicale";"محضرفي مخابرالبيولوجيا الطبية";"م ت م";2
+;;1303301;"Technicien en esthétique";"تقني في التجميل";"م ت م";2
+;;1304201;"Vendeur caissier étalagiste";"بائع قابض مرفف";"ش ك م";2
+;"ELEVAGE 
+ تربية الحيوانات";104103;"Ouvrier en cuniculture";"عامل في تربية الأرانب";"ش م";
+;;301203;Maçon;بنـــاء;"ش ك م";1
+;;301211;"Chef d'équipe en travaux d’échafaudages";"رئيس فريق في أشغال الصقالات";"ش ك م";
+;;301301;"Chef de chantier en bâtiment";"رئيـــس حضـــيرة بنـــاء";"م ت م";2
+;;301307;"Chef de chantier en travaux de peinture";"رئيس حضيرة في أشغال الدهن";"م ت م";2
+;;301311;"Chef de chantier en travaux de bétonnage";"رئيس حضيرة أشغال صب الخرسانة";"م ت م";2
+;;301404;"Technicien supérieur en industrie du béton";"تقني سام في صناعة الخرسانة";"م ت س";2.5
+;;302103;"Poseur d'ouvrages de menuiserie en bois";"مركب هياكل من الخشب";"ش م";
+;;302108;"Aide tapissier de meubles";"مساعد مغلف أثاث";"ش م";
+;;302201;"Menuisier ébéniste";"نجار أثاث موبيليا";"ش ك م";2
+;;302207;"Fabricant des sièges";"صانع مقاعد";"ش ك م";1.5
+;"SANITAIRE FROID ET CLIMATISATION   
+  التجــهيز الصحـي والتبريد وتكـييف الهـــواء";303101;"Aide monteur de climatiseurs";"مساعد مركب مكيفات الهواءِ";"ش م";
+;;303203;"Agent d'entretien en climatisation";"عون تعهد في تكييف الهواء";"ش ك م";1.5
+;;303304;"Technicien de maintenance en froid industriel";"تقني صيانة في التبريد الصناعي";"م ت م";2
+;;303401;"Technicien supérieur en climatisation";"تقني سام في تكييف الهواء";"م ت س";2.5
+"TEXTILE ET HABILLEMENT
+النســــــيج  والإكســــــــاء";"TISSAGE   
+ النســـــــيج";401105;"Conducteur de machines de lavage de produits textiles";"مشغل آلات غسل المواد المنسوجة";"ش م";
+;;401302;"Technicien en contrôle qualité textile";"تقني في مراقبة جودة النسيج";"م ت م";2
+;;402104;"Piqueur sur tissé et non tissé";"غراز المواد المنسوجة والغير منسوجة";"ش م";
+;;402202;"Tailleur hommes et dames";"خياط للرجال و النساء";"ش ك م";2
+;;402401;"Technicien supérieur styliste modéliste des industries de l'habillement";"تقني سام في التصميم والابتكار في صناعة الملابس";"م ت س";2.5
+;;501102;"Piqueur tige";"غراز وجه الحذاء";"ش م";
+;;501202;"Coupeur cuir et chaussures";"فصال أحذية  ولوازم جلدية";"ش ك م";1
+;;501303;"Technicien en design et modélisme de chaussures";"تقني في تصميم الأحذية";"م ت م";2
+;;502301;"Technicien en design et modélisme du cuir";"تقني في تصميم المنتوجات الجلدية";"م ت م";2
+;;601301;"Technicien en fabrication mécanique";"تقني في الصناعة الميكانيكية";"م ت م";2
+;"SOUDURE
+   اللحــــــــــام";603101;"Soudeur à l'arc avec électrode enrobée (SAEE)";"لحام بالقوس الكهربائي باستخدام المعدن المغلف";"ش م";
+;;603201;"Soudeur monteur";"لحام مركب";"ش ك م";2
+;;603301;"Technicien en contrôle qualité en construction métallique";"تقني في مراقبة الجودة في البناء المعدني";"م ت م";2
+;;604103;"Aide menuisier aluminium";"مساعد في نجارة أليمنيوم";"ش م";
+;;604203;"Tuyauteur industriel";"أنابيبي صناعي";"ش ك م";1
+;;604302;"Technicien traceur chaudronnier soudeur";"تقني رسام مطالة سميكة ولحام";"م ت م";2
+;;605302;"Technicien en fabrication et entretien des moules et outillages";"تقني في صناعة وصيانة القوالب والأدوات";"م ت م";2
+;;606301;"Technicien en maintenance des équipements de forage";"تقني في صيانة تجهيزات التنقيب";"م ت م";2
+"ELECTRICITE ET ELECTRONIQUE 
+الكهربــــــــــــاء والإلكـــــــــترونيك";"ELECTRO- TECHNIQUE 
+  الكهرباء التقنية";701101;"Aide installateur en électricité de bâtiment";"مساعد مركب في كهرباء البناء";"ش م";
+;;701301;"Technicien en maintenance des ascenseurs";"تقني في صيانة المصاعد";"م ت م";2
+;;701305;"Technicien en maintenance industrielle option machines du cuir";"تقني في الصيانة الصناعية  اختيار آلات الجلد";"م ت م";2
+;;701307;"Technicien en maintenance des équipements de cuisine professionnelle et buanderie";"تقني في صيانة تجهيزات المطبخ والتنظيف";"م ت م";2
+;;701311;"Technicien en maintenance des équipements maritimes de courant fort";"تقني في صيانة التجهيزات البحرية - تيارات قوية";"م ت م";2
+;;701315;"Dessinateur en électricité";"رسام في الكهرباء";"م ت م";2
+;;701403;"Technicien supérieur en électricité de bâtiment";"تقني سام في كهرباء البناء";"م ت س";2.5
+;;702301;"Technicien en maintenance des équipements électriques industriels";"تقني في صيانة التجهيزات الكهربائية الصناعية";"م ت م";2
+;;702306;"Technicien en pilotage de systèmes de production automatisés";"تقني في قيادة أنظمة الإنتاج";"م ت م";2
+;;702310;"Technicien en maintenance électronique des systèmes automatisés";"تقني في الصيانة الإلكترونية للأنظمة الآلية";"م ت م";2
+;"TELECOMMUNICATIONS
+  الإتصـــــــــالات";703303;"Technicien en électronique maritime";"تقني في إلكترونيك البحرية";"م ت م";2
+"AGRO-ALIMENTAIRE
+الصنــــاعـــــات الغــــذائيــــــة";"INDUSTRIES ALIMENTAIRES
+الصناعات الغذائية";801201;"Agent des industries agro- alimentaires option lait et dérivés";"عون في الصناعات الغذائية  اختيار الحليب ومشتقاته";"ش ك م";2
+;;802202;Boucher;جزار;"ش ك م";2
+;;902103;"Conducteur de chargeuses";"سائق آلة تحميل";"ش م";
+;;902201;"Conducteur d'engins de chantier";"سائق  معدات الحضائر";"ش ك م";2
+;"MAINTENANCE DES VEHICULES ET DES MOTEURS  
+ صيانة العربـــات والمحـركـات";903102;"Aide mécanicien de véhicules légers";"مساعد ميكانيكي سيارات خفيفة";"ش م";
+;;903107;"Aide tôlier carrossier peintres automobiles";"مساعد مطال ودهان السيارات";"ش م";
+;;903111;"Aide tapissier automobiles";"مساعد في تغليف السيارات";"ش م";
+;;903401;"Technicien supérieur en maintenance et services après-vente de l'automobile";"تقني سام في صيانة ومصلحة بعد البيع للسيارات";"م ت س";2.5
+;;904303;"Electromécanicien des grues à tours";"كهربائي ميكانيكي رافعات قارة";"م ت م";2
+;;905203;"Agent d'entrepôt";"عون مخزن";"ش ك م";1
+;;1001302;"Technicien en vente des produits touristiques";"تقني في بيع المنتوجات السياحية";"م ت م";2
+;"HOTELLERIE ET RESTAURATION  
+ الفـنـدقــــة  والمطاعم";1002101;"Employé de hall";"عون بهو";"ش م";
+;;1002105;"Aide boulanger";"مساعد خباز";"ش م";
+;;1002106;"Aide chocolatier";"مساعد في صنع الشكولاطة";"ش م";
+;;1002203;"Agent de nettoyage et d'entretien";"عون تنظيف وتعهد";"ش ك م";2
+;;1002304;"Technicien de cuisine";"تقني في الطبخ";"م ت م";2
+;;1101201;"Artisan en fabrication de selles et de produits en cuir brodé";"حرفي في صناعة السرج ومنتوجات جلدية مطرزة";"ش ك م";
+;;1102103;"Fabricant d'objets en bois d'olivier";"صانع لوازم من خشب الزيتون";"ش م";
+;;1103201;"Artisan en fabrication de produits en alfa, sparte et jonc";"حرفي في صنع منتوجات الحلفاء والسعف والسمار";"ش ك م";1
+;;1104202;"Artisan en tissage fin";"حرفي في صناعة الحرائر";"ش ك م";2
+;;1105201;"Artisan de vêtements traditionnels pour hommes";"حرفي في اللباس التقليدي الرجالي";"ش ك م";2
+;;1105205;"Artisan en fabrication de chéchia";"حرفي في صناعة الشاشية";"ش ك م";
+;;1106203;"Artisan en fabrication des articles en argent";"حرفي في صناعة الفضيات";"ش ك م";
+;;1106301;"Technicien en bijouterie et joaillerie";"تقني في  المصوغ والمجوهرات";"م ت م";2
+;;1107202;"Agent en fonderie d'art";"عون في السباكة الفنية";"ش ك م";2
+;;1107302;"Technicien en fonderie d'art";"تقني في السباكة الفنية";"م ت م";2
+;"METIERS DE L'ARGILE ET DE LA PIERRE 
+   حرف الطين والحجارة";1108101;Potier;"صانع لوازم من الفخار";"ش م";
+;;1108202;"Agent en fabrication de modèles et moules en céramique";"عون في صناعة نماذج وقوالب من الخزف";"ش ك م";2
+;;1108206;"Artisan en mosaïque et calepinage";"حرفي في الفسيفساء والتّبليط";"ش ك م";2
+;;1109203;Vitrailliste;"صانع زجاجيات";"ش ك م";2
+;;1109302;"Technicien en arts et techniques du verre option verre chaud";"تقني في فنون وتقنيات البلور اختيار البلور الساخن";"م ت م";2
+;;1110204;"Artisan en fabrication des lanternes";"حرفي في صنع الفوانيس";"ش ك م";
+;;1202302;"Technicien commercial de distribution";"تقني في تجارة التوزيع";"م ت م";2
+;"INFORMATIQUE ET MULTIMEDIA
+  الاعلامية  والوسائط المتعددة";1203301;"Technicien de soutien en informatique de gestion";"تقني مساندة في إعلامية  التصرف";"م ت م";2
+;;1301104;"Relieur manuel";"عامل في التسفير اليدوي";"ش م";
+;;1301304;"Technicien en sérigraphie";"تقني في السيرغرافيا";"م ت م";2
+;;1301401;"Technicien supérieur en industries graphiques";"تقني سام في صناعات الطباعة";"م ت س";
+;;1302202;"Agent en prothèse dentaire";"عون في صنع الأسنان";"ش ك م";2
+;;1302306;"Assistant de vie";"مرافق حياة";"م ت م";2
+"SERVICES ET INDUSTRIES DIVERS
+الخدمات والصناعات المختلفة";"SERVICES DIVERS
+  خدمــات متــفـرقـة";1304102;"Vendeur option articles de bonneterie et d'habillement";"بائع اختيارلوازم النسيج والزرد";"ش م";
+;;1304202;"Assistant d'éducation de la prime enfance";"مساعد تربوي  للطفولة الأولى";"ش ك م";
+"AGRICULTURE
+ الفــــــــــــلاحــــــة";"HORTICULTURE
+البستنة";101201;"Agent d'entretien et d'aménagement des espaces verts";"عون تعهد وتهيئة المساحات الخضراء";"ش ك م";2
+;;301103;"Aide poseur de revêtements souples pour sols et murs";"مساعد مركب التكسية اللينة للأرضيات والجدران";"ش م";
+;;301207;"Peintre en bâtiment";"دهان في البناء";"ش ك م";1
+;;301208;"Poseur de revêtements durs";"مركب التكسية";"ش ك م";1
+;;301212;Bétonneur;"عون في الخرسانة";"ش ك م";1
+;;301303;"Technicien géomètre topographe";"تـقــنـي مسـاح في قـيـس الأراضي";"م ت م";2
+;;301308;"Chef de chantier en travaux de ferraillage";"رئيس حضيرة في  أشغال الحدادة";"م ت م";2
+;;301312;"Chef de chantier en revêtement de façades";"رئيس حضيرة في تكسية الواجهات";"م ت م";2
+;;301405;"Magasinier de matériel, équipements et matériaux de bâtiment et travaux publics";"حافظ مغازة لآلات ومعدات البناء والأشغال العمومية";"م ت س";2.5
+;;302104;"Fabricant de meubles en bois massif";"صانع أثاث من الخشب";"ش م";
+;;302204;"Tapissier de meubles";"مغـــــلف أثــــــــاث";"ش ك م";2
+;;302301;"Technicien en fabrication d'ameublement";"تقني في إنتاج الموبيليا";"م ت م";2
+;;303102;"Aide réparateur de réfrigérateurs";"مساعد مصلح ثلاجات";"ش م";
+;;303103;"Aide installateur thermique et sanitaire";"مساعد مجهز حراري وصحي";"ش م";
+;;303301;"Technicien de maintenance en climatisation";"تقني صيانة في تكييف الهواء";"م ت م";2
+;;303305;"Technicien en gestion technique centralisée";"تقني في التصرف الفني المركزي";"م ت م";2
+;"TRAVAUX PUBLICS 
+ الأشغال العمومية";304203;"Poseur de canalisation et accessoires";"مركب شبكة القنوات وتوابعها";"ش ك م";1
+;;401201;"Conducteur de machines textiles";"مشغل آلات النسيج";"ش ك م";2
+;;401303;"Technicien en production tissage";"تقني في إنتاج النسيج";"م ت م";2
+;;402106;"Piqueur sur maille fine et balnéaire";"غراز المزرودات الدقيقة";"ش م";
+;;402107;"Aide tailleur";"مساعد خياط";"ش م";
+;;402301;"Technicien en méthodes des industries de l'habillement";"تقني في أساليب صناعة الملابس";"م ت م";2
+;;402402;"Technicien supérieur qualiticien des industries de l'habillement";"تقني سام في الجودة في صناعة الملابس";"م ت س";2.5
+;"BONNETERIE 
+ الزرد";403201;"Agent en production maille";"عون في إنتاج الزرد";"ش ك م";2
+;;501103;"Aide coupeur cuir et chaussures";"مساعد فصال أحذية  ولوازم جلدية";"ش م";
+;;501203;"Préparateur piquage, piqueur en chaussures";"مجهز غرز وغراز أحذية";"ش ك م";1
+;;501401;"Technicien supérieur en production de chaussures";"تقني سام في إنتاج الأحذية";"م ت س";2.5
+"MECANIQUE GENERALE ET CONSTRUCTION METALLIQUE 
+ الآلـــــية العـــــــامة و التركــــــــيب المعــــدني";"FABRICATION MECANIQUE 
+  الصنـاعة الآلـية";601101;Tourneur;"عامل في الخراطة";"ش م";
+;;601302;"Technicien en contrôle qualité en mécanique";"تقني في مراقبة الجودة في الآلية";"م ت م";2
+;;603102;"Soudeur oxyacéthylénique (SOA)";"لحام باستخدام الأكسيجين والأساتيلان";"ش م";
+;;603302;"Technicien en soudage montage";"تقني في اللحام والتركيب";"م ت م";2
+;;604104;"Aide menuisier métallique";"مساعد في النجارة المعدنية";"ش م";
+;;604204;"Charpentier métallique";"بناء هياكل معدنية";"ش ك م";1
+;;604206;"Monteur en charpente métallique";"مركب هياكل معدنية";"ش ك م";1
+;;604401;"Technicien supérieur en construction métallique";"تقني سام في التركيب المعدني";"م ت س";
+;;605401;"Technicien supérieur en conception et fabrication des moules et outillages";"تقني سام في تصميم وصناعة القوالب والأدوات";"م ت س";2.5
+;;606401;"Assistant chef de chantier forage";"مساعد رئيس حضيرة تنقيب";"م ت س";2.5
+;;701102;"Aide installateur en électricité industrielle";"مساعد مركب في الكهرباء الصناعية";"ش م";
+;;701203;"Tabletier câbleur électricien";"مركب الأسلاك الكهربائية";"ش ك م";1
+;;701302;"Technicien en maintenance des équipements électroménagers";"تقني في صيانة التجهيزات الكهربائية المنزلية";"م ت م";2
+;;701308;"Technico-commercial des équipements électrodomestiques et multimédia";"تقني مسوق للتجهيزات المنزلية  والمتعددة الوسائط";"م ت م";2
+;;701312;"Electricien réparateur des systèmes de sécurité des bâtiments";"كهربائي مصلح أنظمة السلامة بالبناءات";"م ت م";2
+;;701316;"Technicien en logistique de production";"تقني في لوجستيك الإنتاج";"م ت م";2
+;;701317;"Technicien en conduite de systèmes de production";"تقني في تسيير أنظمة الإنتاج";"م ت م";2
+;;701404;"Technicien supérieur en industrialisation et amélioration des processus";"تقني سام في تصنيع وتحسين الأساليب";"م ت س";
+;;702302;"Technicien de maintenance en électronique grand public";"تقني صيانة في إلكترونيك العموم";"م ت م";2
+;;702401;"Technicien supérieur en automatisme et informatique industrielle";"تقني سام في الآلية والإعلامية الصناعية";"م ت س";2
+;;703304;"Technicien en exploitation de réseaux";"تقني في استغلال الشبكات";"م ت م";2
+;;801301;"Technicien des industries agro- alimentaires";"تقني في الصناعات الغذائية";"م ت م";2
+;;802301;"Technicien en transformation industrielle des viandes";"تقني في التحويل الصناعي للحوم";"م ت م";2
+;;902104;"Conducteur de grues mobiles";"سائق رافعة متنقلة";"ش م";
+;;903103;"Aide mécanicien de poids lourds";"مساعد ميكانيكي شاحنات ثقيلة";"ش م";
+;;903108;"Agent en lavage, graissage et vidange automobiles";"عون في غسل وتشحيم وتغيير زيوت السيارات";"ش م";
+;;903201;"Réparateur automobile essence diesel";"ميكانيكي سيارات بنزين وديزل";"ش ك م";2
+;;903203;"Tôlier carrossier peintre";"مطال مرمم هياكل و دهان سيارات";"ش ك م";2
+;;903302;"Technicien en mécanique et électricité poids lourd";"تقني في ميكانيك وكهرباء الشاحنات الثقيلة";"م ت م";2
+;"MAINTENANCE DES ENGINS DE CHANTIERS ET AGRICOLES
+  صيانة معدات الحضائر والفلاحية";904201;"Mécanicien réparateur d'engins de chantier";"ميكانيكي مصلح معدات الحضائر";"ش ك م";1
+;;904401;"Technicien supérieur en maintenance et services après vente des engins de travaux publics";"تقني سام في صيانة وخدمات ما بعد البيع لمعدات الحضائر";"م ت س";2.5
+;;905301;"Technicien en transport multimodal";"تقني في النقل متعدد الوسائط";"م ت م";2
+;;1001401;"Guide touristique";"دليل سياحي";"م ت س";2
+;;1002102;"Aide cuisinier";"مساعد طباخ";"ش م";
+;;1002107;Pizzaïolo;"عامل في صنع البيتزا";"ش م";
+;;1002301;"Technicien de restaurant et bar";"تقني مطعم وحانة";"م ت م";2
+;;1002305;"Technicien d'étages et de buanderie";"تقني طوابق ومغسل";"م ت م";2
+;;1002401;"Technicien supérieur en hôtellerie option restauration";"تقني سام في الفندقة اختيار المطاعم";"م ت س";
+;;1101202;"Artisan en maroquinerie traditionnelle et fabrication d'articles en cuir";"حرفي في السكاجة التقليدية وصناعة المنتوجات الجلدية";"ش ك م";
+;;1102104;"Aide artisan en menuiserie traditionnelle";"مساعد حرفي في النجارة التقليدية";"ش م";
+;;1103202;"Artisan en fabrication de produits en osier, palmier et rotin";"حرفي في صنع منتوجات القصب وعود الجريد والخيزران";"ش ك م";
+;;1104203;"Artisan en teinture et tannage naturels";"حرفي في الصباغة والدباغة الطبيعية";"ش ك م";
+;;1105202;"Artisan de vêtements traditionnels pour femmes";"حرفي في اللباس التقليدي النسائي";"ش ك م";
+;"METIERS D'ORFEVRERIE ET D'ARGENTERIE  
+ حرف المصوغ  والفضيات";1106101;"Fabricant des bijoux traditionnels";"صانع الحلي التقليدي";"ش م";
+;"METIERS DES METAUX
+ حرف المعادن";1107101;"Aide fabricant d'objets en cuivre";"مساعد صانع أدوات نحاسية";"ش م";
+;;1107203;"Artisan en fabrication d'objets en cuivre";"حرفي في صناعة التحف والمحامل والأدوات النحاسية";"ش ك م";
+;;1108102;Staffeur;"مركب منتوجات من الجبس";"ش م";
+;;1108203;"Tourneur en céramique";"خراط في الخزف";"ش ك م";2
+;;1108301;"Technicien aux métiers d'arts en céramique";"تقني في المهن الفنية في الخزف";"م ت م";2
+;;1108302;"Artisan en fabrication des produits en pierre et marbre";"حرفي في صناعة منتوجات الحجارة والرخام";"م ت م";2
+;;1109204;"Tailleur graveur sur verre";"نحات نقاش على البلور";"ش ك م";2
+;"METIERS DIVERS
+ حرف مختلفة";1110102;"Ouvrier en fabrication des fleurs de décoration";"عامل في صنع أزهار الزينة";"ش م";
+;;1110205;"Artisan en fabrication des parfums";"حرفي في صنع العطورات";"ش ك م";
+;;1202303;"Technicien en achats et approvisionnements";"تقني في الشراء و التزويد";"م ت م";2
+;;1203405;"Conseiller clients pour centres d'appels";"مستشار حريف بمراكز النداء";"م ت س";2
+;;1301301;"Technicien en pré- impression";"تقني في تحضير أشغال الطباعة";"م ت م";2
+;;1301402;"Technicien supérieur en techniques de communication graphique option multimédia";"تقني سام في تقنيات الاتصال اختيار ملتيميديا";"م ت س";
+;;1302301;"Technicien en prothèse dentaire";"تقني في صنع الأسنان";"م ت م";2
+;"COIFFURE ET ESTHETIQUE
+الحلاقة والتجميل";1303101;"Aide coiffeur";"معين حلاق";"ش م";
+;;1303201;"Coiffeur maquilleur";"حلاق مجمل";"ش ك م";2
+;;1304105;"Vendeur option pièces de rechanges automobiles";"بائع اختيار قطع غيار السيارات";"ش م";
+;;301102;"Aide en peinture de bâtiment";"مساعد في دهن البناء";"ش م";
+;;301206;Etancheur;"عون في أشغال العزل ضد تسرب المياه";"ش ك م";1
+;;301209;"Plâtrier staffeur";"مركب ونحات الجبس";"ش ك م";1
+;;301213;"Coffreur boiseur";"نجار قوالب";"ش ك م";1
+;;301304;"Métreur vérificateur en bâtiment";"متار مراقب في البناء";"م ت م";2
+;;301305;"Dessinateur projeteur en architecture";"رسام مصمم في البناءات";"م ت م";2
+;;301309;"Chef de chantier en fabrication et pose de coffrages";"رئيس حضيرة في صناعة ووضع القوالب";"م ت م";2
+;;301401;"Conducteur de travaux en bâtiment";"مســير أشغــال بنــاء";"م ت س";2
+"BATIMENT, TRAVAUX PUBLICS ET ANNEXES
+ البنـــاء والأشغال العمومية و تــــوابعــه";"BOIS ET AMEUBLEMENT
+الخشـــــــب و الأثـــــــــاث";302101;"Menuisier en bâtiment";"نجار بناء";"ش م";
+;;302105;"Fabricant de carcasses de salon";"صانع قوالب الصالونات";"ش م";
+;;302205;"Finisseur de meubles";"صقّـال أثاث";"ش ك م";2
+;;302401;"Technicien supérieur en étude et méthode d’ameublement";"تقني سام في دراسة وتصميم الأثاث";"م ت س";2
+;;303302;"Technicien en froid commercial et climatisation";"تقني في التبريد التجاري وتكييف الهواء";"م ت م";2
+;;303306;"Chef de chantier en climatisation";"رئيس حضيرة في تكييف الهواء";"م ت م";2
+;;303307;"Technicien en installation de piscines";"تقني في تركيب المسابح";"م ت م";2
+;;401202;"Agent en entretien de produits textiles";"عون في تنظيف المواد المنسوجة";"ش ك م";2
+;;401304;"Technicien en entretien de produits textiles";"تقني في تنظيف المواد المنسوجة";"م ت م";2
+;;402108;"Confectionneur de rideaux";"خياط ستائر";"ش م";
+;;402302;"Technicien en modélisme et techniques vestimentaires";"تقني في تصميم وتقنيات الملابس";"م ت م";2
+;;402403;"Technicien supérieur en méthodes des industries de l’habillement";"تقني سام في أساليب صناعة الملابس";"م ت س";2.5
+;;403301;"Technicien en bonneterie circulaire et rectiligne";"تقني في الزرد الدائري  والمستقيم";"م ت م";2
+;;501104;"Aide monteur et finisseur en chaussures";"مساعد مركب وصقال أحذية";"ش م";
+;;501204;"Monteur finisseur en chaussures";"مركب وصقال أحذية";"ش ك م";1
+;;501301;"Technicien en fabrication des industries du cuir et chaussures";"تقني في صناعة الجلد والأحذية";"م ت م";2
+;"MAROQUINERIE    
+السكـــــــــافة";502102;"Aide monteur et finisseur en maroquinerie";"مساعد مركب وصقال الجلود";"ش م";
+;;601104;"Aide opérateur sur machines outils";"مساعد مشغل آلات الأدوات";"ش م";
+;;601303;"Dessinateur industriel";"رسام صناعي";"م ت م";2
+;;603103;"Soudeur à l'arc sous gaz (semi automatique MIG MAG)";"لحام بالقوس الكهربائي باستخدام المعدن والغاز";"ش م";
+;"CONSTRUCTION METALLIQUE
+التركـــــــيب المعـــــدني";604101;"Aide charpentier métallique";"مساعد في بناء هياكل معدنية";"ش م";
+;;604201;Chaudronnier;"حداد مطالة سميكة";"ش ك م";1
+;;604207;"Menuisier aluminium et PVC";"نجار أليمنيوم  و ب ف س";"ش ك م";2
+;"PLASTURGIE 
+  صنـــــــــاعة البلاستيـــــــــك";605101;"Opérateur sur machines de fabrication d’articles en plastique";"مشغل آلات صناعة لوازم بلاستيكية";"ش م";
+;;605402;"Technicien supérieur en maintenance des équipements de l'industrie plastique";"تقني سام في صيانة تجهيزات صناعة البلاستيك";"م ت س";2.5
+;;605403;"Technicien supérieur en industrie plastique";"تقني سام في صناعة البلاستيك";"م ت س";2.5
+;"MECANIQUE DE PRECISION
+الآلية الدقيقة";607201;Horloger;ساعاتي;"ش ك م";2
+;;701103;"Opérateur sur machines de bobinage";"مشغل آلات تلفيف المحركات الكهربائية";"ش م";
+;;701204;"Installateur de systèmes de sécurité en bâtiment";"مركب أنظمة السلامة بالبناءات";"ش ك م";1
+;;701303;"Technicien en maintenance industrielle";"تقني في الصيانة الصناعية";"م ت م";2
+;;701309;"Technicien en installation des équipements électriques et électroniques";"تقني في تركيب المعدات الكهربائية والإلكترونية";"م ت م";2
+;;701313;"Chef d'équipe en installation électrique des bâtiments";"رئيس فريق في تركيب الشبكات الكهربائية للبناءات";"م ت م";2
+;;701401;"Technicien supérieur en gestion de la maintenance industrielle";"تقني سام في التصرف في الصيانة الصناعية";"م ت س";2.5
+;;701405;"Technicien supérieur en maintenance industrielle option maintenance des systèmes automatisés";"تقني سام في الصيانة الصناعية اختيار صيانة الأنظمة الآلية";"م ت س";
+;;702303;"Technicien en électronique industrielle";"تقني في الإلكترونيك الصناعي";"م ت م";2
+;;702304;"Technicien de maintenance en micro-systèmes informatiques";"تقني في صيانة أجهزة الميكروإعلامية";"م ت م";2
+;;702308;"Technicien en maintenance des équipements biomédicaux";"تقني في صيانة المعدات البيوطبية";"م ت م";2
+;;702402;"Technicien supérieur en maintenance des équipements biomédicaux";"تقني سام في صيانة المعدات البيوطبية";"م ت س";2.5
+;;702404;"Technicien supérieur en techniques de production pour l'industrie électronique";"تقني سام في تقنيات الإنتاج للصناعة الإلكترونية";"م ت س";2
+;;703401;"Technicien supérieur en télécommunications option informatique";"تقني سام في الاتصالات اختيار إعلامية";"م ت س";2
+;;801401;"Technicien supérieur en contrôle qualité des industries agro-alimentaires";"تقني سام في مراقبة الجودة في الصناعات الغذائية";"م ت س";2.5
+"TRANSPORT, CONDUITE ET MAINTENANCE DES VEHICULES ET DES ENGINS DE TRAVAUX PUBLICS ET AGRICOLES
+النقل وسياقة وصيانة العربات ومعدات الأشغال العمومية والفلاحية";"CONDUITE DES ENGINS DE CHANTIER
+سيــــاقـة معــدات الحضـائـر";902101;"Conducteur de chargeuses pelleteuses (Tractopelle)";"سائق آلة تحميل وحفر 
+(آلة مزدوجة)";"ش م";
+;;902107;"Conducteur de bouteurs";"سائق جرافة";"ش م";
+;;903104;"Aide installateur de circuits d'alimentation à gaz  automobiles";"مساعد مركب تجهيزات الغاز بالسيارات";"ش م";
+;;903109;"Aide électricien de matériel roulant";"مساعد كهربائي للعربات";"ش م";
+;;903204;"Réparateur et installateur de motopompes";"عون صيانة المضخات الآلية";"ش ك م";1
+;;903303;"Technicien carrossier peintre";"تقني في المطالة ودهن السيارات";"م ت م";2
+;;904203;"Installateur -  maintenancier des pompes à béton";"مركب ومتعهد مضخات الخرسانة";"ش ك م";
+;;904301;"Technicien de maintenance des engins de chantiers";"تقني في صيانة معدات الحضائر";"م ت م";2
+;"TRANSPORT
+   النقل";905201;"Conducteur routier";"سائق بري";"ش ك م";1
+;;905302;"Technicien en transport routier";"تقني في النقل البري";"م ت م";2
+;;1001402;"Technicien supérieur en tourisme option promotion et développement des produits touristiques";"تقني سام في السياحة اختيار تنمية وتطوير المنتوجات السياحية";"م ت س";
+;;1002103;Serveur;نادل;"ش م";
+;;1002201;"Agent de cuisine et pâtisserie";"عون مطبخ ومرطبات";"ش ك م";2
+;;1002302;"Technicien de pâtisserie";"تقني مرطبات";"م ت م";2
+;;1002402;"Technicien supérieur en hôtellerie option hébergement";"تقني سام في الفندقة اختيار الإيواء";"م ت س";
+;;1101203;"Artisan en chaussures traditionnelles";"حرفي في صناعة الأحذية التقليدية";"ش ك م";
+;;1102201;"Artisan en menuiserie traditionnelle";"حرفي في النجارة التقليدية";"ش ك م";2
+;;1102202;"Artisan en fabrication de bibelots et articles artisanaux en bois";"حرفي في صناعة التحف والأواني التقليدية من الخشب";"ش ك م";
+;"METIER DE TISSAGE ARTISANAL
+ حرف النسيج التقليدي";1104101;"Tisserand de tapis";"نساج زربية";"ش م";
+"METIERS D'ART ET DE L'ARTISANAT
+ الحرف الفنية والتقليدية";"HABITS TRADITIONNELS ET BRODERIE
+اللباس التقبليدي والتطريز";1105101;"Aide artisan de vêtements traditionnels pour hommes";"مساعد حرفي في اللباس التقليدي الرجالي";"ش م";
+;;1105203;"Artisan en broderie artisanale";"حرفي في التطريز التقليدي";"ش ك م";2
+;;1106201;Bijouterie;المصوغ;"ش ك م";2
+;;1107102;"Aide ferronnier d'art";"مساعد حداد فني";"ش م";
+;;1107204;"Artisan tourneur";"حرفي في الخراطة";"ش ك م";
+;;1108106;"Aide artisan en fabrication des produits en pierre et marbre";"مساعد حرفي في صناعة منتوجات من الحجارة والرخام";"ش م";
+;;1108204;"Artisan en sculpture et décoration sur plâtre";"حرفي في النقش والتزويق على الجبس";"ش ك م";
+;"METIERS DE VERRERIE  
+  حرف الزجاج";1109201;"Verrier à la main";"حرفي زجاج يدوي";"ش ك م";2
+;;1109205;"Décorateur sur verre";"مزوق على الزجاج";"ش ك م";2
+;;1110201;"Artisan en peinture et décoration sur différents supports";"حرفي في الطلاء والتزويق على محامل مختلفة";"ش ك م";1
+;;1110202;"Artisan en fabrication de cages artisanales";"حرفي في صنع الأقفاص التقليدية";"ش ك م";
+;;1110206;"Artisan en calligraphie";"حرفي في الخطاطة";"ش ك م";
+;;1202401;"Technicien supérieur en comptabilité et  finances";"تقني سام في المحاسبة والمالية";"م ت س";2.5
+;;1203406;"Technicien supérieur en marketing et multimédia";"تقني سام في التسويق والوسائل متعددة الوسائط";"م ت س";2.5
+;;1301302;"Technicien en impression";"تقني في الطباعة";"م ت م";2
+;;1301403;"Technicien supérieur en techniques de communication graphique option pré-presse";"تقني سام في تقنيات الاتصال اختيار تحضير أشغال الطباعة";"م ت س";
+;;1302302;"Technicien préparateur en pharmacie";"تقني  محضر صيدلي";"م ت م";2
+;;1303202;"Aide esthéticien";"معين في التجميل";"ش ك م";
+;;1304107;"Aide magasinier";"مساعد حافظ مغازة";"ش م";

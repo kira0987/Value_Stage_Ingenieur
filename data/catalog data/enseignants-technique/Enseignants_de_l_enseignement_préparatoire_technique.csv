@@ -1,0 +1,703 @@
+﻿annee_scolaire;ordre_CRE;Nom_CRE;Lib_matriere;effectif_enseignants
+2021/2022;1;Tunis 1;Arabe;2
+2021/2022;2;Tunis 2;Arabe;1
+2021/2022;3; Ariana ;Arabe;2
+2021/2022;4; Mannouba ;Arabe;1
+2021/2022;5; Ben Arous ;Arabe;2
+2021/2022;6; Zaghouan ;Arabe;2
+2021/2022;7; Bizerte ;Arabe;3
+2021/2022;8; Béja ;Arabe;3
+2021/2022;9; Jendouba ;Arabe;
+2021/2022;10; Siliana ;Arabe;
+2021/2022;11; Le Kef ;Arabe;1
+2021/2022;12; Kasserine ;Arabe;1
+2021/2022;13; Sidi Bouzid ;Arabe;2
+2021/2022;14; Gafsa ;Arabe;2
+2021/2022;15; Tozeur ;Arabe;
+2021/2022;16; Kébili ;Arabe;2
+2021/2022;17; Tataouine ;Arabe;1
+2021/2022;18; Médenine ;Arabe;3
+2021/2022;19; Gabès ;Arabe;4
+2021/2022;20;Sfax 1;Arabe;5
+2021/2022;21;Sfax 2;Arabe;1
+2021/2022;22; Mahdia ;Arabe;5
+2021/2022;23; Kairouan ;Arabe;4
+2021/2022;24; Monastir ;Arabe;2
+2021/2022;25; Sousse ;Arabe;3
+2021/2022;26; Nabeul ;Arabe;4
+2021/2022;1;Tunis 1;Français;2
+2021/2022;2;Tunis 2;Français;1
+2021/2022;3; Ariana ;Français;2
+2021/2022;4; Mannouba ;Français;1
+2021/2022;5; Ben Arous ;Français;4
+2021/2022;6; Zaghouan ;Français;1
+2021/2022;7; Bizerte ;Français;4
+2021/2022;8; Béja ;Français;2
+2021/2022;9; Jendouba ;Français;
+2021/2022;10; Siliana ;Français;
+2021/2022;11; Le Kef ;Français;1
+2021/2022;12; Kasserine ;Français;1
+2021/2022;13; Sidi Bouzid ;Français;2
+2021/2022;14; Gafsa ;Français;2
+2021/2022;15; Tozeur ;Français;1
+2021/2022;16; Kébili ;Français;2
+2021/2022;17; Tataouine ;Français;1
+2021/2022;18; Médenine ;Français;3
+2021/2022;19; Gabès ;Français;3
+2021/2022;20;Sfax 1;Français;4
+2021/2022;21;Sfax 2;Français;
+2021/2022;22; Mahdia ;Français;5
+2021/2022;23; Kairouan ;Français;4
+2021/2022;24; Monastir ;Français;2
+2021/2022;25; Sousse ;Français;6
+2021/2022;26; Nabeul ;Français;5
+2021/2022;1;Tunis 1;Anglais;4
+2021/2022;2;Tunis 2;Anglais;1
+2021/2022;3; Ariana ;Anglais;3
+2021/2022;4; Mannouba ;Anglais;2
+2021/2022;5; Ben Arous ;Anglais;5
+2021/2022;6; Zaghouan ;Anglais;1
+2021/2022;7; Bizerte ;Anglais;5
+2021/2022;8; Béja ;Anglais;3
+2021/2022;9; Jendouba ;Anglais;
+2021/2022;10; Siliana ;Anglais;
+2021/2022;11; Le Kef ;Anglais;1
+2021/2022;12; Kasserine ;Anglais;1
+2021/2022;13; Sidi Bouzid ;Anglais;2
+2021/2022;14; Gafsa ;Anglais;3
+2021/2022;15; Tozeur ;Anglais;
+2021/2022;16; Kébili ;Anglais;2
+2021/2022;17; Tataouine ;Anglais;1
+2021/2022;18; Médenine ;Anglais;4
+2021/2022;19; Gabès ;Anglais;3
+2021/2022;20;Sfax 1;Anglais;4
+2021/2022;21;Sfax 2;Anglais;1
+2021/2022;22; Mahdia ;Anglais;6
+2021/2022;23; Kairouan ;Anglais;5
+2021/2022;24; Monastir ;Anglais;5
+2021/2022;25; Sousse ;Anglais;8
+2021/2022;26; Nabeul ;Anglais;6
+2021/2022;1;Tunis 1;Education civique;2
+2021/2022;2;Tunis 2;Education civique;
+2021/2022;3; Ariana ;Education civique;1
+2021/2022;4; Mannouba ;Education civique;
+2021/2022;5; Ben Arous ;Education civique;1
+2021/2022;6; Zaghouan ;Education civique;
+2021/2022;7; Bizerte ;Education civique;
+2021/2022;8; Béja ;Education civique;
+2021/2022;9; Jendouba ;Education civique;
+2021/2022;10; Siliana ;Education civique;
+2021/2022;11; Le Kef ;Education civique;
+2021/2022;12; Kasserine ;Education civique;
+2021/2022;13; Sidi Bouzid ;Education civique;1
+2021/2022;14; Gafsa ;Education civique;1
+2021/2022;15; Tozeur ;Education civique;
+2021/2022;16; Kébili ;Education civique;1
+2021/2022;17; Tataouine ;Education civique;
+2021/2022;18; Médenine ;Education civique;1
+2021/2022;19; Gabès ;Education civique;2
+2021/2022;20;Sfax 1;Education civique;2
+2021/2022;21;Sfax 2;Education civique;
+2021/2022;22; Mahdia ;Education civique;1
+2021/2022;23; Kairouan ;Education civique;
+2021/2022;24; Monastir ;Education civique;1
+2021/2022;25; Sousse ;Education civique;1
+2021/2022;26; Nabeul ;Education civique;2
+2021/2022;1;Tunis 1;Education islamique;2
+2021/2022;2;Tunis 2;Education islamique;
+2021/2022;3; Ariana ;Education islamique;1
+2021/2022;4; Mannouba ;Education islamique;
+2021/2022;5; Ben Arous ;Education islamique;2
+2021/2022;6; Zaghouan ;Education islamique;
+2021/2022;7; Bizerte ;Education islamique;
+2021/2022;8; Béja ;Education islamique;
+2021/2022;9; Jendouba ;Education islamique;
+2021/2022;10; Siliana ;Education islamique;
+2021/2022;11; Le Kef ;Education islamique;
+2021/2022;12; Kasserine ;Education islamique;
+2021/2022;13; Sidi Bouzid ;Education islamique;2
+2021/2022;14; Gafsa ;Education islamique;2
+2021/2022;15; Tozeur ;Education islamique;
+2021/2022;16; Kébili ;Education islamique;2
+2021/2022;17; Tataouine ;Education islamique;
+2021/2022;18; Médenine ;Education islamique;
+2021/2022;19; Gabès ;Education islamique;2
+2021/2022;20;Sfax 1;Education islamique;
+2021/2022;21;Sfax 2;Education islamique;1
+2021/2022;22; Mahdia ;Education islamique;2
+2021/2022;23; Kairouan ;Education islamique;1
+2021/2022;24; Monastir ;Education islamique;1
+2021/2022;25; Sousse ;Education islamique;
+2021/2022;26; Nabeul ;Education islamique;2
+2021/2022;1;Tunis 1;Histoire et géographie;2
+2021/2022;2;Tunis 2;Histoire et géographie;
+2021/2022;3; Ariana ;Histoire et géographie;2
+2021/2022;4; Mannouba ;Histoire et géographie;2
+2021/2022;5; Ben Arous ;Histoire et géographie;3
+2021/2022;6; Zaghouan ;Histoire et géographie;1
+2021/2022;7; Bizerte ;Histoire et géographie;2
+2021/2022;8; Béja ;Histoire et géographie;2
+2021/2022;9; Jendouba ;Histoire et géographie;
+2021/2022;10; Siliana ;Histoire et géographie;
+2021/2022;11; Le Kef ;Histoire et géographie;
+2021/2022;12; Kasserine ;Histoire et géographie;1
+2021/2022;13; Sidi Bouzid ;Histoire et géographie;3
+2021/2022;14; Gafsa ;Histoire et géographie;1
+2021/2022;15; Tozeur ;Histoire et géographie;
+2021/2022;16; Kébili ;Histoire et géographie;2
+2021/2022;17; Tataouine ;Histoire et géographie;
+2021/2022;18; Médenine ;Histoire et géographie;2
+2021/2022;19; Gabès ;Histoire et géographie;3
+2021/2022;20;Sfax 1;Histoire et géographie;4
+2021/2022;21;Sfax 2;Histoire et géographie;1
+2021/2022;22; Mahdia ;Histoire et géographie;5
+2021/2022;23; Kairouan ;Histoire et géographie;1
+2021/2022;24; Monastir ;Histoire et géographie;
+2021/2022;25; Sousse ;Histoire et géographie;4
+2021/2022;26; Nabeul ;Histoire et géographie;5
+2021/2022;1;Tunis 1;Mathématiques;2
+2021/2022;2;Tunis 2;Mathématiques;1
+2021/2022;3; Ariana ;Mathématiques;2
+2021/2022;4; Mannouba ;Mathématiques;1
+2021/2022;5; Ben Arous ;Mathématiques;3
+2021/2022;6; Zaghouan ;Mathématiques;
+2021/2022;7; Bizerte ;Mathématiques;4
+2021/2022;8; Béja ;Mathématiques;1
+2021/2022;9; Jendouba ;Mathématiques;
+2021/2022;10; Siliana ;Mathématiques;
+2021/2022;11; Le Kef ;Mathématiques;1
+2021/2022;12; Kasserine ;Mathématiques;1
+2021/2022;13; Sidi Bouzid ;Mathématiques;2
+2021/2022;14; Gafsa ;Mathématiques;2
+2021/2022;15; Tozeur ;Mathématiques;
+2021/2022;16; Kébili ;Mathématiques;1
+2021/2022;17; Tataouine ;Mathématiques;1
+2021/2022;18; Médenine ;Mathématiques;
+2021/2022;19; Gabès ;Mathématiques;3
+2021/2022;20;Sfax 1;Mathématiques;3
+2021/2022;21;Sfax 2;Mathématiques;1
+2021/2022;22; Mahdia ;Mathématiques;2
+2021/2022;23; Kairouan ;Mathématiques;2
+2021/2022;24; Monastir ;Mathématiques;3
+2021/2022;25; Sousse ;Mathématiques;5
+2021/2022;26; Nabeul ;Mathématiques;6
+2021/2022;1;Tunis 1;Sciences de la vie et de la Terre;
+2021/2022;2;Tunis 2;Sciences de la vie et de la Terre;
+2021/2022;3; Ariana ;Sciences de la vie et de la Terre;1
+2021/2022;4; Mannouba ;Sciences de la vie et de la Terre;
+2021/2022;5; Ben Arous ;Sciences de la vie et de la Terre;2
+2021/2022;6; Zaghouan ;Sciences de la vie et de la Terre;
+2021/2022;7; Bizerte ;Sciences de la vie et de la Terre;1
+2021/2022;8; Béja ;Sciences de la vie et de la Terre;1
+2021/2022;9; Jendouba ;Sciences de la vie et de la Terre;
+2021/2022;10; Siliana ;Sciences de la vie et de la Terre;
+2021/2022;11; Le Kef ;Sciences de la vie et de la Terre;
+2021/2022;12; Kasserine ;Sciences de la vie et de la Terre;
+2021/2022;13; Sidi Bouzid ;Sciences de la vie et de la Terre;1
+2021/2022;14; Gafsa ;Sciences de la vie et de la Terre;
+2021/2022;15; Tozeur ;Sciences de la vie et de la Terre;
+2021/2022;16; Kébili ;Sciences de la vie et de la Terre;1
+2021/2022;17; Tataouine ;Sciences de la vie et de la Terre;
+2021/2022;18; Médenine ;Sciences de la vie et de la Terre;
+2021/2022;19; Gabès ;Sciences de la vie et de la Terre;
+2021/2022;20;Sfax 1;Sciences de la vie et de la Terre;1
+2021/2022;21;Sfax 2;Sciences de la vie et de la Terre;
+2021/2022;22; Mahdia ;Sciences de la vie et de la Terre;3
+2021/2022;23; Kairouan ;Sciences de la vie et de la Terre;1
+2021/2022;24; Monastir ;Sciences de la vie et de la Terre;
+2021/2022;25; Sousse ;Sciences de la vie et de la Terre;
+2021/2022;26; Nabeul ;Sciences de la vie et de la Terre;1
+2021/2022;1;Tunis 1;Sciences physiques;4
+2021/2022;2;Tunis 2;Sciences physiques;1
+2021/2022;3; Ariana ;Sciences physiques;2
+2021/2022;4; Mannouba ;Sciences physiques;
+2021/2022;5; Ben Arous ;Sciences physiques;4
+2021/2022;6; Zaghouan ;Sciences physiques;1
+2021/2022;7; Bizerte ;Sciences physiques;4
+2021/2022;8; Béja ;Sciences physiques;4
+2021/2022;9; Jendouba ;Sciences physiques;2
+2021/2022;10; Siliana ;Sciences physiques;
+2021/2022;11; Le Kef ;Sciences physiques;1
+2021/2022;12; Kasserine ;Sciences physiques;1
+2021/2022;13; Sidi Bouzid ;Sciences physiques;2
+2021/2022;14; Gafsa ;Sciences physiques;2
+2021/2022;15; Tozeur ;Sciences physiques;
+2021/2022;16; Kébili ;Sciences physiques;2
+2021/2022;17; Tataouine ;Sciences physiques;1
+2021/2022;18; Médenine ;Sciences physiques;2
+2021/2022;19; Gabès ;Sciences physiques;5
+2021/2022;20;Sfax 1;Sciences physiques;4
+2021/2022;21;Sfax 2;Sciences physiques;1
+2021/2022;22; Mahdia ;Sciences physiques;6
+2021/2022;23; Kairouan ;Sciences physiques;4
+2021/2022;24; Monastir ;Sciences physiques;5
+2021/2022;25; Sousse ;Sciences physiques;7
+2021/2022;26; Nabeul ;Sciences physiques;5
+2021/2022;1;Tunis 1;Informatique;3
+2021/2022;2;Tunis 2;Informatique;
+2021/2022;3; Ariana ;Informatique;3
+2021/2022;4; Mannouba ;Informatique;2
+2021/2022;5; Ben Arous ;Informatique;4
+2021/2022;6; Zaghouan ;Informatique;1
+2021/2022;7; Bizerte ;Informatique;5
+2021/2022;8; Béja ;Informatique;1
+2021/2022;9; Jendouba ;Informatique;
+2021/2022;10; Siliana ;Informatique;
+2021/2022;11; Le Kef ;Informatique;1
+2021/2022;12; Kasserine ;Informatique;1
+2021/2022;13; Sidi Bouzid ;Informatique;4
+2021/2022;14; Gafsa ;Informatique;2
+2021/2022;15; Tozeur ;Informatique;
+2021/2022;16; Kébili ;Informatique;4
+2021/2022;17; Tataouine ;Informatique;2
+2021/2022;18; Médenine ;Informatique;6
+2021/2022;19; Gabès ;Informatique;6
+2021/2022;20;Sfax 1;Informatique;8
+2021/2022;21;Sfax 2;Informatique;1
+2021/2022;22; Mahdia ;Informatique;8
+2021/2022;23; Kairouan ;Informatique;6
+2021/2022;24; Monastir ;Informatique;7
+2021/2022;25; Sousse ;Informatique;7
+2021/2022;26; Nabeul ;Informatique;7
+2021/2022;1;Tunis 1;Initiation technique;2
+2021/2022;2;Tunis 2;Initiation technique;1
+2021/2022;3; Ariana ;Initiation technique;3
+2021/2022;4; Mannouba ;Initiation technique;2
+2021/2022;5; Ben Arous ;Initiation technique;5
+2021/2022;6; Zaghouan ;Initiation technique;1
+2021/2022;7; Bizerte ;Initiation technique;1
+2021/2022;8; Béja ;Initiation technique;
+2021/2022;9; Jendouba ;Initiation technique;
+2021/2022;10; Siliana ;Initiation technique;2
+2021/2022;11; Le Kef ;Initiation technique;1
+2021/2022;12; Kasserine ;Initiation technique;4
+2021/2022;13; Sidi Bouzid ;Initiation technique;2
+2021/2022;14; Gafsa ;Initiation technique;3
+2021/2022;15; Tozeur ;Initiation technique;
+2021/2022;16; Kébili ;Initiation technique;3
+2021/2022;17; Tataouine ;Initiation technique;1
+2021/2022;18; Médenine ;Initiation technique;3
+2021/2022;19; Gabès ;Initiation technique;4
+2021/2022;20;Sfax 1;Initiation technique;2
+2021/2022;21;Sfax 2;Initiation technique;1
+2021/2022;22; Mahdia ;Initiation technique;5
+2021/2022;23; Kairouan ;Initiation technique;3
+2021/2022;24; Monastir ;Initiation technique;2
+2021/2022;25; Sousse ;Initiation technique;4
+2021/2022;26; Nabeul ;Initiation technique;4
+2021/2022;1;Tunis 1;Mécanique;4
+2021/2022;2;Tunis 2;Mécanique;
+2021/2022;3; Ariana ;Mécanique;1
+2021/2022;4; Mannouba ;Mécanique;3
+2021/2022;5; Ben Arous ;Mécanique;1
+2021/2022;6; Zaghouan ;Mécanique;1
+2021/2022;7; Bizerte ;Mécanique;2
+2021/2022;8; Béja ;Mécanique;
+2021/2022;9; Jendouba ;Mécanique;
+2021/2022;10; Siliana ;Mécanique;1
+2021/2022;11; Le Kef ;Mécanique;2
+2021/2022;12; Kasserine ;Mécanique;1
+2021/2022;13; Sidi Bouzid ;Mécanique;5
+2021/2022;14; Gafsa ;Mécanique;5
+2021/2022;15; Tozeur ;Mécanique;1
+2021/2022;16; Kébili ;Mécanique;2
+2021/2022;17; Tataouine ;Mécanique;2
+2021/2022;18; Médenine ;Mécanique;3
+2021/2022;19; Gabès ;Mécanique;6
+2021/2022;20;Sfax 1;Mécanique;1
+2021/2022;21;Sfax 2;Mécanique;1
+2021/2022;22; Mahdia ;Mécanique;3
+2021/2022;23; Kairouan ;Mécanique;3
+2021/2022;24; Monastir ;Mécanique;3
+2021/2022;25; Sousse ;Mécanique;1
+2021/2022;26; Nabeul ;Mécanique;3
+2021/2022;1;Tunis 1;Electricité ;2
+2021/2022;2;Tunis 2;Electricité ;1
+2021/2022;3; Ariana ;Electricité ;3
+2021/2022;4; Mannouba ;Electricité ;2
+2021/2022;5; Ben Arous ;Electricité ;4
+2021/2022;6; Zaghouan ;Electricité ;1
+2021/2022;7; Bizerte ;Electricité ;1
+2021/2022;8; Béja ;Electricité ;2
+2021/2022;9; Jendouba ;Electricité ;
+2021/2022;10; Siliana ;Electricité ;1
+2021/2022;11; Le Kef ;Electricité ;2
+2021/2022;12; Kasserine ;Electricité ;1
+2021/2022;13; Sidi Bouzid ;Electricité ;2
+2021/2022;14; Gafsa ;Electricité ;4
+2021/2022;15; Tozeur ;Electricité ;
+2021/2022;16; Kébili ;Electricité ;2
+2021/2022;17; Tataouine ;Electricité ;3
+2021/2022;18; Médenine ;Electricité ;5
+2021/2022;19; Gabès ;Electricité ;6
+2021/2022;20;Sfax 1;Electricité ;4
+2021/2022;21;Sfax 2;Electricité ;1
+2021/2022;22; Mahdia ;Electricité ;6
+2021/2022;23; Kairouan ;Electricité ;1
+2021/2022;24; Monastir ;Electricité ;3
+2021/2022;25; Sousse ;Electricité ;2
+2021/2022;26; Nabeul ;Electricité ;7
+2021/2022;1;Tunis 1;Construction métallique;1
+2021/2022;2;Tunis 2;Construction métallique;1
+2021/2022;3; Ariana ;Construction métallique;
+2021/2022;4; Mannouba ;Construction métallique;1
+2021/2022;5; Ben Arous ;Construction métallique;
+2021/2022;6; Zaghouan ;Construction métallique;
+2021/2022;7; Bizerte ;Construction métallique;3
+2021/2022;8; Béja ;Construction métallique;1
+2021/2022;9; Jendouba ;Construction métallique;1
+2021/2022;10; Siliana ;Construction métallique;
+2021/2022;11; Le Kef ;Construction métallique;
+2021/2022;12; Kasserine ;Construction métallique;2
+2021/2022;13; Sidi Bouzid ;Construction métallique;3
+2021/2022;14; Gafsa ;Construction métallique;3
+2021/2022;15; Tozeur ;Construction métallique;1
+2021/2022;16; Kébili ;Construction métallique;1
+2021/2022;17; Tataouine ;Construction métallique;
+2021/2022;18; Médenine ;Construction métallique;3
+2021/2022;19; Gabès ;Construction métallique;6
+2021/2022;20;Sfax 1;Construction métallique;3
+2021/2022;21;Sfax 2;Construction métallique;2
+2021/2022;22; Mahdia ;Construction métallique;3
+2021/2022;23; Kairouan ;Construction métallique;4
+2021/2022;24; Monastir ;Construction métallique;1
+2021/2022;25; Sousse ;Construction métallique;
+2021/2022;26; Nabeul ;Construction métallique;3
+2021/2022;1;Tunis 1;Maintenance ap.Electro-ménagers;1
+2021/2022;2;Tunis 2;Maintenance ap.Electro-ménagers;1
+2021/2022;3; Ariana ;Maintenance ap.Electro-ménagers;
+2021/2022;4; Mannouba ;Maintenance ap.Electro-ménagers;1
+2021/2022;5; Ben Arous ;Maintenance ap.Electro-ménagers;
+2021/2022;6; Zaghouan ;Maintenance ap.Electro-ménagers;
+2021/2022;7; Bizerte ;Maintenance ap.Electro-ménagers;
+2021/2022;8; Béja ;Maintenance ap.Electro-ménagers;
+2021/2022;9; Jendouba ;Maintenance ap.Electro-ménagers;
+2021/2022;10; Siliana ;Maintenance ap.Electro-ménagers;
+2021/2022;11; Le Kef ;Maintenance ap.Electro-ménagers;
+2021/2022;12; Kasserine ;Maintenance ap.Electro-ménagers;
+2021/2022;13; Sidi Bouzid ;Maintenance ap.Electro-ménagers;
+2021/2022;14; Gafsa ;Maintenance ap.Electro-ménagers;
+2021/2022;15; Tozeur ;Maintenance ap.Electro-ménagers;
+2021/2022;16; Kébili ;Maintenance ap.Electro-ménagers;
+2021/2022;17; Tataouine ;Maintenance ap.Electro-ménagers;
+2021/2022;18; Médenine ;Maintenance ap.Electro-ménagers;3
+2021/2022;19; Gabès ;Maintenance ap.Electro-ménagers;
+2021/2022;20;Sfax 1;Maintenance ap.Electro-ménagers;
+2021/2022;21;Sfax 2;Maintenance ap.Electro-ménagers;
+2021/2022;22; Mahdia ;Maintenance ap.Electro-ménagers;
+2021/2022;23; Kairouan ;Maintenance ap.Electro-ménagers;3
+2021/2022;24; Monastir ;Maintenance ap.Electro-ménagers;
+2021/2022;25; Sousse ;Maintenance ap.Electro-ménagers;
+2021/2022;26; Nabeul ;Maintenance ap.Electro-ménagers;1
+2021/2022;1;Tunis 1;Bâtiment;2
+2021/2022;2;Tunis 2;Bâtiment;
+2021/2022;3; Ariana ;Bâtiment;
+2021/2022;4; Mannouba ;Bâtiment;1
+2021/2022;5; Ben Arous ;Bâtiment;2
+2021/2022;6; Zaghouan ;Bâtiment;
+2021/2022;7; Bizerte ;Bâtiment;
+2021/2022;8; Béja ;Bâtiment;1
+2021/2022;9; Jendouba ;Bâtiment;
+2021/2022;10; Siliana ;Bâtiment;1
+2021/2022;11; Le Kef ;Bâtiment;
+2021/2022;12; Kasserine ;Bâtiment;
+2021/2022;13; Sidi Bouzid ;Bâtiment;2
+2021/2022;14; Gafsa ;Bâtiment;3
+2021/2022;15; Tozeur ;Bâtiment;1
+2021/2022;16; Kébili ;Bâtiment;3
+2021/2022;17; Tataouine ;Bâtiment;2
+2021/2022;18; Médenine ;Bâtiment;3
+2021/2022;19; Gabès ;Bâtiment;5
+2021/2022;20;Sfax 1;Bâtiment;3
+2021/2022;21;Sfax 2;Bâtiment;
+2021/2022;22; Mahdia ;Bâtiment;1
+2021/2022;23; Kairouan ;Bâtiment;
+2021/2022;24; Monastir ;Bâtiment;1
+2021/2022;25; Sousse ;Bâtiment;2
+2021/2022;26; Nabeul ;Bâtiment;3
+2021/2022;1;Tunis 1;Menuiserie  et ameublement;2
+2021/2022;2;Tunis 2;Menuiserie  et ameublement;1
+2021/2022;3; Ariana ;Menuiserie  et ameublement;1
+2021/2022;4; Mannouba ;Menuiserie  et ameublement;1
+2021/2022;5; Ben Arous ;Menuiserie  et ameublement;5
+2021/2022;6; Zaghouan ;Menuiserie  et ameublement;
+2021/2022;7; Bizerte ;Menuiserie  et ameublement;2
+2021/2022;8; Béja ;Menuiserie  et ameublement;2
+2021/2022;9; Jendouba ;Menuiserie  et ameublement;3
+2021/2022;10; Siliana ;Menuiserie  et ameublement;1
+2021/2022;11; Le Kef ;Menuiserie  et ameublement;
+2021/2022;12; Kasserine ;Menuiserie  et ameublement;
+2021/2022;13; Sidi Bouzid ;Menuiserie  et ameublement;9
+2021/2022;14; Gafsa ;Menuiserie  et ameublement;2
+2021/2022;15; Tozeur ;Menuiserie  et ameublement;7
+2021/2022;16; Kébili ;Menuiserie  et ameublement;1
+2021/2022;17; Tataouine ;Menuiserie  et ameublement;
+2021/2022;18; Médenine ;Menuiserie  et ameublement;1
+2021/2022;19; Gabès ;Menuiserie  et ameublement;5
+2021/2022;20;Sfax 1;Menuiserie  et ameublement;4
+2021/2022;21;Sfax 2;Menuiserie  et ameublement;
+2021/2022;22; Mahdia ;Menuiserie  et ameublement;5
+2021/2022;23; Kairouan ;Menuiserie  et ameublement;1
+2021/2022;24; Monastir ;Menuiserie  et ameublement;2
+2021/2022;25; Sousse ;Menuiserie  et ameublement;2
+2021/2022;26; Nabeul ;Menuiserie  et ameublement;1
+2021/2022;1;Tunis 1;Installation sanitaire et thermique;
+2021/2022;2;Tunis 2;Installation sanitaire et thermique;
+2021/2022;3; Ariana ;Installation sanitaire et thermique;
+2021/2022;4; Mannouba ;Installation sanitaire et thermique;
+2021/2022;5; Ben Arous ;Installation sanitaire et thermique;
+2021/2022;6; Zaghouan ;Installation sanitaire et thermique;
+2021/2022;7; Bizerte ;Installation sanitaire et thermique;
+2021/2022;8; Béja ;Installation sanitaire et thermique;
+2021/2022;9; Jendouba ;Installation sanitaire et thermique;
+2021/2022;10; Siliana ;Installation sanitaire et thermique;1
+2021/2022;11; Le Kef ;Installation sanitaire et thermique;
+2021/2022;12; Kasserine ;Installation sanitaire et thermique;
+2021/2022;13; Sidi Bouzid ;Installation sanitaire et thermique;3
+2021/2022;14; Gafsa ;Installation sanitaire et thermique;1
+2021/2022;15; Tozeur ;Installation sanitaire et thermique;
+2021/2022;16; Kébili ;Installation sanitaire et thermique;1
+2021/2022;17; Tataouine ;Installation sanitaire et thermique;
+2021/2022;18; Médenine ;Installation sanitaire et thermique;1
+2021/2022;19; Gabès ;Installation sanitaire et thermique;5
+2021/2022;20;Sfax 1;Installation sanitaire et thermique;1
+2021/2022;21;Sfax 2;Installation sanitaire et thermique;
+2021/2022;22; Mahdia ;Installation sanitaire et thermique;
+2021/2022;23; Kairouan ;Installation sanitaire et thermique;
+2021/2022;24; Monastir ;Installation sanitaire et thermique;
+2021/2022;25; Sousse ;Installation sanitaire et thermique;1
+2021/2022;26; Nabeul ;Installation sanitaire et thermique;1
+2021/2022;1;Tunis 1;Céramique;
+2021/2022;2;Tunis 2;Céramique;
+2021/2022;3; Ariana ;Céramique;
+2021/2022;4; Mannouba ;Céramique;
+2021/2022;5; Ben Arous ;Céramique;
+2021/2022;6; Zaghouan ;Céramique;
+2021/2022;7; Bizerte ;Céramique;
+2021/2022;8; Béja ;Céramique;
+2021/2022;9; Jendouba ;Céramique;
+2021/2022;10; Siliana ;Céramique;
+2021/2022;11; Le Kef ;Céramique;
+2021/2022;12; Kasserine ;Céramique;
+2021/2022;13; Sidi Bouzid ;Céramique;
+2021/2022;14; Gafsa ;Céramique;
+2021/2022;15; Tozeur ;Céramique;
+2021/2022;16; Kébili ;Céramique;
+2021/2022;17; Tataouine ;Céramique;
+2021/2022;18; Médenine ;Céramique;
+2021/2022;19; Gabès ;Céramique;
+2021/2022;20;Sfax 1;Céramique;
+2021/2022;21;Sfax 2;Céramique;
+2021/2022;22; Mahdia ;Céramique;
+2021/2022;23; Kairouan ;Céramique;
+2021/2022;24; Monastir ;Céramique;
+2021/2022;25; Sousse ;Céramique;
+2021/2022;26; Nabeul ;Céramique;1
+2021/2022;1;Tunis 1;Menuiserie métallique;
+2021/2022;2;Tunis 2;Menuiserie métallique;
+2021/2022;3; Ariana ;Menuiserie métallique;
+2021/2022;4; Mannouba ;Menuiserie métallique;
+2021/2022;5; Ben Arous ;Menuiserie métallique;
+2021/2022;6; Zaghouan ;Menuiserie métallique;
+2021/2022;7; Bizerte ;Menuiserie métallique;1
+2021/2022;8; Béja ;Menuiserie métallique;
+2021/2022;9; Jendouba ;Menuiserie métallique;
+2021/2022;10; Siliana ;Menuiserie métallique;
+2021/2022;11; Le Kef ;Menuiserie métallique;
+2021/2022;12; Kasserine ;Menuiserie métallique;
+2021/2022;13; Sidi Bouzid ;Menuiserie métallique;
+2021/2022;14; Gafsa ;Menuiserie métallique;
+2021/2022;15; Tozeur ;Menuiserie métallique;
+2021/2022;16; Kébili ;Menuiserie métallique;
+2021/2022;17; Tataouine ;Menuiserie métallique;
+2021/2022;18; Médenine ;Menuiserie métallique;1
+2021/2022;19; Gabès ;Menuiserie métallique;
+2021/2022;20;Sfax 1;Menuiserie métallique;
+2021/2022;21;Sfax 2;Menuiserie métallique;
+2021/2022;22; Mahdia ;Menuiserie métallique;
+2021/2022;23; Kairouan ;Menuiserie métallique;
+2021/2022;24; Monastir ;Menuiserie métallique;
+2021/2022;25; Sousse ;Menuiserie métallique;
+2021/2022;26; Nabeul ;Menuiserie métallique;
+2021/2022;1;Tunis 1;Commerce et services à distance;3
+2021/2022;2;Tunis 2;Commerce et services à distance;
+2021/2022;3; Ariana ;Commerce et services à distance;4
+2021/2022;4; Mannouba ;Commerce et services à distance;2
+2021/2022;5; Ben Arous ;Commerce et services à distance;3
+2021/2022;6; Zaghouan ;Commerce et services à distance;
+2021/2022;7; Bizerte ;Commerce et services à distance;3
+2021/2022;8; Béja ;Commerce et services à distance;4
+2021/2022;9; Jendouba ;Commerce et services à distance;
+2021/2022;10; Siliana ;Commerce et services à distance;1
+2021/2022;11; Le Kef ;Commerce et services à distance;1
+2021/2022;12; Kasserine ;Commerce et services à distance;
+2021/2022;13; Sidi Bouzid ;Commerce et services à distance;1
+2021/2022;14; Gafsa ;Commerce et services à distance;3
+2021/2022;15; Tozeur ;Commerce et services à distance;
+2021/2022;16; Kébili ;Commerce et services à distance;1
+2021/2022;17; Tataouine ;Commerce et services à distance;1
+2021/2022;18; Médenine ;Commerce et services à distance;4
+2021/2022;19; Gabès ;Commerce et services à distance;2
+2021/2022;20;Sfax 1;Commerce et services à distance;6
+2021/2022;21;Sfax 2;Commerce et services à distance;1
+2021/2022;22; Mahdia ;Commerce et services à distance;6
+2021/2022;23; Kairouan ;Commerce et services à distance;2
+2021/2022;24; Monastir ;Commerce et services à distance;8
+2021/2022;25; Sousse ;Commerce et services à distance;4
+2021/2022;26; Nabeul ;Commerce et services à distance;6
+2021/2022;1;Tunis 1;Arts et artisanat;5
+2021/2022;2;Tunis 2;Arts et artisanat;
+2021/2022;3; Ariana ;Arts et artisanat;
+2021/2022;4; Mannouba ;Arts et artisanat;4
+2021/2022;5; Ben Arous ;Arts et artisanat;
+2021/2022;6; Zaghouan ;Arts et artisanat;
+2021/2022;7; Bizerte ;Arts et artisanat;4
+2021/2022;8; Béja ;Arts et artisanat;3
+2021/2022;9; Jendouba ;Arts et artisanat;
+2021/2022;10; Siliana ;Arts et artisanat;1
+2021/2022;11; Le Kef ;Arts et artisanat;
+2021/2022;12; Kasserine ;Arts et artisanat;
+2021/2022;13; Sidi Bouzid ;Arts et artisanat;3
+2021/2022;14; Gafsa ;Arts et artisanat;
+2021/2022;15; Tozeur ;Arts et artisanat;3
+2021/2022;16; Kébili ;Arts et artisanat;
+2021/2022;17; Tataouine ;Arts et artisanat;
+2021/2022;18; Médenine ;Arts et artisanat;2
+2021/2022;19; Gabès ;Arts et artisanat;4
+2021/2022;20;Sfax 1;Arts et artisanat;6
+2021/2022;21;Sfax 2;Arts et artisanat;
+2021/2022;22; Mahdia ;Arts et artisanat;3
+2021/2022;23; Kairouan ;Arts et artisanat;3
+2021/2022;24; Monastir ;Arts et artisanat;6
+2021/2022;25; Sousse ;Arts et artisanat;1
+2021/2022;26; Nabeul ;Arts et artisanat;3
+2021/2022;1;Tunis 1;Tourisme;2
+2021/2022;2;Tunis 2;Tourisme;1
+2021/2022;3; Ariana ;Tourisme;3
+2021/2022;4; Mannouba ;Tourisme;3
+2021/2022;5; Ben Arous ;Tourisme;1
+2021/2022;6; Zaghouan ;Tourisme;
+2021/2022;7; Bizerte ;Tourisme;3
+2021/2022;8; Béja ;Tourisme;
+2021/2022;9; Jendouba ;Tourisme;1
+2021/2022;10; Siliana ;Tourisme;
+2021/2022;11; Le Kef ;Tourisme;1
+2021/2022;12; Kasserine ;Tourisme;1
+2021/2022;13; Sidi Bouzid ;Tourisme;1
+2021/2022;14; Gafsa ;Tourisme;1
+2021/2022;15; Tozeur ;Tourisme;
+2021/2022;16; Kébili ;Tourisme;1
+2021/2022;17; Tataouine ;Tourisme;
+2021/2022;18; Médenine ;Tourisme;2
+2021/2022;19; Gabès ;Tourisme;5
+2021/2022;20;Sfax 1;Tourisme;6
+2021/2022;21;Sfax 2;Tourisme;1
+2021/2022;22; Mahdia ;Tourisme;2
+2021/2022;23; Kairouan ;Tourisme;4
+2021/2022;24; Monastir ;Tourisme;1
+2021/2022;25; Sousse ;Tourisme;5
+2021/2022;26; Nabeul ;Tourisme;
+2021/2022;1;Tunis 1;Arts graphiques;
+2021/2022;2;Tunis 2;Arts graphiques;1
+2021/2022;3; Ariana ;Arts graphiques;
+2021/2022;4; Mannouba ;Arts graphiques;
+2021/2022;5; Ben Arous ;Arts graphiques;
+2021/2022;6; Zaghouan ;Arts graphiques;
+2021/2022;7; Bizerte ;Arts graphiques;
+2021/2022;8; Béja ;Arts graphiques;
+2021/2022;9; Jendouba ;Arts graphiques;
+2021/2022;10; Siliana ;Arts graphiques;
+2021/2022;11; Le Kef ;Arts graphiques;
+2021/2022;12; Kasserine ;Arts graphiques;1
+2021/2022;13; Sidi Bouzid ;Arts graphiques;
+2021/2022;14; Gafsa ;Arts graphiques;
+2021/2022;15; Tozeur ;Arts graphiques;
+2021/2022;16; Kébili ;Arts graphiques;
+2021/2022;17; Tataouine ;Arts graphiques;
+2021/2022;18; Médenine ;Arts graphiques;3
+2021/2022;19; Gabès ;Arts graphiques;
+2021/2022;20;Sfax 1;Arts graphiques;
+2021/2022;21;Sfax 2;Arts graphiques;
+2021/2022;22; Mahdia ;Arts graphiques;
+2021/2022;23; Kairouan ;Arts graphiques;
+2021/2022;24; Monastir ;Arts graphiques;
+2021/2022;25; Sousse ;Arts graphiques;
+2021/2022;26; Nabeul ;Arts graphiques;
+2021/2022;1;Tunis 1;Coiffure et esthétique;1
+2021/2022;2;Tunis 2;Coiffure et esthétique;
+2021/2022;3; Ariana ;Coiffure et esthétique;
+2021/2022;4; Mannouba ;Coiffure et esthétique;
+2021/2022;5; Ben Arous ;Coiffure et esthétique;
+2021/2022;6; Zaghouan ;Coiffure et esthétique;
+2021/2022;7; Bizerte ;Coiffure et esthétique;
+2021/2022;8; Béja ;Coiffure et esthétique;
+2021/2022;9; Jendouba ;Coiffure et esthétique;
+2021/2022;10; Siliana ;Coiffure et esthétique;
+2021/2022;11; Le Kef ;Coiffure et esthétique;
+2021/2022;12; Kasserine ;Coiffure et esthétique;
+2021/2022;13; Sidi Bouzid ;Coiffure et esthétique;
+2021/2022;14; Gafsa ;Coiffure et esthétique;
+2021/2022;15; Tozeur ;Coiffure et esthétique;
+2021/2022;16; Kébili ;Coiffure et esthétique;
+2021/2022;17; Tataouine ;Coiffure et esthétique;
+2021/2022;18; Médenine ;Coiffure et esthétique;1
+2021/2022;19; Gabès ;Coiffure et esthétique;
+2021/2022;20;Sfax 1;Coiffure et esthétique;1
+2021/2022;21;Sfax 2;Coiffure et esthétique;
+2021/2022;22; Mahdia ;Coiffure et esthétique;
+2021/2022;23; Kairouan ;Coiffure et esthétique;
+2021/2022;24; Monastir ;Coiffure et esthétique;
+2021/2022;25; Sousse ;Coiffure et esthétique;
+2021/2022;26; Nabeul ;Coiffure et esthétique;2
+2021/2022;1;Tunis 1;Patisserie;
+2021/2022;2;Tunis 2;Patisserie;
+2021/2022;3; Ariana ;Patisserie;
+2021/2022;4; Mannouba ;Patisserie;
+2021/2022;5; Ben Arous ;Patisserie;
+2021/2022;6; Zaghouan ;Patisserie;
+2021/2022;7; Bizerte ;Patisserie;
+2021/2022;8; Béja ;Patisserie;
+2021/2022;9; Jendouba ;Patisserie;
+2021/2022;10; Siliana ;Patisserie;
+2021/2022;11; Le Kef ;Patisserie;
+2021/2022;12; Kasserine ;Patisserie;
+2021/2022;13; Sidi Bouzid ;Patisserie;
+2021/2022;14; Gafsa ;Patisserie;
+2021/2022;15; Tozeur ;Patisserie;
+2021/2022;16; Kébili ;Patisserie;
+2021/2022;17; Tataouine ;Patisserie;
+2021/2022;18; Médenine ;Patisserie;1
+2021/2022;19; Gabès ;Patisserie;
+2021/2022;20;Sfax 1;Patisserie;
+2021/2022;21;Sfax 2;Patisserie;
+2021/2022;22; Mahdia ;Patisserie;
+2021/2022;23; Kairouan ;Patisserie;
+2021/2022;24; Monastir ;Patisserie;
+2021/2022;25; Sousse ;Patisserie;
+2021/2022;26; Nabeul ;Patisserie;
+2021/2022;1;Tunis 1;Tissage;
+2021/2022;2;Tunis 2;Tissage;
+2021/2022;3; Ariana ;Tissage;
+2021/2022;4; Mannouba ;Tissage;
+2021/2022;5; Ben Arous ;Tissage;2
+2021/2022;6; Zaghouan ;Tissage;
+2021/2022;7; Bizerte ;Tissage;
+2021/2022;8; Béja ;Tissage;
+2021/2022;9; Jendouba ;Tissage;
+2021/2022;10; Siliana ;Tissage;
+2021/2022;11; Le Kef ;Tissage;2
+2021/2022;12; Kasserine ;Tissage;
+2021/2022;13; Sidi Bouzid ;Tissage;5
+2021/2022;14; Gafsa ;Tissage;3
+2021/2022;15; Tozeur ;Tissage;
+2021/2022;16; Kébili ;Tissage;
+2021/2022;17; Tataouine ;Tissage;
+2021/2022;18; Médenine ;Tissage;
+2021/2022;19; Gabès ;Tissage;
+2021/2022;20;Sfax 1;Tissage;
+2021/2022;21;Sfax 2;Tissage;
+2021/2022;22; Mahdia ;Tissage;
+2021/2022;23; Kairouan ;Tissage;
+2021/2022;24; Monastir ;Tissage;
+2021/2022;25; Sousse ;Tissage;1
+2021/2022;26; Nabeul ;Tissage;

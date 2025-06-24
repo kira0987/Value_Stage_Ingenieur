@@ -1,0 +1,105 @@
+﻿annee_scolaire;ordre_CRE;nom_CRE;Sexe;effectif_enseignants
+2021/2022;1;Tunis 1;Masculin;419
+2021/2022;2;Tunis 2;Masculin;506
+2021/2022;3;Ariana;Masculin;477
+2021/2022;4;Mannouba;Masculin;495
+2021/2022;5;Ben Arous;Masculin;585
+2021/2022;6;Zaghouan;Masculin;396
+2021/2022;7;Bizerte;Masculin;839
+2021/2022;8;Béja;Masculin;586
+2021/2022;9;Jendouba;Masculin;1034
+2021/2022;10;Siliana;Masculin;712
+2021/2022;11;Le Kef;Masculin;666
+2021/2022;12;Kasserine;Masculin;1778
+2021/2022;13;Sidi Bouzid;Masculin;1940
+2021/2022;14;Gafsa;Masculin;1368
+2021/2022;15;Tozeur;Masculin;270
+2021/2022;16;Kébili;Masculin;588
+2021/2022;17;Tataouine;Masculin;429
+2021/2022;18;Médenine;Masculin;1386
+2021/2022;19;Gabès;Masculin;934
+2021/2022;20;Sfax 1;Masculin;1080
+2021/2022;21;Sfax 2;Masculin;1003
+2021/2022;22;Mahdia;Masculin;946
+2021/2022;23;Kairouan;Masculin;1764
+2021/2022;24;Monastir;Masculin;696
+2021/2022;25;Sousse;Masculin;885
+2021/2022;26;Nabeul;Masculin;1212
+2021/2022;1;Tunis 1;Feminin;1726
+2021/2022;2;Tunis 2;Feminin;1674
+2021/2022;3;Ariana;Feminin;1914
+2021/2022;4;Mannouba;Feminin;1450
+2021/2022;5;Ben Arous;Feminin;2728
+2021/2022;6;Zaghouan;Feminin;798
+2021/2022;7;Bizerte;Feminin;2375
+2021/2022;8;Béja;Feminin;1486
+2021/2022;9;Jendouba;Feminin;1641
+2021/2022;10;Siliana;Feminin;1174
+2021/2022;11;Le Kef;Feminin;1297
+2021/2022;12;Kasserine;Feminin;1992
+2021/2022;13;Sidi Bouzid;Feminin;1880
+2021/2022;14;Gafsa;Feminin;1477
+2021/2022;15;Tozeur;Feminin;547
+2021/2022;16;Kébili;Feminin;719
+2021/2022;17;Tataouine;Feminin;742
+2021/2022;18;Médenine;Feminin;2484
+2021/2022;19;Gabès;Feminin;1962
+2021/2022;20;Sfax 1;Feminin;2008
+2021/2022;21;Sfax 2;Feminin;2271
+2021/2022;22;Mahdia;Feminin;2059
+2021/2022;23;Kairouan;Feminin;2561
+2021/2022;24;Monastir;Feminin;2745
+2021/2022;25;Sousse;Feminin;2986
+2021/2022;26;Nabeul;Feminin;3471
+2020/2021;1;Tunis 1;Masculin;453
+2020/2021;2;Tunis 2;Masculin;517
+2020/2021;3;Ariana;Masculin;458
+2020/2021;4;Mannouba;Masculin;520
+2020/2021;5;Ben Arous;Masculin;616
+2020/2021;6;Zaghouan;Masculin;373
+2020/2021;7;Bizerte;Masculin;863
+2020/2021;8;Béja;Masculin;602
+2020/2021;9;Jendouba;Masculin;1043
+2020/2021;10;Siliana;Masculin;716
+2020/2021;11;Le Kef;Masculin;700
+2020/2021;12;Kasserine;Masculin;1773
+2020/2021;13;Sidi Bouzid;Masculin;1987
+2020/2021;14;Gafsa;Masculin;1378
+2020/2021;15;Tozeur;Masculin;275
+2020/2021;16;Kébili;Masculin;589
+2020/2021;17;Tataouine;Masculin;427
+2020/2021;18;Médenine;Masculin;1409
+2020/2021;19;Gabès;Masculin;954
+2020/2021;20;Sfax 1;Masculin;1060
+2020/2021;21;Sfax 2;Masculin;1028
+2020/2021;22;Mahdia;Masculin;942
+2020/2021;23;Kairouan;Masculin;1750
+2020/2021;24;Monastir;Masculin;727
+2020/2021;25;Sousse;Masculin;890
+2020/2021;26;Nabeul;Masculin;1251
+2020/2021;1;Tunis 1;Feminin;1732
+2020/2021;2;Tunis 2;Feminin;1630
+2020/2021;3;Ariana;Feminin;1757
+2020/2021;4;Mannouba;Feminin;1396
+2020/2021;5;Ben Arous;Feminin;2632
+2020/2021;6;Zaghouan;Feminin;625
+2020/2021;7;Bizerte;Feminin;2291
+2020/2021;8;Béja;Feminin;1409
+2020/2021;9;Jendouba;Feminin;1596
+2020/2021;10;Siliana;Feminin;1054
+2020/2021;11;Le Kef;Feminin;1284
+2020/2021;12;Kasserine;Feminin;1807
+2020/2021;13;Sidi Bouzid;Feminin;1843
+2020/2021;14;Gafsa;Feminin;1434
+2020/2021;15;Tozeur;Feminin;484
+2020/2021;16;Kébili;Feminin;658
+2020/2021;17;Tataouine;Feminin;668
+2020/2021;18;Médenine;Feminin;2310
+2020/2021;19;Gabès;Feminin;1902
+2020/2021;20;Sfax 1;Feminin;1878
+2020/2021;21;Sfax 2;Feminin;2101
+2020/2021;22;Mahdia;Feminin;1936
+2020/2021;23;Kairouan;Feminin;2315
+2020/2021;24;Monastir;Feminin;2635
+2020/2021;25;Sousse;Feminin;2836
+2020/2021;26;Nabeul;Feminin;3357

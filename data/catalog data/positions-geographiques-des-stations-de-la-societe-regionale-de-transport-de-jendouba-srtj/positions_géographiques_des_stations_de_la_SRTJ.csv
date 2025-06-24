@@ -1,0 +1,192 @@
+Nom de la Station;Propriétaire de la station;Type de la station;Type de mobilier;Existence des bancs;Existence eclairage;Existence poubelle;Existence Acces_PMR;Longitude;Latitude;Commune;Delegation
+Jendouba;Agence tunisienne du transport terrestre;Gare_Routiere;autre;yes;yes;yes;yes;8.7754209208;36.4948947010;Jendouba;Jendouba
+Elazima;Srt jendouba;Arret_Bus;abribus;yes;no;no;yes;8.8803521127;36.5540761424;Souk essebt;Jendouba
+Bousalem;Srt jendouba;Arret_Bus;abribus;yes;yes;yes;yes;8.9731697492;36.6096635499;Bousalem;Bousalem
+R.tibar;Srt jendouba;Arret_Bus;autre;no;no;no;yes;9.1341483242;36.6363139091;Beja;Beja
+H.sayala;SRT Beja;Arret_Bus;abribus;yes;no;no;yes;9.1519982152;36.6641746649;Beja;Beja
+Beja;SRT Beja;Gare_Routiere;abribus;yes;yes;yes;yes;9.1909273789;36.7263763580;Beja;Beja
+K.Mezouar;SRT Beja;Arret_Bus;autre;no;no;no;no;9.3284147512;36.7879112950;Beja;Beja
+Zriba;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.3816415127;36.8444643309;Beja;Beja
+Smadah;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.4130478334;36.8690035678;Mateur;Bizerte
+Sidi Nsir;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.4438802451;36.8942190986;Mateur;Jendouba
+Sidi Bechir;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.4743011054;36.9448853983;Mateur;Bizerte
+Le Pont;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.4986541383;36.9607826415;Mateur;Bizerte
+Le Barage;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.5278587006;36.9617121946;Mateur;Bizerte
+Mateur;SRT Bizerte;Station_Bus;autre;no;yes;no;no;9.6664413158;37.0365736540;Mateur;Bizerte
+Stakat;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.7272351757;37.1132387314;Mateur;Bizerte
+M.Bourghiba;SRT Bizerte;Station_Bus;abribus;yes;yes;no;no;9.7895976249;37.1556934901;Menzel Bourguiba;Bizerte
+Tinja;SRT Bizerte;Arret_Bus;abribus;yes;yes;no;no;9.7654655389;37.1602551313;Tinja;Bizerte
+Bizerte;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.8589583766;37.2684580833;Bizerte;Bizerte
+Aindrahem;SRT Jendouba;Station_Bus;abribus;yes;yes;yes;no;8.6884887318;36.7792598295;Aindrahem;Jendouba
+Tebainia;SRT Jendouba;Arret_Bus;abribus;yes;yes;no;no;8.7124030385;36.7776240176;Ain Drahem;Jendouba
+Homrane;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.8553099614;36.7817125004;Beja;Beja
+S.ESSEBT;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.8917471841;36.7997977557;Ain drahem;Jendouba
+Ain Snoussi;SRT Beja;Arret_Bus;abribus;yes;no;no;no;8.9183657616;36.8197823502;Ain Drahem;Jendouba
+GHORFA;SRT Beja;Arret_Bus;abribus;yes;no;no;no;8.9052841254;36.8052640557;Beja;Beja
+Merguega;SRT Beja;Arret_Bus;abribus;yes;no;no;no;8.9183454774;36.8199268542;Beja;Beja
+M. Ensara;SRT Beja;Arret_Bus;abribus;yes;no;no;no;8.9531342313;36.8228813494;Beja;Beja
+El gossa;SRT Jendouba;Arret_Bus;abribus;yes;no;no;no;9.0364838764;36.7687463248;Beja;Beja
+Amdoun;SRT Beja;Arret_Bus;abribus;no;no;no;no;9.0903455671;36.7700554105;Beja;Beja
+Manghouch;SRT Jendouba;autre;autre;no;no;no;no;9.0146929398;36.5421943786;Bousalem;Jendouba
+Tibar;SRT Beja;Arret_Bus;autre;no;yes;no;no;9.1017233301;36.5245006420;Tibar;Beja
+A. Milliti;SRT Beja;Arret_Bus;abribus;yes;no;no;no;9.1700584721;36.4853760134;Tibar;Beja
+Teboursouk;SRT Beja;Arret_Bus;autre;no;no;no;no;9.2494264618;36.4580338262;Teboursouk;Beja
+Dogga;SRT Beja;Arret_Bus;abribus;no;no;no;no;9.2408969533;36.3998309383;Dogga;Beja
+Doukania;SRT Seliana;Arret_Bus;abribus;yes;no;no;no;9.2252868321;36.3487911830;Seliana;Seliana
+Lakouat;SRT Seliana;Arret_Bus;abribus;yes;yes;no;no;9.2570747808;36.2571300426;Seliana;Seliana
+LAGSAB;SRT Seliana;Arret_Bus;abribus;yes;no;no;no;9.3076327443;36.1940230709;Seliana;Seliana
+M. Echems;SRT Seliana;Arret_Bus;abribus;yes;no;no;no;9.3312779255;36.1733420240;Seliana;Seliana
+Seliana;SRT Seliana;Gare_Routiere;autre;yes;yes;no;no;9.3703871313;36.0944232624;Seliana;Seliana
+Tabarka;SRT Jendouba;Station_Bus;abri_bati;yes;yes;no;no;8.7582652665;36.9538072767;Tabarka;Jendouba
+Elkedheria;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.7441853699;36.8921962749;Tabarka;Jendouba
+Babouch;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.6778268980;36.8025502031;Aindrahem;Jendouba
+fernana;SRT Jendouba;Station_Bus;abribus;yes;yes;no;no;8.6956718772;36.6567612061;fernana;jendouba
+H.fernen;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.6800075838;36.7306332549;Aindrahem;Jendouba
+Ben Mtir;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.7345093861;36.7397836642;Bni Mtir;Jendouba
+dar elhamra;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.6956712720;36.5795577883;jendouba nord;jendouba
+Mutul;SRT Jendouba;Arret_Bus;abribus;yes;yes;no;no;8.7599978317;36.4225304313;Jendouba;Jendouba
+J. Mellegue;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.7479976285;36.4063228481;Jendouba;Jendouba
+SIDI KHIAR;SRT Jendouba;Arret_Bus;abribus;no;yes;no;no;8.7907910161;36.3549312204;Jendouba;Jendouba
+Nebeur;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.7700632401;36.3037023274;Kef;Kef
+El Mahassen;SRT Kef;Arret_Bus;abribus;no;no;no;no;8.8087244332;36.2631460279;Kef;Kef
+Bourj Aifa;SRT Kef;Arret_Bus;abribus;yes;yes;no;no;8.8513877336;36.2184780277;Kef;Kef
+B Ezzafrane;SRT Kef;Arret_Bus;autre;no;yes;no;no;8.7716881558;36.1624360364;Kef;Kef
+El Kef;SRT Kef;Arret_Bus;autre;no;yes;no;no;8.7032159697;36.1621646723;Kef;Kef
+Bouterfes;SRT Jendouba;Arret_Bus;abribus;yes;no;no;no;8.8569456528;36.9543458244;Tabarka;Tabarka
+Ain sobeh;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8734186177;36.9524077271;Tabarka;Tabarka
+Ouechtata;SRT Jendouba;Arret_Bus;autre;no;no;no;no;9.0036138937;36.9614536003;Nefza;Beja
+Nefza;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.0675861411;36.9768134119;Nefza;Beja
+Tamra;SRT Bizerte;Arret_Bus;abribus;yes;yes;no;no;9.1217539832;37.0585737191;Tamra;Bizerte
+Sejnene;SRT Bizerte;Arret_Bus;autre;no;yes;no;no;9.2395345587;37.0571747795;Sejnene;Bizerte
+Ben Saidene;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.3043162767;37.0306375064;Sejnene;Bizerte
+Aiuena;SRT Bizerte;Station_Bus;autre;no;no;no;no;9.3575971015;37.0348389773;Sejnene;Bizerte
+Jefna;SRT Bizerte;Station_Bus;autre;no;no;no;no;9.4425959699;37.0443795109;Sejnene;Bizerte
+Errokb;SRT Bizerte;Station_Bus;autre;no;no;no;no;9.4763388298;37.0510014659;Ghzala;Bizerte
+Gzala;SRT Bizerte;Arret_Bus;autre;no;yes;no;no;9.5352358650;37.0837083226;Gzala;Bizerte
+Jalta;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.6013671532;37.0652520843;Mateur;Bizerte
+Elmarja;Srt jendouba;Arret_Bus;abribus;yes;no;no;yes;8.9032629890;36.5691306228;Bousalem;Bousalem
+Roumani;SRT Jendouba;Arret_Bus;abribus;yes;no;no;yes;9.0126556233;36.6246124760;Bousalem;Bousalem
+S. Meskine;SRT Jendouba;Arret_Bus;abribus;yes;yes;no;no;8.6594978906;36.4528875472;Jendouba;Jendouba
+hkim;SRT Jendouba;Arret_Bus;abribus;yes;yes;no;no;8.6127671879;36.4594115177;Oued Mliz;Jendouba
+Oued Mliz;SRT Jendouba;Arret_Bus;abribus;yes;no;no;no;8.5530937370;36.4678958897;Oued Mliz;Jendouba
+Ghardimaou;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.4430390131;36.4508154988;Ghardimaou;Jendouba
+Elkhanga;SRT Bizerte;Arret_Bus;abribus;yes;yes;no;no;9.1450614884;36.9067642145;Beja;Beja
+Echarchara;SRT Jendouba;Arret_Bus;abri_bati;yes;no;no;no;9.1970456441;36.8828312770;Nefza;Beja
+Mriguida;SRT Beja;Arret_Bus;autre;no;no;no;no;9.1868218175;36.8223993319;Beja;Beja
+Km 10;SRT Bizerte;Arret_Bus;autre;no;no;no;no;9.1854626531;36.8121207702;Beja;Beja
+Chemto;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.5792713426;36.4997351775;Jendouba;Jendouba
+El Khadhra;SRT Kairaouen;autre;abribus;yes;no;no;no;10.0549312122;36.1732928641;Kairaouen;Kairaouen
+Riabna;SRT jendouba;Arret_Bus;autre;no;no;no;no;8.9286234509;36.4734134031;Bousalem;Jendouba
+Jeleilia;SRT jendouba;Arret_Bus;abribus;no;no;no;no;8.7142864938;36.5525390481;Jendouba nord;Jendouba
+RAS.ERRAJEL;SRT Jendouba;Arret_Bus;abribus;yes;yes;no;no;8.8664071821;36.9526410056;Tabarka;Jendouba
+Ain.jamel;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.7064527942;36.8323067949;Tabarka;Jendouba
+Jantoura;SRT Jendouba;Arret_Bus;abribus;yes;no;no;no;8.7200276367;36.6894667642;Bni Mtir;Jendouba
+Doura;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.9433973096;36.6869829129;Bousalem;Jendouba
+Beldia;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.8901143894;36.6712789983;Bousalem;Jendouba
+P. Bouhertma;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8000417035;36.6814660700;Bni Mtir;Jendouba
+B Bouhertma;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.7382527441;36.6867808672;Bni Mtir;Jendouba
+oued ghrib;SRT Jendouba;Arret_Bus;abribus;no;no;no;no;8.6869211697;36.6124623149;fernana;jendouba
+SIDI ASKER;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8969420362;36.9190079486;Tabarka;Jendouba
+r.ben.mtir;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.6795748378;36.7181778689;fernana;jendouba
+SIDI RUINE;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.9005188458;36.8934232788;Tabarka;Jendouba
+Ortha;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.9238985721;36.8921404285;Ain Drahem;Jendouba
+S. Gouider;SRT Beja;Arret_Bus;autre;no;no;no;no;8.8931957446;36.8581360951;Ain Drahem;Jendouba
+Ain Zana;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8870290108;36.7720114114;Balta bouaouen;Jendouba
+R. Balta;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.9299104922;36.7004416930;Bousalem;Bousalem
+Fajja;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.9198743366;36.7329997290;Balta bouaouen;Jendouba
+Dbebsa;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8715216517;36.7439902481;Balta bouaouene;Jendouba
+Aouaoudha;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.9312606491;36.7183881439;Balta bouaouen;Bousalem
+Azeizia;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8960915245;36.7345363833;Balta bouaouen;Jendouba
+Oued Zarga;SRT Beja;Arret_Bus;abribus;yes;no;no;no;9.4405242987;36.6644056700;Mjez el beb;Jendouba
+Mjez el beb;SRT Beja;Station_Bus;autre;yes;yes;yes;yes;9.6134584676;36.6398532735;Mjez el beb;Beja
+Boujrida;SRT Kef;Arret_Bus;autre;no;no;no;no;8.8175261859;36.1897436483;Kef;Kef
+H. Biadha 1;SRT Seliana;Arret_Bus;autre;no;no;no;no;8.9459399600;36.4245414594;Krib;Seliana
+H. Biadha 2;SRT Seliana;Arret_Bus;autre;no;no;no;no;8.9799564052;36.3974789344;Krib;Seliana
+Argoub Klaa;SRT Seliana;Arret_Bus;autre;no;no;no;no;9.0044578817;36.3578267489;Krib;Seliana
+Mhiris;SRT Seliana;Arret_Bus;autre;no;no;no;no;9.0414250921;36.3152888836;Krib;Seliana
+Borj Massoud;SRT Kef;Arret_Bus;abribus;yes;no;no;no;9.0616133250;36.2899645977;Kef;Kef
+Krib;SRT Seliana;Arret_Bus;abribus;no;no;no;no;9.1338713653;36.3259335235;Krib;Seliana
+Gaafour;SRT Seliana;Arret_Bus;abribus;yes;yes;no;no;9.3216390721;36.3239173824;Gaafour;Seliana
+El Menchar;SRT Beja;Arret_Bus;abribus;yes;no;no;no;9.2893593572;36.7103931075;Mjez el beb;beja
+R. Leksar;SRT Beja;Arret_Bus;abribus;no;no;no;no;9.3838592805;36.6976433946;Mjez el beb;Beja
+Eljdidi;SRT Beja;Arret_Bus;abribus;no;no;no;no;9.5143972803;36.6614685254;Mjez El Beb;Beja
+Gboulaat;SRT Beja;Arret_Bus;abribus;yes;no;no;no;9.6612271853;36.5399561170;Mjez el beb;beja
+R. Boaarada;SRT Beja;Arret_Bus;autre;no;no;no;no;9.6686454210;36.4990317263;Mjez el beb;Beja
+El Baji;SRT Beja;Arret_Bus;autre;no;no;no;no;9.7210876364;36.4810855268;Mjez el beb;Beja
+S.A. Echaib;SRT Beja;Arret_Bus;autre;no;no;no;no;9.8286901508;36.4309300203;Mjez El beb;Beja
+El Grifat;SRT Beja;Arret_Bus;autre;no;no;no;no;9.8682682402;36.4088068251;Mjez el beb;Beja
+EL Fahs;SRT Nabeul;Arret_Bus;autre;no;no;no;no;9.9093987420;36.3845969550;El Fahs;Zaghouen
+R. jigaar;SRT Nabeul;Arret_Bus;abribus;yes;no;no;no;10.0167732686;36.2736803619;El fahs;zaghouen
+Swar;SRT Kairaouen;autre;autre;no;no;no;no;10.0213346165;36.2216575770;Kairaouen;Kairaouen
+El Nadhour;SRT Sahel;autre;autre;no;no;no;no;10.0952977873;36.1212115735;Enadhour;Kairaouen
+H. Elbaji;SRT Sahel;autre;autre;no;no;no;no;10.1726863906;36.0245336546;Kairaouen;Kairaouen
+Elawitha;SRT Sahel;autre;autre;no;no;no;no;10.2090848051;35.9995003464;Kairaouen;Kairaouen
+Akaara;SRT Sahel;autre;autre;no;no;no;no;10.2455485146;35.9491901938;Kandaar;Sousse
+Kandaar;SRT Sahel;Arret_Bus;abribus;yes;no;no;no;10.3028275073;35.9321664227;Kandaar;Sousse
+El Galaa;SRT Sahel;autre;autre;no;no;no;no;10.5378092173;35.8762938716;Ham. Sousse;Sousse
+Akoudaa;SRT Sahel;Arret_Bus;autre;no;no;no;no;10.5502652284;35.8700239146;Ham. Sousse;Sousse
+Ham. Sousse;SRT Sahel;Arret_Bus;abribus;yes;yes;no;no;10.5794946849;35.8675311366;Hammem sousse;Sousse
+Sousse;SRT Sahel;Station_Bus;abribus;no;yes;no;no;10.6306462549;35.8150782762;Sousse;Sousse
+El Gantra;SRT Seliana;Arret_Bus;abribus;no;no;no;no;9.4376309495;36.0093355877;Seliana;Seliana
+Sidi Amara;SRT Kairaouen;Arret_Bus;abribus;no;no;no;no;9.5537252538;35.8536106395;Oueslatia;Kairaouen
+Oueslatia;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.5914155710;35.8482391806;Oueslatia;Kairaouen
+Ain Jalloula;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.7972225584;35.8025012724;Kairaouen;Kairaouen
+SIDI ABDALLAH;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.8535335250;35.8068097802;Kairaouen;Kairaouen
+Rouiset;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.9230833724;35.7559625991;Kairaouen;Kairaouen
+Baten;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;10.0022805389;35.7106806664;Kairaouen;Nairaouen
+Kairaouen;SET Kairaouen;Gare_Routiere;autre;no;yes;no;no;10.0883486867;35.6783472653;Kairaouen;Kairaouen
+El Bazina;SRT Kairaouen;autre;autre;no;no;no;no;9.6817517001;35.8412005613;Oueslatia;Kairaouen
+Tfifila;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.7035746556;35.8650295576;Oueslatia;Kairaouen
+El Argoub;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.8180058226;35.8045186289;Kairaouen;Kairaouen
+El Amarsia;SRT Seliana;autre;autre;no;no;no;no;9.4706557319;35.9750796715;Seliana;Seliana
+R.Echawala;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8661733270;36.6736155795;Bousalem;Jendouba
+Edarraji;SRT Jendouba;Arret_Bus;autre;no;no;no;no;8.8484951388;36.6744303424;Bni Mtir;Jendouba
+S.Amer;SRT Seliana;autre;autre;no;no;no;no;9.4693693612;35.8878220897;Seliana;Seliana
+R. Bourwiss;SRT Beja;Arret_Bus;abribus;yes;no;no;no;9.1098104417;36.7824464617;Beja;Beja
+Faculté;SRT Jendouba;Arret_Bus;abribus;yes;yes;no;no;8.7625479396;36.5085373329;Jendouba nord;Jendouba
+B. Hlima;SRT Nabeul;Arret_Bus;abribus;no;no;no;no;10.0464783143;36.3961588265;Zaghouen;Zaghouen
+Mogren;SRT Nabeul;Arret_Bus;abribus;no;no;no;no;10.0930155627;36.4234415023;Zaghouen;Zaghouen
+Zaghouen;SRT Nabeul;Arret_Bus;abribus;yes;yes;no;no;10.1482040249;36.4001247659;Zaghouen;Zaghouen
+El Hammamet;SRT Nabeul;Arret_Bus;abribus;yes;yes;no;no;10.5896282382;36.4055505814;Hammamet;Nabeul
+Nabeul;SRT Nabeul;Station_Bus;abribus;yes;yes;no;no;10.7292551547;36.4518954651;Nabeul;Nabeul
+El khnigua;SRT Nabeul;Arret_Bus;abribus;no;no;no;no;9.9527461734;36.3956204150;El Fahs;Nabeul
+W el rebeh;SRT Nabeul;Arret_Bus;abribus;no;no;no;no;10.1886786427;36.4061309444;Zaghouen;Zaghouen
+Bou Slim;SRT Nabeul;Arret_Bus;abribus;no;no;no;no;10.2896006126;36.3956821896;Zaghouen;Zaghouen
+H B Jdidi;SRT Nabeul;Arret_Bus;abribus;no;no;no;no;10.3793428000;36.3946541911;Hammamet;Nabeul
+Sidi Jdidi;SRT Nabeul;autre;autre;no;no;no;no;10.4631415475;36.4167509414;Hammamet;Nabeul
+B. Essahel;SRT Nabeul;Station_Bus;abribus;yes;yes;no;no;10.5621241964;36.4048736170;Hammamet;Nabeul
+Elarousa;SRT Seliana;Arret_Bus;abribus;yes;yes;no;no;9.4553316850;36.3804927561;Gaafour;Seliana
+Bouarada;SRT Seliana;Arret_Bus;abribus;yes;yes;no;no;9.6223603003;36.3509397162;Bouarada;Seliana
+Al Amaem;SRT Seliana;Arret_Bus;autre;no;no;no;no;9.7061370872;36.3447827892;Bouaarada;Seliana
+BHARA;SRT Kef;Arret_Bus;autre;no;no;no;no;8.9131071232;36.2485947507;Kef;Kef
+S. Madyen;SRT Kef;Arret_Bus;abribus;no;no;no;no;8.9905005042;36.2883507041;Kef;Kef
+Monastir;SRT Sahel;Station_Bus;abribus;yes;yes;no;no;10.8259903640;35.7734575169;Monastir;Monastir
+Jlida;SRT Seliana;Arret_Bus;abribus;yes;no;no;no;9.5550918393;36.3714759657;Bouarada;Seliana
+El mrij;SRT Jendouba;Arret_Bus;abribus;yes;no;no;no;8.6809078900;36.7477794144;Aindrahem;Jendouba
+Borj Torki;SRT Kef;Arret_Bus;autre;no;no;no;no;8.7608641633;36.0436660134;Kef;Kef
+Eddahmani;SRT Kef;Station_Bus;autre;yes;yes;no;no;8.8310192901;35.9464899649;Dahmani;Kef
+Elksour;SRT Kef;Arret_Bus;abribus;no;yes;no;no;8.8847932917;35.8945544053;Dahmani;Kef
+Ezitouna;SRT Kef;Arret_Bus;abribus;yes;no;no;no;8.9861648436;35.8180270895;Dahmani;Kef
+Erouhia;SRT Kef;Arret_Bus;autre;no;no;no;no;9.0558638010;35.6525244195;Errouhia;Kef
+Jedelien;SRT Kasserine;Arret_Bus;abribus;yes;no;no;no;9.0557174623;35.5928976311;Rouhia;Seliana
+Sbiba;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.0764704606;35.5377636556;Sbiba;Kasserine
+A. Khamisia;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.0993496511;35.5093796634;Sbiba;Kasserine
+El gonna;SRT Kasserine;Arret_Bus;abribus;no;no;no;no;9.1129539148;35.4910198491;Sbiba;Kasserine
+Eznaydia;SRT Kasserine;Arret_Bus;abribus;no;no;no;no;9.1201937163;35.3951665301;Sbitla;Kasserine
+Sbitla;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.1260839979;35.2330055917;Sbitla;Kasserine
+Essabala;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.2842758496;35.1758900854;Sbitla;Kasserine
+Echaraa;SRT Kasserine;autre;autre;no;no;no;no;9.3269032319;35.1596432195;Sidi Bouzid;Sidi Bouzid
+Laswda;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.5352650801;35.0997818441;Sidi Bouzid;Sidi Bouzid
+El Fayedh;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.6514607495;35.0573096850;Sidi Bouzid;Sidi Bouzid
+El Hnia;SRT Kasserine;Arret_Bus;abribus;yes;no;no;no;9.7319381401;35.0710932431;Sidi Bouzid;Sidi Bouzid
+A Haffouz;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.8682177634;35.0816351797;A Haffouz;Sidi Bouzid
+Edhwibet;SRT Kasserine;Arret_Bus;abribus;no;no;no;no;9.9444304632;35.0903511485;Kairaouen;Kairaouen
+Ranzez;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;9.9815522066;35.0574237178;Kairaouen;Kairaouen
+R. 74;SRT Kairaouen;Arret_Bus;autre;no;no;no;no;10.0532938334;35.0447460769;Sidi Bouzid;Sidi Bouzid
+Elimaya;SRT Sfax;Arret_Bus;abribus;yes;no;no;no;10.1857452326;35.0289489334;Sfax;Sfax
+El Hnia;SRT Kasserine;Arret_Bus;autre;no;no;no;no;9.7772710840;35.0723397139;Sidi Bouzid;Sidi Bouzid
+M. Chaker;SRT Sfax;Arret_Bus;abribus;yes;no;no;no;10.3716781722;34.9698341697;Menzel chaker;Sfax
+M. Mawya;SRT Sfax;Arret_Bus;autre;no;no;no;no;10.4168075181;34.9388733651;Sfax;Sfax
+B. Mallouli;SRT Sfax;Arret_Bus;autre;no;no;no;no;10.5513614112;34.8582378465;Sfax;Sfax
+El khazna;SRT Sfax;Arret_Bus;abribus;yes;no;no;no;10.6412223723;34.7933070703;Sfax;Sfax
+Sfax;SRT Sfax;Arret_Bus;autre;yes;yes;yes;yes;10.7573181223;34.7231550782;Sfax;Sfax

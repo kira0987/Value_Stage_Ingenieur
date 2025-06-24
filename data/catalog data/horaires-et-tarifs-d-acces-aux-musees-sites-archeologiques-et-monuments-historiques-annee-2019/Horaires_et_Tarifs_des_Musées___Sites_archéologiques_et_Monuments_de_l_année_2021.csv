@@ -1,0 +1,56 @@
+gov_name_f,gov_id,Site-et-Musee,Adresse,Resident,Non-resident,Horiares-ouverture-Hiver,Horaires-ouvertures-Été,Horaires-ouverture-Ramadan,Observation,Tel
+Tunis,11,Musée de Carthage,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,71730036
+Tunis,11,Thermes d'Antonin,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,71730261
+Tunis,11,Villas Romaines,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,*
+Tunis,11,Tophet salambo,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,*
+Tunis,11,Théatre Romain,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,*
+Tunis,11,Amphithéatre de Carthage,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,*
+Tunis,11,Quartier Magon,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,*
+Tunis,11,Quartier Didon,Carthage,9000,12000,8:30-17:00,8:00-18:00,8:00-17:00,Billet groupée,*
+Tunis,11,Musée national du Bardo,Av Mongi Slim Le Bardo,8000,13000,9:30-16:30,9:00-17:00,9:30-16:30,Fermé Lundi,71 513 842 /71 513 650
+Tunis,11,Centre de présentation de Medina de Tunis,El Kasba - Tunis,*,*,9:00 - 16:00,8:00 - 14:30,9:00 - 16:00,Fermé le Samedi et Dimanche,*
+Ben Arous,13,Site d'Oudhna,Morneg-Route Zagouan Ben Arous,5000,8000,9:00 -17:00,9:00 -17:00,9:00 --16:00,Ouvert toute la semaine,*
+Bizerte,16,Site et Musée Utique,Utique - Bizerte,5000,8000,8:30 -17:00,8:00-19:00,8:30-17:00,Musée fermé Lundi,*
+Zaghouan,17,Site Thuburbo Majus,El Fahs ,5000,8000,8:30-17:30,8:00-17:00,8:00-17:00,Ouvert toute la semaine,*
+Mahdia,33,Collisée EL jem(Amphithéatre),Rue Ali belhareth - El Jem,8000,12000,7:30-17:30,7:30-18:30,8:00-17:00,Billet groupée,73630969
+Mahdia,33,Musée El Jem,El Jem,8000,12000,8:00-17:30,8:00-18:30,8:00-17:00,Billet groupée,73630093
+Sousse,31,Musée Enfidha,Enfidha - Sousse,4000,"5,000 Dt",9:00-16:00,9:00-16:00,9:00-15:00,Fermé lundi,*
+Sousse,31,Musée de Sousse,Sousse ville,5000,"10,000 Dt",9:00-17:00,9:00-18:00,9:00-16:00,Fermé lundi,73219011
+Sousse,31,Ribat de Sousse,Rue de l'Eglise- sousse,5000,8000,8:00-17:30,8:00-19:00,8:00-17:00,Ouvert toute la semaine,73201228
+Sousse,31,Mosquée de Sousse,Rue de Mosquée-Sousse,Gratuit,5000,8:00-13:00,8:00-15:00,7:00-13:00,Vendredi 8:00-12:00,
+Monastir,32,Musée de Monastir(ATP),Av de l'indipendance-monastir,4000,5000,9:00-16:00,9:00-16:00,9:00-15:00,Fermé lundi,
+Monastir,32,Musée Habib Bourguiba,Le Palais Présidentiel-Monastir,5000,10000,9:00-17:00,9:00-17:00,9:30--15:30,Fermé lundi,
+Monastir,32,Ribat de Monastir,Rue Mohamed Slim-Monastir,5000,8000,8:30-17:30,8:00-19:00,8:00-17:00,Ouvert toute la semaine,73461272
+Mahdia,33,Borj Mahdia,Rue de borj Otthoman,5000,8000,9:00-16:00,9:00-17:00,9:00 --16:00,Ouvert toute la semaine,*
+Mahdia,33,Musée Mahdia,Rue mohamed Turki,5000,8000,9:00-16:00,9:00-16:00,9:00-16:00,Fermé lundi,73692752
+Mahdia,33,Musée Salakta,Salakta,4000,5000,9:00-16:00,9:00-16:00,9:00-15:00,Fermé lundi,*
+Nabeul,15,fort Hammamet,Av de la republique-Hammamet,5000,8000,8:30-18:00,8:00-19:00,9:00-17:00,Ouvert toute la semaine,*
+Nabeul,15,Site Pupput hammamet,Route Tourestique-hammamet,4000,5000,9:30-16:30,9:00-17:00,9:30--16:30,Ouvert toute la semaine,*
+Nabeul,15,Fort Kélibia,Av Mansoura-Kélibia,5000,8000,9:00-17:00,9:00-19:00,9:30--17:00,Ouvert toute la semaine,*
+Nabeul,15,Musée Nabeul,Av Habib bourguiba-Nabeul,5000,8000,9:30-16:30,9:00-13:00 /16:00-18:00,9:00 --16:00,Fermé lundi,72285509
+Nabeul,15,Site de Néapolis,Route Tourestique-Nabeul,4000,5000,9:00-13:00 /14:00-17:00,9:00-13:00 /16:00-18:00,9:30--16:30,Fermé lundi,*
+Nabeul,15,Kerkouene(site et musée),kerkouane,5000,8000,9:00-16:00,9:00-18:00,9:30-17:00,Musée fermé Lundi,72330466
+Nabeul,15,Grottes de Haouaria,Haouaria,5000,8000,9:00-17:00,9:00-18:00,9:00-16:00,Ouvert toute la semaine,*
+Kairouan,41,Bassins Aghlabides,Av Imem Sahnoun-Kairouan,Gratuit,12000,8:00-17:00 samedi et dimanche     8:00-15:00,7:30-14:00,8:00-14:00,Vendredi jusqu'au13:00,77270452
+Kairouan,41,Grande Mosquée,Av Okba Ibn Nafea-kairouan,Gratuit,12000,8:00-14:00,7:30-14:00,8:00-14:00,Vendredi jusqu'au12:00,77270452
+Kairouan,41,Mausolée Sidi Sahbi,Av Imem Sahnoun-Kairouan,Gratuit,12000,8:00-15:00,7:30-14:00,8:00-14:00,Vendredi jusqu'au13:00,77270452
+Kairouan,41,Mausolée Sidi Amor Abada,La Médina -kairouan,Gratuit,12000,9:00-16:00,8:00-14:00,8:00-14:00,Vendredi jusqu'au13:00 Fermé lundi,77270452
+Kairouan,41,Mausolée Sidi Abid,La Médina -kairouan,Gratuit,12000,8:00-15:00,8:00-14:00,8:00-14:00,Vendredi jusqu'au13:00 Fermé Samedi et Dimanche,77270452
+Kairouan,41,Musée Raqqada ,Raqqada-kairouan,4000,5000,9:00-16:00,8:00-14:00,8:00-14:00,Vendredi jusqu'au13:00 Fermé lundi,77323337
+Kassérine,42,Site et Musée Sbeitla,Sbeitla,5000,8000,8:00-17:30,8:00-19:00,8:00-17:00,Musée Fermé Lundi,77465813
+Jendouba,22,Site Bulla-Régia,Jandouba,5000,8000,8:30-17:30,8:00-19:00,8:30-17:00,Ouvert toute la semaine,*
+Jendouba,22,Site et musée de Chimtou,Jendouba,5000,8000,9:30-15:00,9:30-15:00,9:30-15:00,Ouvert toute la semaine,*
+Le Kef,23,Musée el Kef (ATP),Av Kasba -El kef,4000,5000,9:30-16:30,9:00-13:00 /16:00-18:00,9:30-16:30,Fermé lundi,78204503
+Le Kef,23,Site Dougga,Route du Kef - Dougga,5000,8000,8:30-17:30,8:00-19:00,8:00-17:00,Ouvert toute la semaine,78466636
+Siliana,,Makther (site et musée),Makther,5000,8000,8:00-17:00,8:00-17:00,9:30-16:30,Fermé lundi,*
+Siliana,24,Musée de Kesra (ATP),Seliana,4000,5000,9:00-16:00,9:00-13:00 /15:00- 19:00    ,9:00-16:00,Fermé le Lundi,*
+Sfax,34,Kasbah de Sfax,Rue de Kasba -sfax,4000,5000,9:30-16:30,9:30-16:30,9:30-16:30,Fermé lundi,74221463
+Médenine,52,Musée Zarzis,Av de l'Eglise-Zarzis,5000,8000,9:30-16:30,9:00-13:00 /16:00-19:00,9:30-16:30,Fermé lundi,*
+Médenine,52,Site de Gightis,Route de Jorf-Mednine,4000,5000,9:30-16:30,8:00-12:00 /16:00-19:00,9:00-16:00,Fermé Vendredi,*
+Gafsa,61,Musée Gafsa,Gafsa,4000,5000,9:30-16:30,7:00-14:00     ,9:30-16:30,Fermé lundi,*
+Gafsa,61,Escargotiers de Gafsa,Gafsa,4000,5000,9:30-16:30,7:00-14:00,9:30-16:30,Fermé lundi,*
+Médenine,52,Musée de Patrimoine TRA Jerba,Houmt Souk-Jerba,5000,8000,9:30-16:30,9:00-17:00,9:00-17:00,Fermé Vendredi,75622974
+Médenine,52,Borj Ghazi Mustapha Jerba,Houmt Souk-Jerba,5000,8000,9:30-16:30,8:00-19:00,9:00-17:00,Fermé Vendredi,*
+Médenine,52,Mosquée Fadhloun Jerba,Midoun Jerba,4000,5000,du 01/12 au 28/02 (8:00-12:00),du 01/12 au 28/02 (8:00-12:00),du 01/12 au 28/02 (8:00-12:00),Fermé Vendredi,*
+Médenine,52,Mosquée Fadhloun Jerba,Midoun Jerba,4000,5000,du 01/03 au 30/11 (7:00-12:00),du 01/03 au 30/11 (7:00-12:00),du 01/03 au 30/11 (7:00-12:00),Fermé Vendredi,*
+Kebili,63,Musée de Douz (ATP ),Rue des Martyres - Douz,4000,5000,9.30 – 16:30,7:00-14:00,8.00- 15.00,Fermé Lundi,75473410

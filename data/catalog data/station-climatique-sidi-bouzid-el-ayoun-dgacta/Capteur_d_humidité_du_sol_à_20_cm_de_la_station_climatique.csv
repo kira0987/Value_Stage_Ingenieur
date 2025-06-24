@@ -1,0 +1,739 @@
+Date,nom_ar,nom_fr,unite,valeur
+2025-06-19 09:00:00,Température,Température,°C,31.2
+2025-06-19 09:00:00,L'humidité du sol,L'humidité du sol,mV,546.0
+2025-06-19 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-19 08:00:00,L'humidité du sol,L'humidité du sol,mV,546.2
+2025-06-19 08:00:00,Température,Température,°C,31.5
+2025-06-19 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-19 07:00:00,Température,Température,°C,31.8
+2025-06-19 07:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-06-19 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-19 06:00:00,L'humidité du sol,L'humidité du sol,mV,546.8
+2025-06-19 06:00:00,Température,Température,°C,32.1
+2025-06-19 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-19 05:00:00,Température,Température,°C,32.4
+2025-06-19 05:00:00,L'humidité du sol,L'humidité du sol,mV,547.2
+2025-06-19 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-19 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-19 04:00:00,L'humidité du sol,L'humidité du sol,mV,547.6
+2025-06-19 04:00:00,Température,Température,°C,32.8
+2025-06-19 03:00:00,Température,Température,°C,33.1
+2025-06-19 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-19 03:00:00,L'humidité du sol,L'humidité du sol,mV,548.0
+2025-06-19 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-19 02:00:00,L'humidité du sol,L'humidité du sol,mV,548.3
+2025-06-19 02:00:00,Température,Température,°C,33.4
+2025-06-19 01:00:00,Température,Température,°C,33.7
+2025-06-19 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-19 01:00:00,L'humidité du sol,L'humidité du sol,mV,548.8
+2025-06-19 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-19 00:00:00,L'humidité du sol,L'humidité du sol,mV,549.0
+2025-06-19 00:00:00,Température,Température,°C,34.0
+2025-06-18 23:00:00,L'humidité du sol,L'humidité du sol,mV,549.4
+2025-06-18 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-18 23:00:00,Température,Température,°C,34.2
+2025-06-18 22:00:00,Température,Température,°C,34.4
+2025-06-18 22:00:00,L'humidité du sol,L'humidité du sol,mV,549.6
+2025-06-18 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-18 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-18 04:00:00,L'humidité du sol,L'humidité du sol,mV,548.6
+2025-06-18 04:00:00,Température,Température,°C,33.4
+2025-06-17 19:00:00,Température,Température,°C,34.8
+2025-06-17 19:00:00,L'humidité du sol,L'humidité du sol,mV,550.5
+2025-06-17 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-17 15:00:00,L'humidité du sol,L'humidité du sol,mV,548.6
+2025-06-17 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-17 15:00:00,Température,Température,°C,32.8
+2025-06-17 11:00:00,L'humidité du sol,L'humidité du sol,mV,546.9
+2025-06-17 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-17 11:00:00,Température,Température,°C,31.4
+2025-06-17 09:00:00,L'humidité du sol,L'humidité du sol,mV,547.2
+2025-06-17 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-17 09:00:00,Température,Température,°C,31.6
+2025-06-17 08:00:00,L'humidité du sol,L'humidité du sol,mV,547.3
+2025-06-17 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-17 08:00:00,Température,Température,°C,31.8
+2025-06-17 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-17 07:00:00,Température,Température,°C,32.1
+2025-06-17 07:00:00,L'humidité du sol,L'humidité du sol,mV,547.6
+2025-06-17 06:00:00,Température,Température,°C,32.3
+2025-06-17 06:00:00,L'humidité du sol,L'humidité du sol,mV,547.8
+2025-06-17 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-17 05:00:00,Température,Température,°C,32.6
+2025-06-17 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-17 05:00:00,L'humidité du sol,L'humidité du sol,mV,548.1
+2025-06-17 04:00:00,L'humidité du sol,L'humidité du sol,mV,548.5
+2025-06-17 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-17 04:00:00,Température,Température,°C,32.9
+2025-06-17 03:00:00,Température,Température,°C,33.2
+2025-06-17 03:00:00,L'humidité du sol,L'humidité du sol,mV,548.9
+2025-06-17 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-17 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-17 02:00:00,L'humidité du sol,L'humidité du sol,mV,549.2
+2025-06-17 02:00:00,Température,Température,°C,33.5
+2025-06-16 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-16 09:00:00,L'humidité du sol,L'humidité du sol,mV,546.8
+2025-06-16 09:00:00,Température,Température,°C,30.9
+2025-06-16 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-16 08:00:00,L'humidité du sol,L'humidité du sol,mV,547.0
+2025-06-16 08:00:00,Température,Température,°C,31.2
+2025-06-16 07:00:00,L'humidité du sol,L'humidité du sol,mV,547.2
+2025-06-16 07:00:00,Température,Température,°C,31.4
+2025-06-16 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-16 03:00:00,Température,Température,°C,32.7
+2025-06-16 03:00:00,L'humidité du sol,L'humidité du sol,mV,548.5
+2025-06-16 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-16 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-16 02:00:00,Température,Température,°C,33.0
+2025-06-16 02:00:00,L'humidité du sol,L'humidité du sol,mV,548.9
+2025-06-16 01:00:00,L'humidité du sol,L'humidité du sol,mV,549.4
+2025-06-16 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-16 01:00:00,Température,Température,°C,33.3
+2025-06-16 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-16 00:00:00,Température,Température,°C,33.6
+2025-06-16 00:00:00,L'humidité du sol,L'humidité du sol,mV,549.6
+2025-06-15 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-15 23:00:00,L'humidité du sol,L'humidité du sol,mV,549.9
+2025-06-15 23:00:00,Température,Température,°C,33.8
+2025-06-15 22:00:00,Température,Température,°C,34.0
+2025-06-15 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-15 22:00:00,L'humidité du sol,L'humidité du sol,mV,550.2
+2025-06-15 19:00:00,L'humidité du sol,L'humidité du sol,mV,550.2
+2025-06-15 19:00:00,Température,Température,°C,33.8
+2025-06-15 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-15 15:00:00,Température,Température,°C,31.8
+2025-06-15 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-15 15:00:00,L'humidité du sol,L'humidité du sol,mV,548.1
+2025-06-15 11:00:00,Température,Température,°C,30.4
+2025-06-15 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-15 11:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-06-15 07:00:00,Température,Température,°C,31.2
+2025-06-15 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-15 07:00:00,L'humidité du sol,L'humidité du sol,mV,547.1
+2025-06-15 05:00:00,Température,Température,°C,31.8
+2025-06-15 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-15 05:00:00,L'humidité du sol,L'humidité du sol,mV,547.7
+2025-06-14 06:00:00,L'humidité du sol,L'humidité du sol,mV,547.3
+2025-06-14 06:00:00,Température,Température,°C,31.0
+2025-06-14 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-14 05:00:00,Température,Température,°C,31.4
+2025-06-14 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-14 05:00:00,L'humidité du sol,L'humidité du sol,mV,547.6
+2025-06-14 04:00:00,L'humidité du sol,L'humidité du sol,mV,548.1
+2025-06-14 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-14 04:00:00,Température,Température,°C,31.7
+2025-06-14 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-14 03:00:00,Température,Température,°C,32.0
+2025-06-14 03:00:00,L'humidité du sol,L'humidité du sol,mV,548.4
+2025-06-14 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-14 02:00:00,L'humidité du sol,L'humidité du sol,mV,548.8
+2025-06-14 02:00:00,Température,Température,°C,32.3
+2025-06-14 01:00:00,Température,Température,°C,32.6
+2025-06-14 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-14 01:00:00,L'humidité du sol,L'humidité du sol,mV,549.1
+2025-06-14 00:00:00,Température,Température,°C,32.9
+2025-06-14 00:00:00,L'humidité du sol,L'humidité du sol,mV,549.5
+2025-06-14 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-13 21:00:00,Température,Température,°C,33.5
+2025-06-13 21:00:00,L'humidité du sol,L'humidité du sol,mV,550.2
+2025-06-13 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-13 20:00:00,L'humidité du sol,L'humidité du sol,mV,550.2
+2025-06-13 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-13 20:00:00,Température,Température,°C,33.4
+2025-06-13 05:00:00,Température,Température,°C,31.4
+2025-06-13 05:00:00,L'humidité du sol,L'humidité du sol,mV,547.9
+2025-06-13 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-13 03:00:00,L'humidité du sol,L'humidité du sol,mV,548.7
+2025-06-13 03:00:00,Température,Température,°C,32.0
+2025-06-13 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-13 02:00:00,L'humidité du sol,L'humidité du sol,mV,549.1
+2025-06-13 02:00:00,Température,Température,°C,32.3
+2025-06-13 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-13 01:00:00,L'humidité du sol,L'humidité du sol,mV,549.4
+2025-06-13 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-13 01:00:00,Température,Température,°C,32.7
+2025-06-13 00:00:00,L'humidité du sol,L'humidité du sol,mV,549.9
+2025-06-13 00:00:00,Température,Température,°C,32.9
+2025-06-13 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-12 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-12 23:00:00,L'humidité du sol,L'humidité du sol,mV,550.2
+2025-06-12 23:00:00,Température,Température,°C,33.2
+2025-06-12 22:00:00,L'humidité du sol,L'humidité du sol,mV,550.4
+2025-06-12 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-12 22:00:00,Température,Température,°C,33.4
+2025-06-12 21:00:00,L'humidité du sol,L'humidité du sol,mV,550.6
+2025-06-12 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-12 21:00:00,Température,Température,°C,33.5
+2025-06-12 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-12 09:00:00,Température,Température,°C,30.2
+2025-06-12 09:00:00,L'humidité du sol,L'humidité du sol,mV,547.1
+2025-06-12 05:00:00,Température,Température,°C,31.4
+2025-06-12 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-12 05:00:00,L'humidité du sol,L'humidité du sol,mV,548.3
+2025-06-12 04:00:00,Température,Température,°C,31.7
+2025-06-12 04:00:00,L'humidité du sol,L'humidité du sol,mV,548.6
+2025-06-12 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-12 03:00:00,Température,Température,°C,32.1
+2025-06-12 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-12 03:00:00,L'humidité du sol,L'humidité du sol,mV,549.0
+2025-06-11 02:00:00,L'humidité du sol,L'humidité du sol,mV,550.2
+2025-06-11 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2025-06-11 02:00:00,Température,Température,°C,32.7
+2025-06-10 05:00:00,L'humidité du sol,L'humidité du sol,mV,549.1
+2025-06-10 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-10 05:00:00,Température,Température,°C,31.7
+2025-06-08 07:00:00,L'humidité du sol,L'humidité du sol,mV,548.1
+2025-06-08 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-08 07:00:00,Température,Température,°C,30.1
+2025-06-08 06:00:00,Température,Température,°C,30.4
+2025-06-08 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-08 06:00:00,L'humidité du sol,L'humidité du sol,mV,548.4
+2025-06-07 07:00:00,Température,Température,°C,29.4
+2025-06-07 07:00:00,L'humidité du sol,L'humidité du sol,mV,547.5
+2025-06-07 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-07 06:00:00,Température,Température,°C,29.7
+2025-06-07 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-07 06:00:00,L'humidité du sol,L'humidité du sol,mV,547.8
+2025-06-07 05:00:00,Température,Température,°C,30.1
+2025-06-07 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-07 05:00:00,L'humidité du sol,L'humidité du sol,mV,548.2
+2025-06-06 07:00:00,L'humidité du sol,L'humidité du sol,mV,547.4
+2025-06-06 07:00:00,Température,Température,°C,29.2
+2025-06-06 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-06 06:00:00,L'humidité du sol,L'humidité du sol,mV,547.8
+2025-06-06 06:00:00,Température,Température,°C,29.5
+2025-06-06 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-06 05:00:00,Température,Température,°C,29.8
+2025-06-06 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-06 05:00:00,L'humidité du sol,L'humidité du sol,mV,548.1
+2025-06-05 07:00:00,L'humidité du sol,L'humidité du sol,mV,547.8
+2025-06-05 07:00:00,Température,Température,°C,29.2
+2025-06-05 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-05 06:00:00,Température,Température,°C,29.5
+2025-06-05 06:00:00,L'humidité du sol,L'humidité du sol,mV,548.0
+2025-06-05 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-05 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-05 04:00:00,L'humidité du sol,L'humidité du sol,mV,548.7
+2025-06-05 04:00:00,Température,Température,°C,30.0
+2025-06-04 06:00:00,L'humidité du sol,L'humidité du sol,mV,546.9
+2025-06-04 06:00:00,Température,Température,°C,28.3
+2025-06-04 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-04 05:00:00,L'humidité du sol,L'humidité du sol,mV,547.2
+2025-06-04 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-04 05:00:00,Température,Température,°C,28.6
+2025-06-03 09:00:00,L'humidité du sol,L'humidité du sol,mV,545.5
+2025-06-03 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-03 09:00:00,Température,Température,°C,26.7
+2025-06-03 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.6
+2025-06-03 08:00:00,Température,Température,°C,26.9
+2025-06-03 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-03 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-06-03 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-03 07:00:00,Température,Température,°C,27.2
+2025-06-03 06:00:00,L'humidité du sol,L'humidité du sol,mV,546.3
+2025-06-03 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-03 06:00:00,Température,Température,°C,27.5
+2025-06-03 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.6
+2025-06-03 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-03 05:00:00,Température,Température,°C,27.9
+2025-06-02 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-02 19:00:00,L'humidité du sol,L'humidité du sol,mV,549.0
+2025-06-02 19:00:00,Température,Température,°C,29.7
+2025-06-02 13:00:00,L'humidité du sol,L'humidité du sol,mV,545.2
+2025-06-02 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-06-02 13:00:00,Température,Température,°C,26.5
+2025-06-02 09:00:00,L'humidité du sol,L'humidité du sol,mV,545.3
+2025-06-02 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-06-02 09:00:00,Température,Température,°C,26.3
+2025-06-02 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.5
+2025-06-02 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-02 08:00:00,Température,Température,°C,26.6
+2025-06-02 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-02 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.8
+2025-06-02 07:00:00,Température,Température,°C,26.9
+2025-06-02 06:00:00,Température,Température,°C,27.2
+2025-06-02 06:00:00,L'humidité du sol,L'humidité du sol,mV,546.1
+2025-06-02 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-02 05:00:00,Température,Température,°C,27.6
+2025-06-02 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-02 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.6
+2025-06-01 08:00:00,Température,Température,°C,26.4
+2025-06-01 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.6
+2025-06-01 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 07:00:00,Température,Température,°C,26.7
+2025-06-01 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.8
+2025-06-01 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 06:00:00,Température,Température,°C,27.0
+2025-06-01 06:00:00,L'humidité du sol,L'humidité du sol,mV,546.2
+2025-06-01 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 05:00:00,Température,Température,°C,27.3
+2025-06-01 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-06-01 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 04:00:00,Température,Température,°C,27.7
+2025-06-01 04:00:00,L'humidité du sol,L'humidité du sol,mV,546.9
+2025-06-01 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 03:00:00,Température,Température,°C,28.0
+2025-06-01 03:00:00,L'humidité du sol,L'humidité du sol,mV,547.1
+2025-06-01 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 02:00:00,L'humidité du sol,L'humidité du sol,mV,547.5
+2025-06-01 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-06-01 02:00:00,Température,Température,°C,28.3
+2025-06-01 01:00:00,Température,Température,°C,28.6
+2025-06-01 01:00:00,L'humidité du sol,L'humidité du sol,mV,547.9
+2025-06-01 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-06-01 00:00:00,Température,Température,°C,28.8
+2025-06-01 00:00:00,L'humidité du sol,L'humidité du sol,mV,548.2
+2025-06-01 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 23:00:00,L'humidité du sol,L'humidité du sol,mV,548.6
+2025-05-31 23:00:00,Température,Température,°C,29.1
+2025-05-31 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 22:00:00,L'humidité du sol,L'humidité du sol,mV,548.8
+2025-05-31 22:00:00,Température,Température,°C,29.2
+2025-05-31 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 21:00:00,Température,Température,°C,29.3
+2025-05-31 21:00:00,L'humidité du sol,L'humidité du sol,mV,548.9
+2025-05-31 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 20:00:00,L'humidité du sol,L'humidité du sol,mV,548.8
+2025-05-31 20:00:00,Température,Température,°C,29.3
+2025-05-31 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 19:00:00,Température,Température,°C,29.1
+2025-05-31 19:00:00,L'humidité du sol,L'humidité du sol,mV,548.6
+2025-05-31 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 18:00:00,Température,Température,°C,28.7
+2025-05-31 18:00:00,L'humidité du sol,L'humidité du sol,mV,548.3
+2025-05-31 17:00:00,Température,Température,°C,28.2
+2025-05-31 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-31 17:00:00,L'humidité du sol,L'humidité du sol,mV,547.6
+2025-05-31 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-31 16:00:00,Température,Température,°C,27.5
+2025-05-31 16:00:00,L'humidité du sol,L'humidité du sol,mV,547.0
+2025-05-31 15:00:00,Température,Température,°C,26.9
+2025-05-31 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-31 15:00:00,L'humidité du sol,L'humidité du sol,mV,546.4
+2025-05-31 10:00:00,L'humidité du sol,L'humidité du sol,mV,544.7
+2025-05-31 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-31 10:00:00,Température,Température,°C,25.4
+2025-05-31 09:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-31 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-31 09:00:00,Température,Température,°C,25.6
+2025-05-31 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.2
+2025-05-31 08:00:00,Température,Température,°C,25.8
+2025-05-31 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-31 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-31 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.4
+2025-05-31 07:00:00,Température,Température,°C,26.1
+2025-05-31 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-31 05:00:00,Température,Température,°C,26.7
+2025-05-31 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.0
+2025-05-30 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-30 17:00:00,L'humidité du sol,L'humidité du sol,mV,547.4
+2025-05-30 17:00:00,Température,Température,°C,27.8
+2025-05-30 15:00:00,L'humidité du sol,L'humidité du sol,mV,546.2
+2025-05-30 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-30 15:00:00,Température,Température,°C,26.7
+2025-05-30 13:00:00,L'humidité du sol,L'humidité du sol,mV,545.3
+2025-05-30 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-30 13:00:00,Température,Température,°C,25.8
+2025-05-30 12:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-30 12:00:00,Température,Température,°C,25.5
+2025-05-30 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-30 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-30 11:00:00,L'humidité du sol,L'humidité du sol,mV,544.7
+2025-05-30 11:00:00,Température,Température,°C,25.3
+2025-05-30 09:00:00,Température,Température,°C,25.4
+2025-05-30 09:00:00,L'humidité du sol,L'humidité du sol,mV,544.8
+2025-05-30 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-30 08:00:00,Température,Température,°C,25.6
+2025-05-30 08:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-30 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-30 07:00:00,Température,Température,°C,25.9
+2025-05-30 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.2
+2025-05-30 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-30 06:00:00,Température,Température,°C,26.1
+2025-05-30 06:00:00,L'humidité du sol,L'humidité du sol,mV,545.6
+2025-05-30 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-30 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-30 05:00:00,L'humidité du sol,L'humidité du sol,mV,545.7
+2025-05-30 05:00:00,Température,Température,°C,26.3
+2025-05-29 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-29 16:00:00,L'humidité du sol,L'humidité du sol,mV,546.9
+2025-05-29 16:00:00,Température,Température,°C,27.0
+2025-05-29 14:00:00,L'humidité du sol,L'humidité du sol,mV,545.7
+2025-05-29 14:00:00,Température,Température,°C,26.1
+2025-05-29 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-29 13:00:00,L'humidité du sol,L'humidité du sol,mV,545.2
+2025-05-29 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-29 13:00:00,Température,Température,°C,25.6
+2025-05-29 11:00:00,L'humidité du sol,L'humidité du sol,mV,544.7
+2025-05-29 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-29 11:00:00,Température,Température,°C,25.1
+2025-05-29 10:00:00,L'humidité du sol,L'humidité du sol,mV,544.8
+2025-05-29 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-29 10:00:00,Température,Température,°C,25.1
+2025-05-29 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-29 09:00:00,Température,Température,°C,25.2
+2025-05-29 09:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-29 08:00:00,Température,Température,°C,25.5
+2025-05-29 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.2
+2025-05-29 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-29 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-29 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.4
+2025-05-29 07:00:00,Température,Température,°C,25.7
+2025-05-29 06:00:00,L'humidité du sol,L'humidité du sol,mV,545.7
+2025-05-29 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-29 06:00:00,Température,Température,°C,26.0
+2025-05-29 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-29 05:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-29 05:00:00,Température,Température,°C,26.3
+2025-05-28 05:00:00,Température,Température,°C,26.2
+2025-05-28 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-28 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.1
+2025-05-28 04:00:00,Température,Température,°C,26.5
+2025-05-28 04:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-05-28 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-28 03:00:00,Température,Température,°C,26.8
+2025-05-28 03:00:00,L'humidité du sol,L'humidité du sol,mV,546.8
+2025-05-28 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-28 02:00:00,Température,Température,°C,27.1
+2025-05-28 02:00:00,L'humidité du sol,L'humidité du sol,mV,547.3
+2025-05-28 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-28 01:00:00,L'humidité du sol,L'humidité du sol,mV,547.4
+2025-05-28 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-28 01:00:00,Température,Température,°C,27.4
+2025-05-28 00:00:00,Température,Température,°C,27.6
+2025-05-28 00:00:00,L'humidité du sol,L'humidité du sol,mV,547.8
+2025-05-28 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 23:00:00,Température,Température,°C,27.8
+2025-05-27 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 23:00:00,L'humidité du sol,L'humidité du sol,mV,548.2
+2025-05-27 22:00:00,Température,Température,°C,28.0
+2025-05-27 22:00:00,L'humidité du sol,L'humidité du sol,mV,548.4
+2025-05-27 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 21:00:00,Température,Température,°C,28.1
+2025-05-27 21:00:00,L'humidité du sol,L'humidité du sol,mV,548.4
+2025-05-27 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 20:00:00,L'humidité du sol,L'humidité du sol,mV,548.3
+2025-05-27 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 20:00:00,Température,Température,°C,28.1
+2025-05-27 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 19:00:00,L'humidité du sol,L'humidité du sol,mV,548.0
+2025-05-27 19:00:00,Température,Température,°C,27.9
+2025-05-27 18:00:00,L'humidité du sol,L'humidité du sol,mV,547.8
+2025-05-27 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-27 18:00:00,Température,Température,°C,27.5
+2025-05-27 16:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-05-27 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-27 16:00:00,Température,Température,°C,26.2
+2025-05-27 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-27 15:00:00,L'humidité du sol,L'humidité du sol,mV,545.7
+2025-05-27 15:00:00,Température,Température,°C,25.5
+2025-05-27 14:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-27 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 14:00:00,Température,Température,°C,24.8
+2025-05-27 13:00:00,Température,Température,°C,24.3
+2025-05-27 13:00:00,L'humidité du sol,L'humidité du sol,mV,544.4
+2025-05-27 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 12:00:00,L'humidité du sol,L'humidité du sol,mV,543.8
+2025-05-27 12:00:00,Température,Température,°C,23.8
+2025-05-27 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 11:00:00,Température,Température,°C,23.6
+2025-05-27 11:00:00,L'humidité du sol,L'humidité du sol,mV,543.5
+2025-05-27 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 10:00:00,L'humidité du sol,L'humidité du sol,mV,543.7
+2025-05-27 10:00:00,Température,Température,°C,23.5
+2025-05-27 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 09:00:00,Température,Température,°C,23.7
+2025-05-27 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 09:00:00,L'humidité du sol,L'humidité du sol,mV,543.8
+2025-05-27 08:00:00,Température,Température,°C,23.9
+2025-05-27 08:00:00,L'humidité du sol,L'humidité du sol,mV,543.9
+2025-05-27 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 07:00:00,Température,Température,°C,24.1
+2025-05-27 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 07:00:00,L'humidité du sol,L'humidité du sol,mV,544.3
+2025-05-27 06:00:00,Température,Température,°C,24.4
+2025-05-27 06:00:00,L'humidité du sol,L'humidité du sol,mV,544.3
+2025-05-27 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 05:00:00,Température,Température,°C,24.7
+2025-05-27 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-27 05:00:00,L'humidité du sol,L'humidité du sol,mV,544.6
+2025-05-26 22:00:00,Température,Température,°C,26.4
+2025-05-26 22:00:00,L'humidité du sol,L'humidité du sol,mV,546.8
+2025-05-26 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-26 21:00:00,Température,Température,°C,26.5
+2025-05-26 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-26 21:00:00,L'humidité du sol,L'humidité du sol,mV,546.8
+2025-05-26 20:00:00,Température,Température,°C,26.4
+2025-05-26 20:00:00,L'humidité du sol,L'humidité du sol,mV,546.8
+2025-05-26 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-26 19:00:00,Température,Température,°C,26.2
+2025-05-26 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-26 19:00:00,L'humidité du sol,L'humidité du sol,mV,546.6
+2025-05-26 17:00:00,L'humidité du sol,L'humidité du sol,mV,545.5
+2025-05-26 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-26 17:00:00,Température,Température,°C,25.2
+2025-05-26 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-26 16:00:00,Température,Température,°C,24.5
+2025-05-26 16:00:00,L'humidité du sol,L'humidité du sol,mV,544.8
+2025-05-26 15:00:00,Température,Température,°C,23.8
+2025-05-26 15:00:00,L'humidité du sol,L'humidité du sol,mV,544.0
+2025-05-26 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-26 14:00:00,L'humidité du sol,L'humidité du sol,mV,543.2
+2025-05-26 14:00:00,Température,Température,°C,23.1
+2025-05-26 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-26 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 13:00:00,Température,Température,°C,22.5
+2025-05-26 13:00:00,L'humidité du sol,L'humidité du sol,mV,542.7
+2025-05-26 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 12:00:00,L'humidité du sol,L'humidité du sol,mV,542.2
+2025-05-26 12:00:00,Température,Température,°C,22.1
+2025-05-26 11:00:00,L'humidité du sol,L'humidité du sol,mV,541.7
+2025-05-26 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 11:00:00,Température,Température,°C,21.8
+2025-05-26 10:00:00,L'humidité du sol,L'humidité du sol,mV,541.9
+2025-05-26 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 10:00:00,Température,Température,°C,21.8
+2025-05-26 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 09:00:00,Température,Température,°C,21.9
+2025-05-26 09:00:00,L'humidité du sol,L'humidité du sol,mV,542.0
+2025-05-26 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 08:00:00,L'humidité du sol,L'humidité du sol,mV,542.1
+2025-05-26 08:00:00,Température,Température,°C,22.1
+2025-05-26 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 07:00:00,Température,Température,°C,22.3
+2025-05-26 07:00:00,L'humidité du sol,L'humidité du sol,mV,542.4
+2025-05-26 06:00:00,L'humidité du sol,L'humidité du sol,mV,542.6
+2025-05-26 06:00:00,Température,Température,°C,22.6
+2025-05-26 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-26 05:00:00,L'humidité du sol,L'humidité du sol,mV,542.7
+2025-05-26 05:00:00,Température,Température,°C,22.8
+2025-05-26 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-26 04:00:00,L'humidité du sol,L'humidité du sol,mV,543.2
+2025-05-26 04:00:00,Température,Température,°C,23.1
+2025-05-26 03:00:00,Température,Température,°C,23.3
+2025-05-26 03:00:00,L'humidité du sol,L'humidité du sol,mV,543.5
+2025-05-26 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-25 11:00:00,L'humidité du sol,L'humidité du sol,mV,540.7
+2025-05-25 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.2
+2025-05-25 11:00:00,Température,Température,°C,20.7
+2025-05-25 10:00:00,Température,Température,°C,20.7
+2025-05-25 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.2
+2025-05-25 10:00:00,L'humidité du sol,L'humidité du sol,mV,540.6
+2025-05-25 09:00:00,Température,Température,°C,20.8
+2025-05-25 09:00:00,L'humidité du sol,L'humidité du sol,mV,541.0
+2025-05-25 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 08:00:00,L'humidité du sol,L'humidité du sol,mV,540.9
+2025-05-25 08:00:00,Température,Température,°C,20.9
+2025-05-25 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 07:00:00,Température,Température,°C,21.1
+2025-05-25 07:00:00,L'humidité du sol,L'humidité du sol,mV,541.1
+2025-05-25 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 06:00:00,L'humidité du sol,L'humidité du sol,mV,541.3
+2025-05-25 06:00:00,Température,Température,°C,21.2
+2025-05-25 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 05:00:00,Température,Température,°C,21.4
+2025-05-25 05:00:00,L'humidité du sol,L'humidité du sol,mV,541.4
+2025-05-25 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 04:00:00,Température,Température,°C,21.6
+2025-05-25 04:00:00,L'humidité du sol,L'humidité du sol,mV,541.6
+2025-05-25 03:00:00,Température,Température,°C,21.8
+2025-05-25 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 03:00:00,L'humidité du sol,L'humidité du sol,mV,541.7
+2025-05-25 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 02:00:00,Température,Température,°C,22.0
+2025-05-25 02:00:00,L'humidité du sol,L'humidité du sol,mV,541.8
+2025-05-25 01:00:00,Température,Température,°C,22.2
+2025-05-25 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 01:00:00,L'humidité du sol,L'humidité du sol,mV,542.2
+2025-05-25 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-25 00:00:00,Température,Température,°C,22.4
+2025-05-25 00:00:00,L'humidité du sol,L'humidité du sol,mV,542.5
+2025-05-24 23:00:00,Température,Température,°C,22.5
+2025-05-24 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 23:00:00,L'humidité du sol,L'humidité du sol,mV,542.4
+2025-05-24 22:00:00,Température,Température,°C,22.7
+2025-05-24 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 22:00:00,L'humidité du sol,L'humidité du sol,mV,542.8
+2025-05-24 21:00:00,Température,Température,°C,22.8
+2025-05-24 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 21:00:00,L'humidité du sol,L'humidité du sol,mV,542.9
+2025-05-24 20:00:00,L'humidité du sol,L'humidité du sol,mV,543.0
+2025-05-24 20:00:00,Température,Température,°C,22.9
+2025-05-24 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 19:00:00,Température,Température,°C,22.9
+2025-05-24 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 19:00:00,L'humidité du sol,L'humidité du sol,mV,542.9
+2025-05-24 17:00:00,L'humidité du sol,L'humidité du sol,mV,543.2
+2025-05-24 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 17:00:00,Température,Température,°C,23.0
+2025-05-24 16:00:00,Température,Température,°C,23.0
+2025-05-24 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 16:00:00,L'humidité du sol,L'humidité du sol,mV,542.9
+2025-05-24 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 15:00:00,L'humidité du sol,L'humidité du sol,mV,542.8
+2025-05-24 15:00:00,Température,Température,°C,22.9
+2025-05-24 14:00:00,L'humidité du sol,L'humidité du sol,mV,542.8
+2025-05-24 14:00:00,Température,Température,°C,22.8
+2025-05-24 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 13:00:00,L'humidité du sol,L'humidité du sol,mV,542.8
+2025-05-24 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 13:00:00,Température,Température,°C,22.8
+2025-05-24 12:00:00,L'humidité du sol,L'humidité du sol,mV,542.8
+2025-05-24 12:00:00,Température,Température,°C,22.8
+2025-05-24 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.3
+2025-05-24 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 11:00:00,L'humidité du sol,L'humidité du sol,mV,543.3
+2025-05-24 11:00:00,Température,Température,°C,23.0
+2025-05-24 10:00:00,L'humidité du sol,L'humidité du sol,mV,543.3
+2025-05-24 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 10:00:00,Température,Température,°C,23.2
+2025-05-24 09:00:00,L'humidité du sol,L'humidité du sol,mV,543.7
+2025-05-24 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 09:00:00,Température,Température,°C,23.4
+2025-05-24 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 08:00:00,Température,Température,°C,23.7
+2025-05-24 08:00:00,L'humidité du sol,L'humidité du sol,mV,543.8
+2025-05-24 07:00:00,Température,Température,°C,23.9
+2025-05-24 07:00:00,L'humidité du sol,L'humidité du sol,mV,544.2
+2025-05-24 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 06:00:00,Température,Température,°C,24.2
+2025-05-24 06:00:00,L'humidité du sol,L'humidité du sol,mV,544.1
+2025-05-24 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 05:00:00,Température,Température,°C,24.4
+2025-05-24 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 05:00:00,L'humidité du sol,L'humidité du sol,mV,544.7
+2025-05-24 04:00:00,Température,Température,°C,24.7
+2025-05-24 04:00:00,L'humidité du sol,L'humidité du sol,mV,545.1
+2025-05-24 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-24 03:00:00,Température,Température,°C,24.9
+2025-05-24 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-24 03:00:00,L'humidité du sol,L'humidité du sol,mV,545.4
+2025-05-24 02:00:00,Température,Température,°C,25.2
+2025-05-24 02:00:00,L'humidité du sol,L'humidité du sol,mV,545.5
+2025-05-24 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-24 01:00:00,Température,Température,°C,25.4
+2025-05-24 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-24 01:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-24 00:00:00,Température,Température,°C,25.7
+2025-05-24 00:00:00,L'humidité du sol,L'humidité du sol,mV,546.1
+2025-05-24 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 23:00:00,Température,Température,°C,25.9
+2025-05-23 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 23:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-05-23 22:00:00,Température,Température,°C,26.2
+2025-05-23 22:00:00,L'humidité du sol,L'humidité du sol,mV,546.9
+2025-05-23 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 21:00:00,Température,Température,°C,26.4
+2025-05-23 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 21:00:00,L'humidité du sol,L'humidité du sol,mV,547.0
+2025-05-23 20:00:00,Température,Température,°C,26.6
+2025-05-23 20:00:00,L'humidité du sol,L'humidité du sol,mV,547.2
+2025-05-23 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 19:00:00,Température,Température,°C,26.6
+2025-05-23 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 19:00:00,L'humidité du sol,L'humidité du sol,mV,547.1
+2025-05-23 18:00:00,Température,Température,°C,26.6
+2025-05-23 18:00:00,L'humidité du sol,L'humidité du sol,mV,547.0
+2025-05-23 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 17:00:00,Température,Température,°C,26.3
+2025-05-23 17:00:00,L'humidité du sol,L'humidité du sol,mV,546.6
+2025-05-23 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 16:00:00,L'humidité du sol,L'humidité du sol,mV,546.2
+2025-05-23 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 16:00:00,Température,Température,°C,25.9
+2025-05-23 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 15:00:00,Température,Température,°C,25.4
+2025-05-23 15:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-23 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 14:00:00,L'humidité du sol,L'humidité du sol,mV,545.4
+2025-05-23 14:00:00,Température,Température,°C,24.9
+2025-05-23 13:00:00,L'humidité du sol,L'humidité du sol,mV,545.1
+2025-05-23 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 13:00:00,Température,Température,°C,24.5
+2025-05-23 12:00:00,L'humidité du sol,L'humidité du sol,mV,544.7
+2025-05-23 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 12:00:00,Température,Température,°C,24.3
+2025-05-23 11:00:00,L'humidité du sol,L'humidité du sol,mV,544.5
+2025-05-23 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 11:00:00,Température,Température,°C,24.1
+2025-05-23 10:00:00,L'humidité du sol,L'humidité du sol,mV,544.6
+2025-05-23 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 10:00:00,Température,Température,°C,24.1
+2025-05-23 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 09:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-23 09:00:00,Température,Température,°C,24.3
+2025-05-23 08:00:00,Température,Température,°C,24.5
+2025-05-23 08:00:00,L'humidité du sol,L'humidité du sol,mV,544.9
+2025-05-23 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.1
+2025-05-23 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.4
+2025-05-23 07:00:00,Température,Température,°C,24.7
+2025-05-23 06:00:00,L'humidité du sol,L'humidité du sol,mV,545.4
+2025-05-23 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 06:00:00,Température,Température,°C,24.9
+2025-05-23 05:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-23 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-23 05:00:00,Température,Température,°C,25.2
+2025-05-22 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-22 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-22 08:00:00,Température,Température,°C,25.0
+2025-05-22 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-22 07:00:00,L'humidité du sol,L'humidité du sol,mV,546.0
+2025-05-22 07:00:00,Température,Température,°C,25.3
+2025-05-22 06:00:00,Température,Température,°C,25.5
+2025-05-22 06:00:00,L'humidité du sol,L'humidité du sol,mV,546.3
+2025-05-22 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-22 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-22 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-05-22 05:00:00,Température,Température,°C,25.8
+2025-05-21 17:00:00,Température,Température,°C,27.1
+2025-05-21 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.6
+2025-05-21 17:00:00,L'humidité du sol,L'humidité du sol,mV,548.3
+2025-05-21 15:00:00,Température,Température,°C,26.0
+2025-05-21 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 15:00:00,L'humidité du sol,L'humidité du sol,mV,547.1
+2025-05-21 13:00:00,Température,Température,°C,25.0
+2025-05-21 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 13:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-21 12:00:00,Température,Température,°C,24.7
+2025-05-21 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 12:00:00,L'humidité du sol,L'humidité du sol,mV,545.5
+2025-05-21 11:00:00,Température,Température,°C,24.5
+2025-05-21 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 11:00:00,L'humidité du sol,L'humidité du sol,mV,545.3
+2025-05-21 09:00:00,Température,Température,°C,24.6
+2025-05-21 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 09:00:00,L'humidité du sol,L'humidité du sol,mV,545.7
+2025-05-21 08:00:00,Température,Température,°C,24.8
+2025-05-21 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 08:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-21 07:00:00,Température,Température,°C,25.1
+2025-05-21 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 07:00:00,L'humidité du sol,L'humidité du sol,mV,545.9
+2025-05-21 05:00:00,Température,Température,°C,25.5
+2025-05-21 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-21 05:00:00,L'humidité du sol,L'humidité du sol,mV,546.5
+2025-05-20 06:00:00,Température,Température,°C,24.3
+2025-05-20 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-20 06:00:00,L'humidité du sol,L'humidité du sol,mV,545.3
+2025-05-20 05:00:00,Température,Température,°C,24.6
+2025-05-20 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-20 05:00:00,L'humidité du sol,L'humidité du sol,mV,545.6
+2025-05-20 04:00:00,Température,Température,°C,24.8
+2025-05-20 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-20 04:00:00,L'humidité du sol,L'humidité du sol,mV,545.8
+2025-05-20 03:00:00,Température,Température,°C,25.0
+2025-05-20 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-20 03:00:00,L'humidité du sol,L'humidité du sol,mV,546.0
+2025-05-20 02:00:00,Température,Température,°C,25.3
+2025-05-20 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-20 02:00:00,L'humidité du sol,L'humidité du sol,mV,546.4
+2025-05-20 01:00:00,Température,Température,°C,25.6
+2025-05-20 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5
+2025-05-20 01:00:00,L'humidité du sol,L'humidité du sol,mV,546.9
+2025-05-20 00:00:00,Température,Température,°C,25.9
+2025-05-20 00:00:00,L'humidité du sol,L'humidité du sol,mV,547.2
+2025-05-20 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.5

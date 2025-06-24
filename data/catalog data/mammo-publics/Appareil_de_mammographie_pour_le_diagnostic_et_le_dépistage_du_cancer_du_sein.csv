@@ -1,0 +1,32 @@
+marque,intitule,quantite,destination
+GE,Mammographe conventionnel,1,EPS CHARLES NICOLLE
+GE,Mammographe conventionnel,1,HR GABES
+GE,Mammographe conventionnel,1,EPS HABIB BOURGUIBA SFAX 
+GE,Mammographe conventionnel,1,EPS FARHAT HACHED SOUSSE
+GE,Mammographe conventionnel,1,EPS MONGI SLIM LA MARSA
+GE,Mammographe conventionnel,1,EPS HABIB THAMEUR
+GE,Mammographe conventionnel,1,EPS LA RABTA
+GE,Mammographe conventionnel,1,CENTRE MATERNITE MONASTIR
+GE,Mammographe conventionnel,1,HR KASSERINE
+GE,Mammographe conventionnel,1,HR TAHAR SFAR
+GE,Mammographe numerique,1,HR KASSERINE
+GE,Mammographe numerique,1,HR GABES
+GE,Mammographe numerique,1,HR KEBILI
+GE,Mammographe numerique,1,EPS CHARLES NICOLLE
+SIEMENS,Mammographe conventionnel,1,HR BIZERTE
+SIEMENS,Mammographe conventionnel,1,HR IBN JAZZAR KAIROUAN
+SIEMENS,Mammographe conventionnel,1,HR MEDENINE
+SIEMENS,Mammographe conventionnel,1,HR KEF
+SIEMENS,Mammographe conventionnel,1,HR BEN AROUS
+SIEMENS,Mammographe conventionnel,1,HR SIDI BOUZID
+FUJI,Mammographe conventionnel,1,HR ZARZIS
+GIOTTO,Mammographe conventionnel,1,HR GAFSA
+GIOTTO,Mammographe conventionnel,1,HR JENDOUBA
+GIOTTO,Mammographe numerique,1,EPS HABIB BOURGUIBA SFAX
+GIOTTO,Mammographe numerique,1,INSTUTUT SALAH AZAIEZ
+GIOTTO,Mammographe numerique,1,EPS FATOUMA BOURGUIBA MONASTIR
+GIOTTO,Mammographe numerique,1,EPS FARHAT HACHED SOUSSE
+GIOTTO,Mammographe numerique,1,HR TAHER MAAMOURI NABEUL 
+GIOTTO,Mammographe numerique,1,HR MAHMOUD MATRI ARIANA
+GIOTTO,Mammographe numerique,1,HR TOZEUR
+GIOTTO,Mammographe numerique,1,HR JENDOUBA

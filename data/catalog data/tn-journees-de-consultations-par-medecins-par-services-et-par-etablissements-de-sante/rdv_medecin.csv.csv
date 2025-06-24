@@ -1,0 +1,95 @@
+medecin ,nom_etab,service,journee
+Medecin_etab1_11,ETAB1,CHIRURGIE,Lundi
+Medecin_etab1_12,ETAB1,CHIRURGIE,Mardi
+Medecin_etab1_13,ETAB1,CHIRURGIE,Mercredi
+Medecin_etab1_14,ETAB1,CHIRURGIE,Jeudi
+Medecin_etab1_15,ETAB1,CHIRURGIE,Vendredi
+Medecin_etab1_21,ETAB1,DERMATOLOGIE,Lundi
+Medecin_etab1_22,ETAB1,DERMATOLOGIE,Mardi
+Medecin_etab1_23,ETAB1,DERMATOLOGIE,Mercredi
+Medecin_etab1_24,ETAB1,DERMATOLOGIE,Jeudi
+Medecin_etab1_25,ETAB1,DERMATOLOGIE,Vendredi
+Medecin_etab1_26,ETAB1,DERMATOLOGIE,Samedi
+Medecin_etab1_31,ETAB1,RHUMATOLOGIE,Lundi
+Medecin_etab1_32,ETAB1,RHUMATOLOGIE,Mardi
+Medecin_etab1_33,ETAB1,RHUMATOLOGIE,Mercredi
+Medecin_etab1_34,ETAB1,RHUMATOLOGIE,Jeudi
+Medecin_etab1_35,ETAB1,RHUMATOLOGIE,Vendredi
+Medecin_etab1_36,ETAB1,RHUMATOLOGIE,Samedi
+Medecin_etab1_41,ETAB1,PEDIATRIE,Lundi
+Medecin_etab1_42,ETAB1,PEDIATRIE,Mardi
+Medecin_etab1_43,ETAB1,PEDIATRIE,Mercredi
+Medecin_etab1_44,ETAB1,PEDIATRIE,Jeudi
+Medecin_etab1_45,ETAB1,PEDIATRIE,Vendredi
+Medecin_etab1_46,ETAB1,PEDIATRIE,Samedi
+Medecin_etab1_51,ETAB1,CARDIOLOGIE,Lundi
+Medecin_etab1_52,ETAB1,CARDIOLOGIE,Mardi
+Medecin_etab1_53,ETAB1,CARDIOLOGIE,Mercredi
+Medecin_etab1_54,ETAB1,CARDIOLOGIE,Jeudi
+Medecin_etab1_55,ETAB1,CARDIOLOGIE,Vendredi
+Medecin_etab1_56,ETAB1,CARDIOLOGIE,Samedi
+Medecin_etab1_61,ETAB1,GYNECOLOGIE,Lundi
+Medecin_etab1_62,ETAB1,GYNECOLOGIE,Mardi
+Medecin_etab1_63,ETAB1,GYNECOLOGIE,Mercredi
+Medecin_etab1_64,ETAB1,GYNECOLOGIE,Jeudi
+Medecin_etab1_65,ETAB1,GYNECOLOGIE,Vendredi
+Medecin_etab1_66,ETAB1,GYNECOLOGIE,Samedi
+Medecin_etab1_71,ETAB1,GASTRO ENTEROLOGIE,Lundi
+Medecin_etab1_72,ETAB1,GASTRO ENTEROLOGIE,Mardi
+Medecin_etab1_73,ETAB1,GASTRO ENTEROLOGIE,Mercredi
+Medecin_etab1_74,ETAB1,GASTRO ENTEROLOGIE,Jeudi
+Medecin_etab1_75,ETAB1,GASTRO ENTEROLOGIE,Vendredi
+Medecin_etab1_76,ETAB1,GASTRO ENTEROLOGIE,Samedi
+Medecin_etab1_81,ETAB1,MEDECINE INTERNE,Lundi
+Medecin_etab1_82,ETAB1,MEDECINE INTERNE,Mardi
+Medecin_etab1_83,ETAB1,MEDECINE INTERNE,Mercredi
+Medecin_etab1_84,ETAB1,MEDECINE INTERNE,Jeudi
+Medecin_etab1_85,ETAB1,MEDECINE INTERNE,Vendredi
+Medecin_etab1_86,ETAB1,MEDECINE INTERNE,Samedi
+Medecin_etab1_91,ETAB1,OPHTALMOLOGIE,Lundi
+Medecin_etab1_92,ETAB1,OPHTALMOLOGIE,Mardi
+Medecin_etab1_93,ETAB1,OPHTALMOLOGIE,Mercredi
+Medecin_etab1_94,ETAB1,OPHTALMOLOGIE,Jeudi
+Medecin_etab1_95,ETAB1,OPHTALMOLOGIE,Vendredi
+Medecin_etab1_96,ETAB1,OPHTALMOLOGIE,Samedi
+Medecin_etab2_11,ETAB2,CHIRURGIE,Lundi
+Medecin_etab2_12,ETAB2,CHIRURGIE,Mardi
+Medecin_etab2_13,ETAB2,CHIRURGIE,Mercredi
+Medecin_etab2_14,ETAB2,CHIRURGIE,Jeudi
+Medecin_etab2_15,ETAB2,CHIRURGIE,Vendredi
+Medecin_etab2_21,ETAB2,DERMATOLOGIE,Lundi
+Medecin_etab2_22,ETAB2,DERMATOLOGIE,Mardi
+Medecin_etab2_23,ETAB2,DERMATOLOGIE,Mercredi
+Medecin_etab2_24,ETAB2,DERMATOLOGIE,Jeudi
+Medecin_etab2_25,ETAB2,DERMATOLOGIE,Vendredi
+Medecin_etab2_26,ETAB2,DERMATOLOGIE,Samedi
+Medecin_etab2_41,ETAB2,PEDIATRIE,Lundi
+Medecin_etab2_42,ETAB2,PEDIATRIE,Mardi
+Medecin_etab2_43,ETAB2,PEDIATRIE,Mercredi
+Medecin_etab2_44,ETAB2,PEDIATRIE,Jeudi
+Medecin_etab2_45,ETAB2,PEDIATRIE,Vendredi
+Medecin_etab2_46,ETAB2,PEDIATRIE,Samedi
+Medecin_etab2_51,ETAB2,CARDIOLOGIE,Lundi
+Medecin_etab2_52,ETAB2,CARDIOLOGIE,Mardi
+Medecin_etab2_53,ETAB2,CARDIOLOGIE,Mercredi
+Medecin_etab2_54,ETAB2,CARDIOLOGIE,Jeudi
+Medecin_etab2_55,ETAB2,CARDIOLOGIE,Vendredi
+Medecin_etab2_56,ETAB2,CARDIOLOGIE,Samedi
+Medecin_etab2_61,ETAB2,GYNECOLOGIE,Lundi
+Medecin_etab2_62,ETAB2,GYNECOLOGIE,Mardi
+Medecin_etab2_63,ETAB2,GYNECOLOGIE,Mercredi
+Medecin_etab2_64,ETAB2,GYNECOLOGIE,Jeudi
+Medecin_etab2_65,ETAB2,GYNECOLOGIE,Vendredi
+Medecin_etab2_66,ETAB2,GYNECOLOGIE,Samedi
+Medecin_etab2_71,ETAB2,GASTRO ENTEROLOGIE,Lundi
+Medecin_etab2_72,ETAB2,GASTRO ENTEROLOGIE,Mardi
+Medecin_etab2_73,ETAB2,GASTRO ENTEROLOGIE,Mercredi
+Medecin_etab2_74,ETAB2,GASTRO ENTEROLOGIE,Jeudi
+Medecin_etab2_75,ETAB2,GASTRO ENTEROLOGIE,Vendredi
+Medecin_etab2_76,ETAB2,GASTRO ENTEROLOGIE,Samedi
+Medecin_etab2_81,ETAB2,MEDECINE INTERNE,Lundi
+Medecin_etab2_82,ETAB2,MEDECINE INTERNE,Mardi
+Medecin_etab2_83,ETAB2,MEDECINE INTERNE,Mercredi
+Medecin_etab2_84,ETAB2,MEDECINE INTERNE,Jeudi
+Medecin_etab2_85,ETAB2,MEDECINE INTERNE,Vendredi
+Medecin_etab2_86,ETAB2,MEDECINE INTERNE,Samedi

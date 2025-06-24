@@ -1,0 +1,47 @@
+Ligne;Départ;Arrivée;Nombre des stations;Itinéraire;Latitude;Longitude;Trajet;Etat
+Ligne F;Tunis;Ariana Nord;09 Stations;Tunis PV;36.791513;10.188582;10.5 KM;Ligne projetée
+Ligne F;;;;Tunis Marine;36.799088;10.190458;;
+Ligne F;;;;Abu Nawess;36.807906;10.188682;;
+Ligne F;;;;Bourjel;36.820761;10.195920;;
+Ligne F;;;;Charguia;36.832336;10.200570;;
+Ligne F;;;;Aéroport;36.845769;10.201651;;
+Ligne F;;;;Soukra;36.854843;10.202396;;
+Ligne F;;;;Borj Louzir;36.866750;10.196666;;
+Ligne F;;;;Ariana Raoued;36.875867;10.183849;;
+Ligne D;Tunis;Mnihla;13 Stations;Barcelone;36.794791;10.180499;19.2 KM;En construction
+Ligne D;;;;Saida Manoubia;36.786915;10.165711;;
+Ligne D;;;;Mallassine;36.796497;10.155653;;
+Ligne D;;;;ElRaoudha;36.801801;10.147692;;
+Ligne D;;;;Bardo;36.807330;10.135577;;
+Ligne D;;;;Bortal;36.811955;10.115802;;
+Ligne D;;;;Manouba;36.816164;10.101137;;
+Ligne D;;;;ElBortoukal;36.818472;10.085770;;
+Ligne D;;;;Goobaa;36.820019;10.075053;;
+Ligne D;;;;Khalid Ibn Walid;36.833762;10.082026;;
+Ligne D;;;;ElChabeb;36.839079;10.084465;;
+Ligne D;;;;Bassatine;36.845483;10.092553;;
+Ligne D;;;;Mnihla;36.854747;10.116819;;
+Ligne E;Tunis;Essijoumi;12 Stations;Barcelone;36.794791;10.180499;12.9 KM;En construction
+Ligne E;;;;Saida Manoubia;36.786915;10.165711;;
+Ligne E;;;;ElNajeh;36.793188;10.154805;;
+Ligne E;;;;ElTayaran;36.792003;10.138441;;
+Ligne E;;;;Ezzouhour 2;36.792003;10.127812;;
+Ligne E;;;;ElHrairia;36.792003;10.115803;;
+Ligne E;;;;Bougatfa;36.792003;10.102397;;
+Ligne E;;;;Jayara Borj Chakir;36.792003;10.092004;;
+Ligne E;;;;Jayara;36.792003;10.096753;;
+Ligne E;;;;20-mars-01;36.792003;10.100820;;
+Ligne E;;;;20-mars-02;36.792003;10.104040;;
+Ligne E;;;;BelMayou;36.792003;10.120416;;
+Ligne C;Tunis PV;Mhamdia;12 Stations;Tunis PV;36.792003;10.188582;19,5 KM;Ligne 
+Ligne C;;;;Jbal Jloud;36.792003;10.209843;;Projetée
+Ligne C;;;;Ben Arous;36.792003;10.217064;;
+Ligne C;;;;Bir Kassaa 1;36.792003;10.226821;;
+Ligne C;;;;Bir Kassaa 2      ;36.792003;10.231304;;
+Ligne C;;;;Marche de gros;36.792003;10.233841;;
+Ligne C;;;;Nassen;36.792003;10.225300;;
+Ligne C;;;;Mourouj 4-1;36.792003;10.207192;;
+Ligne C;;;;Mourouj 4-2;36.792003;10.193332;;
+Ligne C;;;;Mghira;36.792003;10.179331;;
+Ligne C;;;;Fouchenna;36.697784;10.174093;;
+Ligne C;;;;Mhamdia;36.792003;10.158756;;

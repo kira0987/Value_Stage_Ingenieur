@@ -1,0 +1,21 @@
+Code_Regime,Categorie_Regime,Designation_Regime
+100,Emp/TS,Régime des salariés non agricoles (Loi 30-1960)
+151,Emp/TS,Gens de maison (Loi 32-2002)
+152,Emp/TS,Travailleur de chantier de l'Etat (Loi 32-2002)
+153,Emp/TS,Travailleur de chantier collectiviter locale (Loi 32-2002)
+154,Emp/TS,Travailleur de chantier établissement public (Loi 32-2002)
+155,Emp/TS,Petits pécheurs (Loi 32-2002)
+157,Emp/TS,Syndic des immeubles (Loi 32-2002)
+270,Emp/TS,Régime des salariés agricoles (Loi 06-1981)
+280,Emp/TS,Régime des salariés agricoles amélioré (Loi 73-1989)
+320,TNS,Régime des travailleurs tunisiens à l'étranger (Décret 107-1989)
+340,TNS,Régime des travailleurs non salariés du secteur non agricole (Décret 1166-1995)
+345,TNS,"Régime des artistes, créateurs et intellectuels (Loi 104-2002)"
+350,TNS,Régime des travailleurs non salariés du secteur agricole (Décret 1166-1995)
+380,TNS,Travailleurs non salariés les artisans travaillant à la pièce  (Loi 32-2002)
+381,TNS,"Travailleurs non salariés, les petits pécheurs (Loi 32-2002)"
+382,TNS,"Travailleurs non salariés, les petits armateurs (Loi 32-2002)"
+383,TNS,"Travailleurs non salariés, les petits artisants agricoles (Loi 32-2002)"
+384,TNS,"Travailleurs non salariés, les petits éleveurs (Loi 32-2002)"
+385,TNS,Collecteuses des huitres (Loi 32-2002)
+386,TNS,Travailleurs saisonniers mobiles (Loi 32-2002)

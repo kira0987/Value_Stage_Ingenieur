@@ -1,0 +1,145 @@
+Date,nom_ar,nom_fr,unite,valeur
+2025-03-07 21:00:00,Dew Point,Dew Point,°C,13.2
+2025-03-07 21:00:00,U-sonic wind dir,U-sonic wind dir,deg,339.0
+2025-03-07 21:00:00,U-sonic wind speed,U-sonic wind speed,m/s,0.2
+2025-03-07 21:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 21:00:00,Wind gust,Wind gust,m/s,0.3
+2025-03-07 21:00:00,VPD,VPD,mbar,0.0
+2025-03-07 21:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 21:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 21:00:00,Precipitation,Precipitation,mm,0.0
+2025-03-07 21:00:00,Battery,Battery,mV,5819.0
+2025-03-07 21:00:00,HC Air temperature,HC Air temperature,°C,13.36
+2025-03-07 21:00:00,HC Relative humidity,HC Relative humidity,%,99.52
+2025-03-07 20:00:00,Dew Point,Dew Point,°C,13.5
+2025-03-07 20:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 20:00:00,Precipitation,Precipitation,mm,0.0
+2025-03-07 20:00:00,VPD,VPD,mbar,0.0
+2025-03-07 20:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 20:00:00,Battery,Battery,mV,6072.0
+2025-03-07 20:00:00,HC Air temperature,HC Air temperature,°C,13.68
+2025-03-07 20:00:00,U-sonic wind speed,U-sonic wind speed,m/s,0.2
+2025-03-07 20:00:00,U-sonic wind dir,U-sonic wind dir,deg,4.0
+2025-03-07 20:00:00,HC Relative humidity,HC Relative humidity,%,99.44
+2025-03-07 20:00:00,Wind gust,Wind gust,m/s,0.6
+2025-03-07 20:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 19:00:00,Wind gust,Wind gust,m/s,0.6
+2025-03-07 19:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 19:00:00,U-sonic wind dir,U-sonic wind dir,deg,19.0
+2025-03-07 19:00:00,U-sonic wind speed,U-sonic wind speed,m/s,0.2
+2025-03-07 19:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 19:00:00,VPD,VPD,mbar,0.0
+2025-03-07 19:00:00,Dew Point,Dew Point,°C,14.0
+2025-03-07 19:00:00,HC Relative humidity,HC Relative humidity,%,99.36
+2025-03-07 19:00:00,HC Air temperature,HC Air temperature,°C,14.16
+2025-03-07 19:00:00,Battery,Battery,mV,6103.0
+2025-03-07 19:00:00,Precipitation,Precipitation,mm,0.0
+2025-03-07 19:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 18:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 18:00:00,HC Relative humidity,HC Relative humidity,%,99.34
+2025-03-07 18:00:00,HC Air temperature,HC Air temperature,°C,14.42
+2025-03-07 18:00:00,Battery,Battery,mV,6083.0
+2025-03-07 18:00:00,Precipitation,Precipitation,mm,0.0
+2025-03-07 18:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 18:00:00,Dew Point,Dew Point,°C,14.3
+2025-03-07 18:00:00,VPD,VPD,mbar,0.1
+2025-03-07 18:00:00,Wind gust,Wind gust,m/s,2.6
+2025-03-07 18:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 18:00:00,U-sonic wind dir,U-sonic wind dir,deg,118.0
+2025-03-07 18:00:00,U-sonic wind speed,U-sonic wind speed,m/s,1.3
+2025-03-07 07:00:00,VPD,VPD,mbar,0.0
+2025-03-07 07:00:00,HC Relative humidity,HC Relative humidity,%,99.64
+2025-03-07 07:00:00,HC Air temperature,HC Air temperature,°C,14.96
+2025-03-07 07:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 07:00:00,Precipitation,Precipitation,mm,0.0
+2025-03-07 07:00:00,Battery,Battery,mV,5958.0
+2025-03-07 07:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,2.0
+2025-03-07 07:00:00,Wind gust,Wind gust,m/s,3.7
+2025-03-07 07:00:00,U-sonic wind dir,U-sonic wind dir,deg,147.0
+2025-03-07 07:00:00,U-sonic wind speed,U-sonic wind speed,m/s,1.8
+2025-03-07 07:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 07:00:00,Dew Point,Dew Point,°C,14.9
+2025-03-07 06:00:00,U-sonic wind dir,U-sonic wind dir,deg,130.0
+2025-03-07 06:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 06:00:00,Precipitation,Precipitation,mm,2.4
+2025-03-07 06:00:00,Battery,Battery,mV,6101.0
+2025-03-07 06:00:00,HC Air temperature,HC Air temperature,°C,14.76
+2025-03-07 06:00:00,HC Relative humidity,HC Relative humidity,%,99.58
+2025-03-07 06:00:00,U-sonic wind speed,U-sonic wind speed,m/s,1.6
+2025-03-07 06:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 06:00:00,VPD,VPD,mbar,0.0
+2025-03-07 06:00:00,Dew Point,Dew Point,°C,14.6
+2025-03-07 06:00:00,Wind gust,Wind gust,m/s,3.4
+2025-03-07 06:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 05:00:00,Battery,Battery,mV,5984.0
+2025-03-07 05:00:00,U-sonic wind dir,U-sonic wind dir,deg,155.0
+2025-03-07 05:00:00,HC Air temperature,HC Air temperature,°C,14.76
+2025-03-07 05:00:00,HC Relative humidity,HC Relative humidity,%,99.48
+2025-03-07 05:00:00,U-sonic wind speed,U-sonic wind speed,m/s,1.9
+2025-03-07 05:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 05:00:00,VPD,VPD,mbar,0.0
+2025-03-07 05:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 05:00:00,Precipitation,Precipitation,mm,0.2
+2025-03-07 05:00:00,Dew Point,Dew Point,°C,14.6
+2025-03-07 05:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 05:00:00,Wind gust,Wind gust,m/s,5.0
+2025-03-07 04:00:00,Dew Point,Dew Point,°C,14.4
+2025-03-07 04:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 04:00:00,Precipitation,Precipitation,mm,0.2
+2025-03-07 04:00:00,Battery,Battery,mV,6081.0
+2025-03-07 04:00:00,HC Air temperature,HC Air temperature,°C,14.52
+2025-03-07 04:00:00,HC Relative humidity,HC Relative humidity,%,99.54
+2025-03-07 04:00:00,VPD,VPD,mbar,0.0
+2025-03-07 04:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 04:00:00,U-sonic wind speed,U-sonic wind speed,m/s,2.8
+2025-03-07 04:00:00,U-sonic wind dir,U-sonic wind dir,deg,164.0
+2025-03-07 04:00:00,Wind gust,Wind gust,m/s,5.9
+2025-03-07 04:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 03:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-07 03:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-07 03:00:00,Wind gust,Wind gust,m/s,3.9
+2025-03-07 03:00:00,U-sonic wind dir,U-sonic wind dir,deg,139.0
+2025-03-07 03:00:00,U-sonic wind speed,U-sonic wind speed,m/s,1.9
+2025-03-07 03:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-07 03:00:00,VPD,VPD,mbar,0.0
+2025-03-07 03:00:00,Dew Point,Dew Point,°C,14.4
+2025-03-07 03:00:00,HC Relative humidity,HC Relative humidity,%,99.56
+2025-03-07 03:00:00,HC Air temperature,HC Air temperature,°C,14.48
+2025-03-07 03:00:00,Battery,Battery,mV,6089.0
+2025-03-07 03:00:00,Precipitation,Precipitation,mm,0.0
+2025-03-07 02:00:00,Dew Point,Dew Point,°C,
+2025-03-07 02:00:00,Battery,Battery,mV,5317.0
+2025-03-07 02:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,
+2025-03-07 02:00:00,Wind gust,Wind gust,m/s,
+2025-03-07 02:00:00,U-sonic wind dir,U-sonic wind dir,deg,
+2025-03-07 02:00:00,U-sonic wind speed,U-sonic wind speed,m/s,
+2025-03-07 02:00:00,DeltaT,DeltaT,°C,
+2025-03-07 02:00:00,VPD,VPD,mbar,
+2025-03-07 02:00:00,HC Relative humidity,HC Relative humidity,%,
+2025-03-07 02:00:00,HC Air temperature,HC Air temperature,°C,
+2025-03-07 02:00:00,Precipitation,Precipitation,mm,
+2025-03-07 02:00:00,Solar Panel,Solar Panel,mV,
+2025-03-06 23:00:00,Precipitation,Precipitation,mm,4.2
+2025-03-06 23:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-06 23:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-06 23:00:00,Wind gust,Wind gust,m/s,6.1
+2025-03-06 23:00:00,U-sonic wind dir,U-sonic wind dir,deg,144.0
+2025-03-06 23:00:00,U-sonic wind speed,U-sonic wind speed,m/s,2.6
+2025-03-06 23:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-06 23:00:00,VPD,VPD,mbar,0.0
+2025-03-06 23:00:00,Dew Point,Dew Point,°C,13.8
+2025-03-06 23:00:00,HC Relative humidity,HC Relative humidity,%,99.48
+2025-03-06 23:00:00,HC Air temperature,HC Air temperature,°C,13.97
+2025-03-06 23:00:00,Battery,Battery,mV,6081.0
+2025-03-06 22:00:00,Dew Point,Dew Point,°C,14.3
+2025-03-06 22:00:00,Battery,Battery,mV,6132.0
+2025-03-06 22:00:00,Precipitation,Precipitation,mm,4.2
+2025-03-06 22:00:00,Solar Panel,Solar Panel,mV,0.0
+2025-03-06 22:00:00,DeltaT,DeltaT,°C,0.0
+2025-03-06 22:00:00,KZ Solar radiation,KZ Solar radiation,W/m2,0.0
+2025-03-06 22:00:00,Wind gust,Wind gust,m/s,5.4
+2025-03-06 22:00:00,U-sonic wind dir,U-sonic wind dir,deg,136.0
+2025-03-06 22:00:00,U-sonic wind speed,U-sonic wind speed,m/s,2.5
+2025-03-06 22:00:00,VPD,VPD,mbar,0.0
+2025-03-06 22:00:00,HC Air temperature,HC Air temperature,°C,14.5
+2025-03-06 22:00:00,HC Relative humidity,HC Relative humidity,%,99.39

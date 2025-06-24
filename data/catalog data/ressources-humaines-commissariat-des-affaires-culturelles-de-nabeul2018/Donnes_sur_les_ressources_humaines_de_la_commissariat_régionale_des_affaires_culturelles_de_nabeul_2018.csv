@@ -1,0 +1,26 @@
+Categorie ,Grade ,Situation_professionnelle ,Nombre 
+Cadre ,A1,Titulaire ,21
+Cadre ,A1,Détache ,2
+Cadre ,A2,Titulaire ,43
+Cadre ,A3,Titulaire ,50
+Agent ,B,Titulaire ,9
+Agent ,B,Temporaire ,3
+Agent ,C,Titulaire ,6
+Agent ,D,Titulaire ,6
+Agent ,D,Temporaire ,2
+Ouvrier ,Catégorie 1,Titulaire ,3
+Ouvrier ,Catégorie 1,Temporaire ,2
+Ouvrier ,Catégorie 2,Titulaire ,17
+Ouvrier ,Catégorie 2,Temporaire ,3
+Ouvrier ,Catégorie 3,Titulaire ,3
+Ouvrier ,Catégorie 3,Temporaire ,0
+Ouvrier ,Catégorie 4,Titulaire ,3
+Ouvrier ,Catégorie 4,Temporaire ,0
+Ouvrier ,Catégorie 5,Titulaire ,3
+Ouvrier ,Catégorie 5,Temporaire ,0
+Ouvrier ,Catégorie 6,Titulaire ,2
+Ouvrier ,Catégorie 6,Temporaire ,0
+Ouvrier ,Catégorie 8,Titulaire ,2
+Ouvrier ,Catégorie 8,Temporaire ,0
+Ouvrier ,Catégorie 9,Titulaire ,1
+Ouvrier ,Catégorie 9,Temporaire ,0

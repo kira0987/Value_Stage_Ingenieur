@@ -1,0 +1,769 @@
+Date,nom_ar,nom_fr,unite,valeur
+2025-06-19 10:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-19 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-19 09:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-19 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-19 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-19 08:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-19 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-19 07:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-19 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-19 06:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-19 05:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-19 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 23:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-18 22:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-18 22:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 21:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-18 20:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-18 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 19:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-18 18:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-18 18:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 17:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-18 16:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-18 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 15:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-18 14:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-18 14:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-18 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 13:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-18 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 11:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-18 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 09:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-18 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 07:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-18 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 06:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-18 05:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-18 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 04:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-18 04:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 03:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 03:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-18 02:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 02:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-18 01:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 01:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-18 00:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-18 00:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-17 23:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-17 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 22:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-17 22:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 21:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-17 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 19:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-17 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 17:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-17 17:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-17 15:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-17 15:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-17 14:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-17 14:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-17 13:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-17 13:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-17 11:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-17 11:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-17 10:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-17 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 09:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-17 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 07:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-17 06:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-17 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 05:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-17 04:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 04:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-17 03:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-17 03:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 02:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 02:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-17 01:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 01:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-17 00:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-17 00:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-16 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 21:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-16 19:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-16 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 17:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-16 16:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-16 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 15:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 13:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-16 13:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-16 12:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-16 12:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-16 11:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-16 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 09:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-16 08:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-16 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 07:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 06:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-16 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 05:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 03:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 03:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 02:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 02:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 01:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-16 01:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 00:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-16 00:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 23:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-15 22:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-15 22:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 21:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-15 19:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-15 19:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-15 17:00:00,Pression relative,Pression relative,hPa,11064.0
+2025-06-15 17:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-15 16:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-15 16:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-15 15:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-15 15:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-15 14:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-15 14:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-15 13:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-15 13:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-15 11:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-15 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 10:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-15 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 09:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-15 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 08:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-15 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 07:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-15 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 06:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-15 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 05:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-15 03:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-15 03:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 01:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-15 01:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-14 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 23:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-14 22:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-14 22:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 21:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-14 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 19:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-14 18:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-14 18:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-14 17:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-14 17:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-14 16:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-14 16:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-14 15:00:00,Pression relative,Pression relative,hPa,11065.0
+2025-06-14 15:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-14 14:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-14 14:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-14 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 13:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-14 12:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-14 12:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-14 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 11:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-14 10:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-14 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 09:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-14 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 08:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-14 07:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-14 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 06:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-14 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-14 05:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-13 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 23:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-13 22:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-13 22:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 21:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-13 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 20:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-13 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 19:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-13 18:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-13 18:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-13 17:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-13 17:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-13 16:00:00,Pression relative,Pression relative,hPa,11066.0
+2025-06-13 16:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-13 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 15:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-13 14:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 14:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-13 13:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-13 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 12:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-13 12:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-13 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 11:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-13 10:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-13 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 09:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-13 08:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-13 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 07:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-13 06:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-13 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-13 05:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-12 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 15:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-12 14:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-12 14:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 13:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-12 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 11:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-12 10:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-12 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 09:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-12 08:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-12 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 07:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-12 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-12 06:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-12 05:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-12 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 09:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-11 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 08:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-11 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 07:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-06-11 06:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-11 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 05:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-11 04:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-11 04:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 03:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 03:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-11 02:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 02:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-11 01:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-11 01:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-10 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 23:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-10 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 21:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-10 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 20:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-10 19:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-10 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 18:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 18:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-10 17:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-10 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 16:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-10 16:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-10 15:00:00,Niveau du fluid,Niveau du fluid,m,11.28
+2025-06-10 15:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-10 13:00:00,Pression relative,Pression relative,hPa,11067.0
+2025-06-10 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 11:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-10 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 10:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-10 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 09:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-10 08:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-10 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 07:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-10 06:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-10 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-10 05:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-09 12:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-09 12:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-09 11:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-09 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-09 09:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-09 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-09 08:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-09 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-09 07:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-09 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-09 06:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-09 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-09 05:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-09 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 15:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-08 14:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-08 14:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 13:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-08 12:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 12:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-08 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 11:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-08 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 10:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-08 09:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-08 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 08:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-08 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 07:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-08 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 06:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-08 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-08 05:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-07 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-07 07:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-07 05:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-07 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-06 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-06 08:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-06 07:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-06 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-06 06:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-06 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-06 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-06 05:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-05 06:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-05 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-05 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-05 05:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-05 04:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-05 04:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-04 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-04 05:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-04 04:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-04 04:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-04 03:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-04 03:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-04 01:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-04 01:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-06-04 00:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-04 00:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-03 23:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-03 23:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 21:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-03 20:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-03 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 19:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-03 18:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-03 18:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 17:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-03 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 16:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-03 15:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-03 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 13:00:00,Pression relative,Pression relative,hPa,11068.0
+2025-06-03 12:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-03 12:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 11:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-03 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 09:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-03 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 08:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-03 07:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-03 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 06:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-03 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-03 05:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-02 07:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-06-02 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-02 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-02 06:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-02 05:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-02 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 22:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 22:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-01 21:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-01 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 20:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-06-01 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 19:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-01 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 17:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-01 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 16:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-01 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 15:00:00,Pression relative,Pression relative,hPa,11069.0
+2025-06-01 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 14:00:00,Pression relative,Pression relative,hPa,11070.0
+2025-06-01 14:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 13:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-01 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 11:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-01 10:00:00,Pression relative,Pression relative,hPa,11071.0
+2025-06-01 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 09:00:00,Pression relative,Pression relative,hPa,11072.0
+2025-06-01 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 08:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-06-01 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-06-01 07:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-01 05:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-06-01 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-31 06:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-31 06:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-31 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-31 05:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-30 11:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-30 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-30 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-30 09:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-30 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-30 08:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-30 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-30 07:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-30 05:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-30 05:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-29 08:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-29 08:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-29 07:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-29 07:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-29 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-29 05:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-29 01:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-29 01:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-29 00:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-29 00:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-28 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-28 23:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-28 22:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-28 22:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-28 21:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-28 21:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 20:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-28 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 19:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-05-28 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 17:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-05-28 15:00:00,Pression relative,Pression relative,hPa,11073.0
+2025-05-28 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 13:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-05-28 12:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-28 12:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 11:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-05-28 11:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 10:00:00,Pression relative,Pression relative,hPa,11074.0
+2025-05-28 10:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 09:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-28 09:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 08:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-28 08:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-28 07:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-28 07:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-28 06:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-28 06:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-28 05:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-28 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-28 00:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-28 00:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-27 23:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-27 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 22:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 22:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-27 21:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 21:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-27 20:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-27 20:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 19:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-27 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 18:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-27 18:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 17:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-27 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 16:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-27 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 15:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-27 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 14:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 14:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-27 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-27 13:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-27 12:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 12:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-27 11:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-27 11:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 09:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 09:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 08:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 08:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 07:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 07:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-27 06:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 06:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 05:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 04:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 04:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 03:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-27 03:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 02:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 02:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 01:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-27 01:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-27 00:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-27 00:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 23:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-26 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 22:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-26 22:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 21:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-26 21:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 19:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-26 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 17:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-26 17:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 16:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-26 15:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 15:00:00,Pression relative,Pression relative,hPa,11075.0
+2025-05-26 14:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 14:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-26 13:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-26 13:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 12:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-26 12:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-26 11:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-26 11:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 10:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 10:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-26 09:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-26 09:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 08:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-26 08:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 07:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 07:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-26 06:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-26 06:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 05:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-26 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 04:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 04:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-26 03:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-26 03:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 01:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-26 01:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-25 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 23:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-25 21:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 21:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-25 19:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-25 19:00:00,Pression relative,Pression relative,hPa,11076.0
+2025-05-25 17:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 17:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-25 15:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-25 15:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 13:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 13:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-25 12:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-25 12:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 11:00:00,Pression relative,Pression relative,hPa,11081.0
+2025-05-25 11:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 10:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 10:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 09:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 09:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 08:00:00,Pression relative,Pression relative,hPa,11081.0
+2025-05-25 08:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 07:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 07:00:00,Pression relative,Pression relative,hPa,11081.0
+2025-05-25 06:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 06:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 05:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 04:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 04:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 03:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 03:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 02:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 02:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 01:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-25 01:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-25 00:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-25 00:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 23:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-24 22:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 22:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-24 21:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 21:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-24 20:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 20:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-24 19:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 19:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 17:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 17:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 16:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 16:00:00,Niveau du fluid,Niveau du fluid,m,11.29
+2025-05-24 15:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 15:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 14:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 14:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 13:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 13:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 12:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 12:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 11:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 11:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 10:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 10:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 09:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 09:00:00,Pression relative,Pression relative,hPa,11077.0
+2025-05-24 08:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 08:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 07:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 07:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 06:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 06:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 05:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 04:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 04:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 03:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 03:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 02:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 02:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 01:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-24 01:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 00:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-24 00:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 23:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 22:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 22:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 21:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 21:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 20:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 20:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 19:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 19:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 18:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 18:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 17:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 17:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 15:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 15:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 14:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 14:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 13:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 13:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 12:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 12:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 11:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 11:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 10:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 10:00:00,Pression relative,Pression relative,hPa,11078.0
+2025-05-23 09:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 09:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 08:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-23 08:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 07:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-23 07:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 06:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-23 06:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 05:00:00,Pression relative,Pression relative,hPa,11081.0
+2025-05-23 05:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 03:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 03:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-23 01:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-23 01:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-22 23:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-22 23:00:00,Pression relative,Pression relative,hPa,11080.0
+2025-05-22 21:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-22 21:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-22 19:00:00,Niveau du fluid,Niveau du fluid,m,11.3
+2025-05-22 19:00:00,Pression relative,Pression relative,hPa,11079.0
+2025-05-22 17:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-22 17:00:00,Pression relative,Pression relative,hPa,1148.0
+2025-05-22 15:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-22 15:00:00,Pression relative,Pression relative,hPa,1151.0
+2025-05-22 13:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-22 13:00:00,Pression relative,Pression relative,hPa,1152.0
+2025-05-22 11:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-22 11:00:00,Pression relative,Pression relative,hPa,1146.0
+2025-05-22 09:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-22 09:00:00,Pression relative,Pression relative,hPa,1149.0
+2025-05-22 08:00:00,Pression relative,Pression relative,hPa,1153.0
+2025-05-22 08:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-22 07:00:00,Pression relative,Pression relative,hPa,1155.0
+2025-05-22 07:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-22 06:00:00,Pression relative,Pression relative,hPa,1152.0
+2025-05-22 06:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-22 05:00:00,Pression relative,Pression relative,hPa,1150.0
+2025-05-22 05:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-21 05:00:00,Pression relative,Pression relative,hPa,1154.0
+2025-05-21 05:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-21 03:00:00,Pression relative,Pression relative,hPa,1152.0
+2025-05-21 03:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-21 01:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-21 01:00:00,Pression relative,Pression relative,hPa,1153.0
+2025-05-20 23:00:00,Pression relative,Pression relative,hPa,1152.0
+2025-05-20 23:00:00,Niveau du fluid,Niveau du fluid,m,1.17
+2025-05-20 21:00:00,Pression relative,Pression relative,hPa,1156.0
+2025-05-20 21:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 19:00:00,Pression relative,Pression relative,hPa,1156.0
+2025-05-20 19:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 17:00:00,Pression relative,Pression relative,hPa,1152.0
+2025-05-20 17:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 15:00:00,Pression relative,Pression relative,hPa,1155.0
+2025-05-20 15:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 13:00:00,Pression relative,Pression relative,hPa,1160.0
+2025-05-20 13:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 11:00:00,Pression relative,Pression relative,hPa,1157.0
+2025-05-20 11:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 09:00:00,Pression relative,Pression relative,hPa,1155.0
+2025-05-20 09:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 07:00:00,Pression relative,Pression relative,hPa,1153.0
+2025-05-20 07:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 06:00:00,Pression relative,Pression relative,hPa,1155.0
+2025-05-20 06:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 05:00:00,Pression relative,Pression relative,hPa,1156.0
+2025-05-20 05:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 04:00:00,Pression relative,Pression relative,hPa,1160.0
+2025-05-20 04:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 03:00:00,Pression relative,Pression relative,hPa,1158.0
+2025-05-20 03:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 02:00:00,Pression relative,Pression relative,hPa,1158.0
+2025-05-20 02:00:00,Niveau du fluid,Niveau du fluid,m,1.18
+2025-05-20 01:00:00,Pression relative,Pression relative,hPa,1163.0
+2025-05-20 01:00:00,Niveau du fluid,Niveau du fluid,m,1.19
+2025-05-20 00:00:00,Pression relative,Pression relative,hPa,1157.0
+2025-05-20 00:00:00,Niveau du fluid,Niveau du fluid,m,1.18
