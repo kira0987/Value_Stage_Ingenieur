@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<!--[if IE 7]> <html lang="fr" class="ie ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="fr" class="ie ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <!--[if lte ie 8]><script type="text/javascript" src="/fanstatic/vendor/:version:2017-01-23T10:19:38.93/html5.min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2017-01-23T10:19:38.93/select2/select2.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/css/:version:2017-09-19T16:55:31.93/main.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2017-01-23T10:19:38.93/font-awesome/css/font-awesome.min.css" />
+<!--[if ie 7]><link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2017-01-23T10:19:38.93/font-awesome/css/font-awesome-ie7.min.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="/fanstatic/ckanext-geoview/:version:2017-03-08T13:07:05.11/css/geo-resource-styles.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/ckanext-harvest/:version:2017-02-15T12:12:44.60/styles/harvest.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/pages/:version:2017-02-15T13:19:12.72/:bundle:css/bootstrap.css;css/medium-editor.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/panamatheme/:version:2017-09-18T14:15:49.73/panamatheme.css" />
+
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.5.3" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connexion - Open Culture</title>
+
+    
+    
+    
+  <link rel="shortcut icon" href="/base/images/tunisie.ico" />
+    
+  
+    
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114009338-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+  
+
+
+    <!--[if IE]>
+    <script src="/classList.min.js"></script>
+    <![endif]-->
+
+    
+    
+    
+    
+
+  
+    
+    
+      
+    
+    
+    
+
+    
+
+  
+
+
+    
+      
+      
+    
+    
+  </head>
+
+  
+  <body data-site-root="http://www.openculture.gov.tn/" data-locale-root="http://www.openculture.gov.tn/" >
+
+    
+    <div class="hide"><a href="#content">Passer directement au contenu</a></div>
+  
+
+  
+    
+
+  <header class="account-masthead">
+    <div class="container">
+      
+    <div class="row relative">
+        <map name="map">
+            <area shape="rect" coords="0,0,240,126" href="/" alt="Homepage">
+        </map>
+
+        <div class="span5 pull-right">
+            <div>
+                
+        
+          <nav class="account not-authed">
+            <ul class="unstyled">
+              
+    
+              <li><a class=" active" href="/user/login">Connexion</a></li>
+              
+              
+    
+    <li>
+      <a href="/contact" title="Contact">
+        
+           Contact
+        
+      </a>
+    </li>
+
+
+            </ul>
+          </nav>
+        
+      
+            </div>
+           
+        </div>
+    </div>
+
+
+    </div>
+  </header>
+
+<header class="navbar navbar-static-top masthead">
+  
+    
+  
+  <div class="container">
+    <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    
+    <hgroup class="header-image pull-left">
+
+      
+        
+          <a class="logo" href="/"><img src="/base/images/ckan-logo.png" alt="Open Culture" title="Open Culture" /></a>
+        
+      
+
+    </hgroup>
+
+    <div class="nav-collapse collapse">
+
+      
+        <nav class="section navigation">
+          <ul class="nav nav-pills">
+            
+  <li><a href="/dataset">Jeux de données</a></li><li><a href="/organization">Organisations</a></li><li><a href="/group">Groupes</a></li><li><a href="/datarequest">Demandes
+<!-- Snippet datarequests/snippets/badge.html start -->
+<span class="badge">0</span>
+<!-- Snippet datarequests/snippets/badge.html end -->
+</a></li><li><a href="/about">À propos</a></li>
+
+          </ul>
+        </nav>
+      
+
+      
+
+
+    </div>
+  </div>
+</header>
+
+  
+    <div role="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+                  <div class="alert fade in alert-error">
+                    Vous n&#39;êtes pas autorisé à lire la ressource a2886f3c-f33d-4505-8764-8deaa1aff25a
+                  </div>
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<!-- Snippet snippets/home_breadcrumb_item.html start -->
+
+<li class="home"><a href="/"><i class="icon-home"></i><span> Accueil</span></a></li>
+<!-- Snippet snippets/home_breadcrumb_item.html end -->
+
+                    
+  <li class="active"><a class=" active" href="/user/login">Connexion</a></li>
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+
+            
+            
+            
+
+            
+              <div class="primary span9">
+                
+                
+  <section class="module">
+    <div class="module-content">
+      <h1 class="page-heading">Connexion</h1>
+      
+        
+<!-- Snippet user/snippets/login_form.html start -->
+
+
+
+
+
+
+<form action="/login_generic?came_from=http%3A//www.openculture.gov.tn/dataset/a2886f3c-f33d-4505-8764-8deaa1aff25a/resource/ecc74a2e-87bc-41e3-8fb3-f9253e64175a/download/subventions-public-apporte-aux-associations-culturelles-de-tozeur-par-le-ministere-des-affaires-.pdf" method="post" class="form-horizontal">
+  
+  
+
+
+  
+  <div class="control-group control-medium">
+    <label class="control-label" for="field-login">Nom d&#39;utilisateur</label>
+    <div class="controls ">
+      
+    <input id="field-login" type="text" name="login" value="" placeholder=""  />
+  
+      
+      
+    </div>
+  </div>
+
+
+
+  
+  <div class="control-group control-medium">
+    <label class="control-label" for="field-password">Mot de passe</label>
+    <div class="controls ">
+      
+    <input id="field-password" type="password" name="password" value="" placeholder=""  />
+  
+      
+      
+    </div>
+  </div>
+
+
+
+  <div class="control-group ">
+    <div class="controls">
+      <label class="checkbox" for="field-remember">
+        <input id="field-remember" type="checkbox" name="remember" value="63072000" checked   />
+        Se souvenir de moi
+        
+        
+      </label>
+      
+    </div>
+  </div>
+
+
+  <div class="form-actions">
+    
+    <button class="btn btn-primary" type="submit">Connexion</button>
+    
+  </div>
+</form>
+<!-- Snippet user/snippets/login_form.html end -->
+
+      
+    </div>
+  </section>
+
+              </div>
+            
+
+            
+              <aside class="secondary span3">
+                
+                
+  
+
+  
+  <section class="module module-narrow module-shallow">
+    
+    <h2 class="module-heading">Mot de passe oublié ?</h2>
+    <div class="module-content">
+      <p>Aucun problème, utilisez notre formulaire de regénération du mot de passe pour le réinitialiser.</p>
+      <p class="action">
+        
+        <a class="btn" href="/user/reset">Mot de passe oublié ?</a>
+        
+      </p>
+    </div>
+    
+  </section>
+  
+
+              </aside>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+         <style>
+        .social-icons {
+            display: flex;
+            /*justify-content: center;*/
+            gap: 5px; /* Espace entre les icônes */
+        }
+
+        .social-icons a img {
+    width: 65px; /* Largeur des icônes */
+    height: 69px; /* Hauteur des icônes */
+    }
+    </style>
+            
+            <div class="row">
+                <div class="span4 text-center">
+                    <strong>
+                    <b>Institutions Sous-Tutelle</b> <br>
+                    
+                    
+                    <!--<li><a href="http://www.citedelaculture.gov.tn/" target="_blank">Cité de la Culture</a></li>-->
+                    <ul>
+                        <li><a href="http://www.cmam.tn/" target="_blank">C.M.A.M</a></li>
+                        <li><a href="https://tunisiepatrimoine.tn/accueil/" target="_blank">A.M.V.P.P.C</a></li>
+                        <li><a href="http://www.bibliotheque.nat.tn/" target="_blank">Bibliothèque Nationale</a></li>
+                        <li><a href="http://www.inp.rnrt.tn/?fontstyle=f-larger" target="_blank">Institut National du Patrimoine</a></li>
+                        <li><a href="http://www.enpfmca.gov.tn/" target="_blank">E.N.P.F.M.C.A</a></li>
+                        <li><a href="https://www.itrat.nat.tn" target="_blank">Institut de Traduction de Tunis</a></li>
+                        <li><a href="http://theatrenational.tn" target="_blank">Théâtre National Tunisien</a></li>
+                        <li><a href="http://www.otdav.tn" target="_blank">O.T.D.A.V</a></li>
+                        <li><a href="https://www.cnci.tn/" target="_blank">C.N.C.I</a></li>
+                        <li><a href="https://www.macam-tunis.tn" target="_blank">M.A.C.A.M</a></li>
+                        <li><a href="https://centremarionnette.tn" target="_blank">C.N.A.M</a></li>
+                        <li><a href="http://www.ccih.gov.tn/" target="_blank">C.C.I.H</a></li>
+                    </ul>
+                    </strong>
+                    
+                </div>
+
+                <div class="span4 text-center">
+                    <strong>
+                    <b>Politique Open Data</b> <br>
+                    <ul>
+                        <li><a href="/pages/cadre-juridique-od"><span class="glyphicon glyphicon-calendar"></span> Cadre juridique Open Data</a></li>
+                        <!--<li><a href="/pages/politique-de-l-acces">Politique de l'accès</a></li>-->
+                        <!--<li><a href="/pages/manuel-de-l-acces">Manuel de l'accès</a></li>-->
+                        <li><a href="/pages/circulaires">Circulaires Open Data</a></li>
+                        <li><a href="/pages/guide-open-data">Guide Open Data</a></li>
+                        <li><a href="/pages/licence">Licence d'utilisation</a></li>
+                        <li><a href="https://www.data.gov.tn/fr/">Portail National Open Data</a></li>
+                        <li><a href="/pages/faq">F.A.Q</a></li>
+                        <li><a href="https://docs.ckan.org/en/2.5/api/">API CKAN</a></li>
+                    </ul>
+                    </strong>
+                    <!--<p align="center"><img src="/base/images/od_80x15_blue.png"></p>-->
+                    <!--<p align="left"><img src="/base/images/placeholder-420x220.png"></p> <img src="/base/images/logo-culture.png"></a>-->
+                    <div class="col">
+                        <script>
+                            document.addEventListener("DOMContentLoaded", function() {
+                               var currentYear = new Date().getFullYear();
+                               document.getElementById("year").textContent = currentYear;
+                            });
+                        </script>
+                        <p align="left" style="margin-left: 15%;">
+                            <a href="http://www.openculture.gov.tn/" target="_blank"><img src="/base/images/placeholder-420x220.png"></a>
+                        </p>
+                        <p align="left"><a href="http://www.culture.gov.tn/" target="_blank"><h3 style="font-size: 13px;"><strong>Ministère des Affaires Culturelles &copy; <span id="year"></span></h3></strong></a></p>
+                         <!-- Ajout des liens vers les réseaux sociaux -->
+                         <p class="social-icons" style="margin-left: 7%;">
+                            
+                            <a href="https://www.facebook.com/M.AFFAIRES.CULTURELLES" target="_blank"><img src="/base/images/facebook.png" alt="Facebook"></a>
+                            <a href="https://x.com/Culture_Gov_TN" target="_blank"><img src="/base/images/x.png" alt="x"></a>
+                            <a href="https://www.youtube.com/channel/UCjz8VGAcAvOJqOtXFcq2YfA" target="_blank"><img src="/base/images/youtube.png" alt="youtube"></a>
+                            <!--<a href="https://www.instagram.com/culture.gov.tn" target="_blank"><img src="/base/images/instagram.png" alt="instagram"></a>-->
+                             <!--<a href="mailto:samia.benchikha@mac.state.tn" target="_blank"><img src="/base/images/mailto.png" alt="Email"></a>-->
+                        </p>
+                         
+                       
+                    </div>
+                </div>
+
+                <div class="span4 text-center">
+                    <!--<b>Consultations Nationales</b> <br>
+                    <li><a href="/pages/consultation-ogp"><span class="glyphicon glyphicon-calendar"></span> Consultation Nationale OGP</a></li>-->
+                   
+                    <strong>
+                    <b>Accès à l&#39;information</b> <br>
+                    <ul>
+                        <li><a href="/pages/textes-juridiques">Textes juridiques</a></li>
+                        <li><a href="/pages/manuel-de-l-acces">Manuel de l'accès</a></li>
+                        <li><a href="/pages/charge-d-acces-a-l-information"><span class="glyphicon glyphicon-calendar"></span> chargés d'accès à l'information</a></li>
+                        <li><a href="/pages/rapports-d-acces-a-l-information">Rapports d'accès à l'information</a></li>
+                        <li><a href="/pages/demande-d-information-et-recours">Demande d'accès et recours</a></li>
+                    </ul>
+                    <b>Les Services</b> <br>
+                    <ul>
+                        <li><a href="http://www.sicad.gov.tn/Fr/Prestations_57_3" target="_blank">Services administratifs</a></li>
+                    </ul>
+                    <b>Activités et Nouvelles</b><br>
+                    
+                    <ul>
+                        <li><a href="/blog"><span class="glyphicon glyphicon-calendar"></span> Blog</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/pages/enquetes-et-sondages"><span class="glyphicon glyphicon-calendar"></span> Enquêtes et sondages</a></li>
+                    </ul>
+                </div>
+
+                <div class="span2 text-center">
+                    
+                    <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+                    <p><a href="http://ckan.org"><img src="/ckan.png"></a></p>
+                    
+                    
+                    
+<!-- Snippet snippets/language_selector.html start -->
+
+
+<form class="form-inline form-select lang-select" action="/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/user/login?came_from%3Dhttp%253A%252F%252Fwww.openculture.gov.tn%252Fdataset%252Fa2886f3c-f33d-4505-8764-8deaa1aff25a%252Fresource%252Fecc74a2e-87bc-41e3-8fb3-f9253e64175a%252Fdownload%252Fsubventions-public-apporte-aux-associations-culturelles-de-tozeur-par-le-ministere-des-affaires-.pdf" selected="selected">
+        français
+      </option>
+    
+  </select>
+  <button class="btn js-hide" type="submit">Go</button>
+</form>
+<!-- Snippet snippets/language_selector.html end -->
+
+                    
+                </div>
+            </div>
+            </strong>
+            
+            
+            
+        
+  </div>
+
+  
+            
+            
+</footer>
+  
+    
+    
+    
+      
+    
+  
+  
+    
+  
+    
+    <div class="js-hide" data-module="google-analytics"
+      data-module-googleanalytics_resource_prefix="">
+    </div>
+  
+
+
+      
+  <script>document.getElementsByTagName('html')[0].className += ' js';</script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2017-01-23T10:19:38.93/jquery.min.js"></script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2017-01-23T10:19:38.93/:bundle:bootstrap/js/bootstrap.min.js;jed.min.js;moment-with-locales.js;select2/select2.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2017-01-23T10:19:39.05/:bundle:plugins/jquery.inherit.min.js;plugins/jquery.proxy-all.min.js;plugins/jquery.url-helpers.min.js;plugins/jquery.date-helpers.min.js;plugins/jquery.slug.min.js;plugins/jquery.slug-preview.min.js;plugins/jquery.truncator.min.js;plugins/jquery.masonry.min.js;plugins/jquery.form-warning.min.js;sandbox.min.js;module.min.js;pubsub.min.js;client.min.js;notify.min.js;i18n.min.js;main.min.js;modules/select-switch.min.js;modules/slug-preview.min.js;modules/basic-form.min.js;modules/confirm-action.min.js;modules/api-info.min.js;modules/autocomplete.min.js;modules/custom-fields.min.js;modules/related-item.min.js;modules/data-viewer.min.js;modules/table-selectable-rows.min.js;modules/resource-form.min.js;modules/resource-upload-field.min.js;modules/resource-reorder.min.js;modules/resource-view-reorder.min.js;modules/follow.min.js;modules/activity-stream.min.js;modules/dashboard.min.js;modules/resource-view-embed.min.js;view-filters.min.js;modules/resource-view-filters-form.min.js;modules/resource-view-filters.min.js;modules/table-toggle-more.min.js;modules/dataset-visibility.min.js;modules/media-grid.min.js;modules/image-upload.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2017-01-23T10:19:39.05/tracking.min.js"></script>
+<script type="text/javascript" src="/fanstatic/ckanext-googleanalytics/:version:2018-02-26T17:04:21.96/googleanalytics_event_tracking.js"></script>
+<script type="text/javascript" src="/fanstatic/pages/:version:2017-02-15T13:19:12.72/:bundle:js/pages-editor.js;js/medium-editor.min.js"></script></body>
+</html>
