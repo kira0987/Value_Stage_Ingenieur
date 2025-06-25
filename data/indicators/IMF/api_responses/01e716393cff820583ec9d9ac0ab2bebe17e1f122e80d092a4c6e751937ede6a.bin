@@ -1,0 +1,51 @@
+// Begin Pushing PDF and ashx Info to Google Analytics
+
+document.addEventListener("click", async function (e) {
+    e = e || event;
+    var from = findParent('a', e.target || e.srcElement);
+    if (from) {
+        var url = from.href.toLowerCase();
+		
+		var redirectUrl = await GetRedirectUrl(url);
+		
+		if(redirectUrl != null && (redirectUrl.indexOf('.pdf') != -1 || redirectUrl.indexOf('.ashx') != -1))
+		{
+			url = redirectUrl;
+		}
+		
+        var filePath = url.split("/");
+        var file = filePath.pop();
+        var decodeFileName = decodeURI(file);
+        var fileName = decodeFileName.indexOf(".") > -1 ? decodeFileName : 'n/a';
+
+        var fileExtension = url.split(/[#?]/)[0].split('.').pop().trim();
+		
+		var linkText = from.innerText;
+		
+
+        if (url.indexOf('.pdf') != -1 || url.indexOf('.ashx') != -1) {
+            gtag('event', 'PDFs', { file_name: fileName, file_extension: fileExtension, link_url: url, link_text : linkText  });
+        }
+    }
+}
+);
+
+
+function findParent(tagname, el) {
+    if ((el.nodeName || el.tagName).toLowerCase() === tagname.toLowerCase()) {
+        return el;
+    }
+    while (el = el.parentNode) {
+        if ((el.nodeName || el.tagName).toLowerCase() === tagname.toLowerCase()) {
+            return el;
+        }
+    }
+    return null;
+}
+
+async function GetRedirectUrl(url) {
+let response = await fetch(url);
+return response.redirected? response.url.toString() : null;
+}
+
+// End Pushing PDF and ashx Info to Google Analytics

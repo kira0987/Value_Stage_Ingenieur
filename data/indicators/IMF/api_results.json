@@ -1,0 +1,1010 @@
+[
+  {
+    "url": "https://www.imf.org/external/datamapper/profile/TUN",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 14244,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\eb92a08f0e5b74f3da5eba59b02143661943357befb585c21e46f2aebb50a27d.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/x10/ssi/gatag.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 2603,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\6ed08582fc699ef69504ec17b9437a62eadcb496dfaf2d441517fd106908518f.bin"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-CPJPTDPL31",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 470815,
+    "domain": "www.googletagmanager.com",
+    "response_file": "api_responses\\b8588e478968e25d754d72518a3847dcc3d085416b4e8acbd3171b33024c74ff.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/x10/ssi/googlepdf.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 1477,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\01e716393cff820583ec9d9ac0ab2bebe17e1f122e80d092a4c6e751937ede6a.bin"
+  },
+  {
+    "url": "https://assets.adobedtm.com/c7b988f076dc93cc20c734bc51e87dde0b81f134/satelliteLib-834e3fe4ac4ea890c36d061e19fc6cfc1b5dc5d0.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 127245,
+    "domain": "assets.adobedtm.com",
+    "response_file": "api_responses\\f4204342cca92891d4da2d134394b3918c6a5a679f366be7cbb76fe7fd708b7a.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/deploy/HeaderFooterFullwidth.css",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 249430,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\cd1e9874b96ab770536108b5cdde22c53d3b607b2f3596588800dd6aefd3477f.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/deploy/datamapper.css",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 47661,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\f1c976272c2ea4d2beb0779467c1eac0bc2fa5cdbf85ad61f6d6ecb63b0caa8b.bin"
+  },
+  {
+    "url": "https://www.imf.org/-/media/Images/IMF/Live-Page/imf-live-rgb-h-svg.ashx",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 2531,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\2fc85b628290dcf5f49e0710025ed7685d584077f1697baf38052c81010e12f6.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/images/header/IMF_seal_shadow.svg",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 38289,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\74a291acad5747517e801355995fa007741be56f99c5f865edf21c7d8c557c76.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/images/header/IMF_logo_ENG.svg",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 5318,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\b6aa4d36ae2080cd472481e413460a35e80e1b2af680e2f3388c68adb11d6a3f.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/images/footer/IMF_seal.svg",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 34935,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\2dff00c98057e8bd9db3c458c888e6cf85398ca6751c6ecd3cc712937ec46e10.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/deploy/datamapper.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 673917,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\58370e78b6451617302c67140016634d3dc7efcb4cca2706591c61c48440c05b.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/sites/imf-org/live/sdk.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 127803,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\b3808436bf07a752aa44eab7f059544c78578c865f84d0e79eba56509262694d.bin"
+  },
+  {
+    "url": "https://assets.adobedtm.com/8f2d3c0e847f/fe2c766b7830/6df3b83578bd/EX506cd8561311430bb2ea9a3fec8ee62b-libraryCode_source.min.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 43526,
+    "domain": "assets.adobedtm.com",
+    "response_file": "api_responses\\9ae67108e8dbb57cca093c53c32e741fe9ca793332114735a00ff1b166d5db0d.bin"
+  },
+  {
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 41559,
+    "domain": "snap.licdn.com",
+    "response_file": "api_responses\\320d4256fc0e4146a6dcaef0569b0f40caf93a0b95a2ddc9c4188ae0cfd61090.bin"
+  },
+  {
+    "url": "https://hello.myfonts.net/count/272a42",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 0,
+    "domain": "hello.myfonts.net",
+    "response_file": "api_responses\\c4db7d80d5d35e4ff2e920f4f0eda44787fdb48eb58ba3a73bd64aff1bf17678.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/sites/imf-org/live/config.json",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 23084,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\5b9f9e0a6c15bb6b69e3c1e6d89fdca193e87dc56721a680a4a0f5630bea9a7c.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/?meta&geoitems&indicators&datasets",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 353071,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\b4e25ad4cb786a5b9a9ef1182e307dfc3a678260d219076c60a86374ea136a83.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/css/webfonts/fa-brands-400.woff2",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 74652,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\542264597e734d15062f9fa7458355b754641e07a14bcf6d2e1d163b3d17b2b8.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/css/webfonts/fa-regular-400.woff2",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 152180,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\7d1bb3853663c91c0d9322102f8e8a93478ebfab0777596c892600a4b03f25a4.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/css/webfonts/fa-solid-900.woff2",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 123060,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\051d2dec40f36c67b87c684bc72f2e2c1c257c8874f60af3f0b201414d31550f.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/css/webfonts/fa-light-300.woff2",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 164968,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\a829cc0bec82250e95dc849f93435d4162dc8707b867a898ca29ec37b83229d3.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/css/webfonts/272A42_0_0.woff",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 33350,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\1133de67613da092828aa0f374de7163bfb7588b1f9db7af671ee61866f1ec3d.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/19/css/webfonts/272A42_1_0.woff",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 35297,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\3693ea740fce12d1025f2b006a10c515c26758ac8cdb90890ad7012315fe95b5.bin"
+  },
+  {
+    "url": "https://swebstats.imf.org/b/ss/imfmainprod/1/JS-2.20.0-LEWM/s75707920822311?AQB=1&ndh=1&pf=1&t=25%2F5%2F2025%2017%3A4%3A49%203%20-60&fid=1FA80814C59201D2-3E0FBA5839DA78E4&ce=UTF-8&pageName=datamapper%3Aprofile%3ATUN&g=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&c.&getPercentPageViewed=5.1&.c&cc=USD&ch=datamapper&server=www.imf.org&events=event1&c1=D%3Dv1&v1=profile&v2=datamapper%3Aprofile%3ATUN&v3=D%3Dch&c4=D%3Dv4&c5=D%3Dv5&v5=no%20value%20in%20meta%20tag&c6=D%3Dv6&c7=D%3Dv7&v7=www.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&c12=D%3Dv12&v12=blank%20content%20topic&c13=D%3Dv13&v13=blank%20location%20value&c14=D%3Dv14&v14=no%20value%20on%20meta%20tag&c15=D%3Dv15&v25=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F137.0.0.0%20Safari%2F537.36&v28=blank-parsely%20author&v29=blank-region&v30=no%20value%20on%20meta%20tag&c31=D%3Dv31&v31=Wednesday&c32=D%3Dv32&v32=12%3A00PM&c33=D%3Dv33&v33=Weekday&c34=D%3Dv34&v34=1704%7C1&c35=D%3Dv35&v35=1&v50=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=1036&bh=703&AQE=1",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 43,
+    "domain": "swebstats.imf.org",
+    "response_file": "api_responses\\399c1862e1ed1ffeb11a643f067cf4e262e638a83db022fb33f5d824d076ed4d.bin"
+  },
+  {
+    "url": "https://px.ads.linkedin.com/attribution_trigger?pid=3760873&time=1750867489168&url=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 2,
+    "domain": "px.ads.linkedin.com",
+    "response_file": "api_responses\\06fc944e564f26eecc456cc24da893ed3504e193ebf001cb05f29ea593f3b905.bin"
+  },
+  {
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3760873&time=1750867489168&li_adsId=86b607be-eaea-4bfa-8cd0-0b0ab6955c48&url=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 0,
+    "domain": "px.ads.linkedin.com",
+    "response_file": "api_responses\\f97862acf107f2a65a6bfdac7ad79192e7690864f8d72f2f602d15a50f49d548.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.5.0/visitor.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 42150,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\f183d1006b283adf3fd22cfc19098a9ceeced7ca9669a35f5a916c64991b48d0.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.5.0/database.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 3302,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\5fe4546d3b5fe28eb5b06c08a5ad2517e49853525e730165f0f7e706fe5a9657.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/sites/imf-org/live/custom-style.css",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 572,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\ca1a97cfd134b9c1808fe043fcf390c59b374e3752efbf656435e92dceafb585.bin"
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-CPJPTDPL31&gtm=45je56n1v9130175644za200&_p=1750867488776&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~103308213~103308215~103351869~103351871~104684204~104684207~104718208~104784387~104784389&cid=175798668.1750867489&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B137.0.7151.122%7CChromium%3B137.0.7151.122%7CNot%252FA)Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&dl=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2Ftun&sid=1750867489&sct=1&seg=0&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=778",
+    "method": "POST",
+    "cookies": {},
+    "status": 204,
+    "response_size": 0,
+    "domain": "www.google-analytics.com",
+    "response_file": null
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/sites/imf-org/live/customcode.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 450,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\45197530e0debe7dcf07c9d6d33691f8f63c5dcd7fe04255daabb1b72ad24f25.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.5.0/analytics-engine.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 25814,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\421e14c62cea4159df47281bfddcfa45eff0998150352c25e2486a3272f28398.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.5.0/rules-engine.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 49908,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\0df00f36de39e71bb87b4120ffc1d5b883f21951df774f8d6285a476491f3566.bin"
+  },
+  {
+    "url": "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.5.0/scoring-engine.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 15150,
+    "domain": "ucm-us.verint-cdn.com",
+    "response_file": "api_responses\\d8675e3c343df576bc1115f281980fcabf4037e777a84d3511cac82bf5ec01ce.bin"
+  },
+  {
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3760873&time=1750867489168&li_adsId=86b607be-eaea-4bfa-8cd0-0b0ab6955c48&url=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&cookiesTest=true",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 0,
+    "domain": "px.ads.linkedin.com",
+    "response_file": "api_responses\\df492e8329c9428919a7e83a3a2f68e2a347f6a4660dba50089338fc2ff11b9c.bin"
+  },
+  {
+    "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D3760873%26time%3D1750867489168%26li_adsId%3D86b607be-eaea-4bfa-8cd0-0b0ab6955c48%26url%3Dhttps%253A%252F%252Fwww.imf.org%252Fexternal%252Fdatamapper%252Fprofile%252FTUN%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 0,
+    "domain": "www.linkedin.com",
+    "response_file": "api_responses\\fdb2960e5d3fe6d27d9ffaaf8c9f9056686b0d0460eb2f594616143e7715375c.bin"
+  },
+  {
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3760873&time=1750867489168&li_adsId=86b607be-eaea-4bfa-8cd0-0b0ab6955c48&url=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&cookiesTest=true&liSync=true",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 0,
+    "domain": "px.ads.linkedin.com",
+    "response_file": "api_responses\\58d0d1d834c06f783dd8c9afdf9383046edf4e0a2aa8e18f7e12ee4adc700635.bin"
+  },
+  {
+    "url": "https://swebstats.imf.org/b/ss/imfmainprod/1/JS-2.20.0-LEWM/s75707920822311?AQB=1&pccr=true&vidn=342E0F11C3B88BB3-400011A7E3DB9F59&ndh=1&pf=1&t=25%2F5%2F2025%2017%3A4%3A49%203%20-60&fid=1FA80814C59201D2-3E0FBA5839DA78E4&ce=UTF-8&pageName=datamapper%3Aprofile%3ATUN&g=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&c.&getPercentPageViewed=5.1&.c&cc=USD&ch=datamapper&server=www.imf.org&events=event1&c1=D%3Dv1&v1=profile&v2=datamapper%3Aprofile%3ATUN&v3=D%3Dch&c4=D%3Dv4&c5=D%3Dv5&v5=no%20value%20in%20meta%20tag&c6=D%3Dv6&c7=D%3Dv7&v7=www.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&c12=D%3Dv12&v12=blank%20content%20topic&c13=D%3Dv13&v13=blank%20location%20value&c14=D%3Dv14&v14=no%20value%20on%20meta%20tag&c15=D%3Dv15&v25=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F137.0.0.0%20Safari%2F537.36&v28=blank-parsely%20author&v29=blank-region&v30=no%20value%20on%20meta%20tag&c31=D%3Dv31&v31=Wednesday&c32=D%3Dv32&v32=12%3A00PM&c33=D%3Dv33&v33=Weekday&c34=D%3Dv34&v34=1704%7C1&c35=D%3Dv35&v35=1&v50=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=1036&bh=703&AQE=1",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 43,
+    "domain": "swebstats.imf.org",
+    "response_file": "api_responses\\53ef7a241cd7663e6df6e622ad1886419db25de9495a256fb87faea7f7f772ed.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/07/images/imf_seal.ico",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 1150,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\42f5a235966cd9f3576729462b1a4f32db8efaa5a114789677b3a5ab2930cd66.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper//search-settings",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 2686,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\020b04ecfb160796ede6e631f46f2906f245e3c55ee258c1382e213ec57a248b.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/images/search.svg",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 203,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\17899d1f5ae396b16eb08dfe56b244457e9d6f57a3ed01be9eb4f6c71be2cdc3.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/fonts/icomoon.ttf?g9cj3p",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 3104,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\afaffacb2ddf605088988945bf359cb63fba1177d7342dcd37592e6b5b87ace4.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/search-settings/",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 2686,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\546c63c955d4342e2511f69aad7f6878c9140b3dee45e1d735a8b32df765036b.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NGDP_RPCH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 528502,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\c30ae12f83e4935a0523a0978a5b6019b4951ea8d92495952c2dd8af68030082.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NGDPD",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 616143,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\e5345e611b26cf7416c1606118de0825be4a641603334e977e78614be3127750.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NGDPDPC",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 556636,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\0b0e2dd6941a3692ec5abf39adb1594a5c0d73d2cf47c7100a456d7a39d8c6d1.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PPPGDP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 604614,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\3dac97c29723a51fba1e584b320f520204efab3d399f24eb77f45bb517e0e72f.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PPPPC",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 548978,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\2f6aaa99a09d215861c79de36f116956c8fe97209035145fcb972dfdc4b46e5f.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PPPSH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 674095,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\3425fc70973a411657b06b73c69f7008c38bdec39ff6cbbf5ebc2f25c479f0c3.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PPPEX",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 534825,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\edd87e0d49df64b8d76d03312f36e81e9779f816bcf5a0f74ef17f634c5d811c.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PCPIPCH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 513214,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\74563920fc5ae75e39a695ce00c86ee8e6b865e99ca99d1d04f7153a1bf3b6b4.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PCPIEPCH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 477795,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\42a6bd7729ea8bd6f27a991f39c9876c63058c35e32bc9c931e15e75c2aaaaf5.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=LP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 630302,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\9f8ee5efa0a01c61035fd57baf05911ece9b91f6a1626d890c72b24706efa0dc.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=LUR",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 244004,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\f56516b4d69b5bae14961c86b5e3391edf7663917acb5905690883b69a75d127.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=BCA",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 639452,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\c1208efafb29dd7b13ff4a9c487186c6070dd2f6bb655856688c27164a6be831.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=BCA_NGDPD",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 528589,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\8af9055126b59a0b5700734aa6e0a5b908bd0d30984261cda0d883915b9cc472.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GGXCNL_NGDP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 438118,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\94339892320b9987df692a1ead51bf3a3353a51bf732319bf70612c0a95b2feb.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GGXWDG_NGDP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 378460,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\4658ebf28c8ffdc8243cc6738eb6e81a6d8b602b785af7e16f8037342bcedb66.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GGXCNL_G01_GDP_PT",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 477376,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\5e5c9c02653d128692af6a07cdedd22cea18637dcb3f75b07a7bd88523193769.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GGXONLB_G01_GDP_PT",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 458700,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\a95033a60b9753cbf125a253dbeee082bd3aa954c9946593e5942e66db49ed4c.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GGCB_G01_PGDP_PT",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 197530,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\1e0a02cc5a7a71578a56309f72d259dfd22bf5acbf2978fe19cbac15916e0465.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GGCBP_G01_PGDP_PT",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 193261,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\772c1463dd00ddc6e024cb396348bef2b3beb05aaff509e81739f118e7a474db.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NGDP_R_PCH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 91813,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\38764af4a7965147dd7be73ff40b717e1808cbf67fa11583d053f86bda91ec69.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NGDPXO_RPCH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 90335,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\eba1bb452467595494400553637fb1a405c49d97e62eb2aaba230624a6946cf1.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NGDPRPC_PCH",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 93830,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\fe576325299e32a5b1265948f767ae00eb1bde892c4c2139953554750a9bf1e6.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NI_GDP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 86803,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\6e2f0f19362acbe3491048a2678abd06e575069343cee526faec4e22a509723e.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=Reserves_ARA",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 89867,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\1dd62f190d6415d3f38f5302014284366ee2e525352d006ac13543de9f622f13.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=Reserves_M2",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 115420,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\569d434b02fe7d30be2f49d6d9568afbd763c33ffaa5cbb0282f27f1d84a5d52.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=Reserves_STD",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 94256,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\add0dd7518500f0cee2f995496e6f4c6b6869d83937609ee90abdc2c7c058f6b.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=Reserves_M",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 108302,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\040a0b56ef8d3743aa2dacced161ee4e62329627e1f65e0c50526ea6b4895582.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PVD_LS",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 474315,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\b5af3c0a2f0d7d48e602a4e692386f734341d7bf18c40cbdbacb8e52f589f1fa.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=HH_LS",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 151538,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\5c0d032c67e6c7d47837bbef256551f387bddc37db25677972390cc081ef63d4.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=NFC_LS",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 148094,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\e8dd06e05c438da4513ea0c965f7695462c920df1b6734e9995884852644f7ea.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=Privatedebt_all",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 64490,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\b241eddef794f5d236cbacb1752c7054e68d96fea074510d3e5491601d20ccc5.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=AI_PI",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 12626,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\d0e0315a4d8754501dc6499a79a41f98fc6da5423f2ed0a307db17ceabb7d92a.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=DI",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 13550,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\695a62c37f3f876f07f8d1b5ed41ec6ef9ec3dac0f5976f59b7acf0ff895d40b.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=IEI",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 13009,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\504858653ae2bb85bc05a0e5b6dfec24d27983fb6784e5460aa6cabfd86f7858.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=HCLMP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 13518,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\fdb1b4c97784f3111934e5c6cef5945c13737d02843650f67b90611a24ec72d5.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=rev",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 533480,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\f1f4d04eeffd81ed2e6d797eb91f01b8de2252c12a789f09e339e27ee1d1a88c.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=exp",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 534147,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\aefdbbac83ca2575522d428a2216bb8d74cb7542bc0e7d1b3b7bac630f7762c0.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=prim_exp",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 484418,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\7c6de3f31a482e0bb42696062e6a841da79eafd23ec9f527abda94d863d67a7f.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=ie",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 511678,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\cef2be3a70403be2feb163086a53d4e68f7fc4e90a3abfb7dccb4b39c8d18e51.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=FR_ind",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 37722,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\17e4d5874781dd58ccd8a24f05f89586ee4b15e85c5e9f910b2f4d3d6b2d1d8a.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=FC_dummy",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 9876,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\26d41485e9fdc6c238216b3a5a95bf8bc93614b645e874608851930d28f29f29.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GRB_dummy",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 8246,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\cd26deae7ac8b4a4b5c2ec8315cb54fb7bfc5d4cff577de631c5e7de7f8d8930.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GDI_TC",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 193512,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\a127a39e4a2af1935b185fb2d6307376d38e5a8cd7f28746f3e552b156ba7efc.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=GII_TC",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 209025,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\4859ea039d816b2f7bfdf900d5b202261d47e3d4a36388df01240500001668f9.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=DEBT1",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 561239,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\13a544c7cd600f6d1cc6cd9f62545d33251b1f98120756d0c0ca04ec532ce5b4.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=DirectAbroad",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 124122,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\3718f4f2e9e2bce6608ec3dd750193172e7ee551289f33dae35311d3f65bdde7.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=DirectIn",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 165946,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\220e42c10a8bc264a1a37a466c32945841ab1c5407d5c64fbf8839f14d0eb01b.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PrivInexDI",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 173996,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\744f5b1913059c72bcaa64f884799720e282d5bb710a27380c42bc614dad0431.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=PrivInexDIGDP",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 203165,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\48816f64b5bd823be4cfc1863f9ddceb12ce058236b6c5611b7f6e5b22847ad8.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=extensive",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 690786,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\5782c2f53d1e4be027b0fd39bb6f241e1c2d2b14c45c3b2df8735911aa3500c0.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=intensive",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 654924,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\33d725bf3bb247222ea7334a7f33b25849745cef1eb71e0ef71ae97c64f76165.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=total_theil",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 651483,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\d151be8b027e3112b7ad0f49e6242f12145f3bc0254ea4c755ec44f54a513417.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=SITC1_0",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 566830,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\84f48a7b209afba05a065690c78cbb64a67281b8f35819e252347d73ad0008e1.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=ka_new",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 110830,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\6819c4b857b9b3c4249929d08fccdba4d60256d1caa9cc3596d46449933bcc3b.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=ka_in",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 94625,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\1c1f6bfef1f1d2ec50d82552ada00acec7e4a7830cd1872cc7c0b1c04a3d0300.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=ka_out",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 74367,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\386c185379541ee17d151dfd1224cc2bfd4f2627d0a29ec8c7dd7f2b43d919cb.bin"
+  },
+  {
+    "url": "https://www.imf.org/external/datamapper/api/index.php?values=FM_ka",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 74636,
+    "domain": "www.imf.org",
+    "response_file": "api_responses\\582fe312e4952983cd26fa13b60fbfc3ef4bfaac2fb13d282a31e9919c48cca1.bin"
+  },
+  {
+    "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2011%2011%27%3E%3Cpath%20d%3D%27M0%2C6h11%27%20stroke%3D%27%23fff%27%2F%3E%3C%2Fsvg%3E",
+    "method": "GET",
+    "cookies": {
+      "s_ppv": "datamapper%253Aprofile%253ATUN%2C96%2C96%2C96%2C651%2C1%2C1",
+      "uws_visitor": "%7B%22vid%22%3A%22175086748933647447%22%2C%22start%22%3A1750867489336%2C%22count%22%3A1%7D%7C1758643489409",
+      "uws_rate_comparators": "%7B%22global%22%3A57000577%7D%7Csession_timeout",
+      "_ga_CPJPTDPL31": "GS2.1.s1750867489$o1$g0$t1750867489$j60$l0$h0",
+      "_ga": "GA1.1.175798668.1750867489",
+      "s_ips": "651",
+      "s_cc": "true",
+      "s_ppn": "datamapper%3Aprofile%3ATUN",
+      "ak_bmsc": "B157495DC5B44BA9CD547B3A5CDA6FCA~000000000000000000000000000000~YAAQF/IUAu9kkH2XAQAAK7PVpxzrUnaFr0YWAuiWdFZD2tODE50NDy6grD+UJzi4kyA7OSgIhKCdiMcmRy9cfljZYKg25dBc/rbhzSYVvfJ0bgYmPyJqhWm6xZIQjPeBtS2ygpW8m4dtF/U7NRyAkchayIy+GCFcynAyofiDN8NWXcVEk46sUNsu+ceBzbEhDnbLwM9a8/5KlwsQWQPDOlQfrfkxvx9yzjq/ZvHuhuifzT7yb+ZajKsOOvWxyrovtCK+xISKSRvOmPHRnBOBG+AuCk7r0TwLypUPyLQQnWOgMhDhFghiQLeQHm8yx7Mhx8W1UVBZCDBMHYzdpFyg7cHK02+qZOUo09xwXZw8l6yIG9iX7J6jBVuVIqjW+g0su37v0bax",
+      "s_invisit": "true",
+      "uws_session": "%7B%22start%22%3A1750867489336%2C%22count%22%3A1%2C%22referrer%22%3A%22%22%7D%7Csession_timeout",
+      "uws_storage": "%22cookie%22",
+      "bm_sv": "CD2C11AA5D914CFCBF17B2DF98A5C9F5~YAAQZ/IUAh7OrX2XAQAAI73VpxytOYCFzvnMT2VnInXGUK9YTk4VkDhWTFI1Ne6RqloMSbkdOVq3aqVyQDD35LCBiYTwSCRnU5WM/Su/0MyBCQ955wntFEHOEZNKR65iTjvF29mrHDb5QpKHgwmEKrgdD3AcHhR+2+iZupuGAGKaMSCOe1xn+3eR1vZ9mrqghNCy8cdQr0ftpYI/mYHgSLjgg8hymTLWjbvioGl6EnZvQ3v+MeosKVPZ+z5h~1",
+      "s_tp": "679",
+      "s_vi": "[CS]v1|342E0F11C3B88BB3-400011A7E3DB9F59[CE]",
+      "s_fid": "1FA80814C59201D2-3E0FBA5839DA78E4",
+      "s_vnum": "1751324400155%26vn%3D1"
+    },
+    "status": "Error",
+    "response_size": 0,
+    "domain": "",
+    "response_file": null
+  },
+  {
+    "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2013%2013%27%3E%3Cpath%20d%3D%27M0%2C6h13M6%2C0v13%27%20stroke%3D%27%23fff%27%2F%3E%3C%2Fsvg%3E",
+    "method": "GET",
+    "cookies": {
+      "s_ppv": "datamapper%253Aprofile%253ATUN%2C96%2C96%2C96%2C651%2C1%2C1",
+      "uws_visitor": "%7B%22vid%22%3A%22175086748933647447%22%2C%22start%22%3A1750867489336%2C%22count%22%3A1%7D%7C1758643489409",
+      "uws_rate_comparators": "%7B%22global%22%3A57000577%7D%7Csession_timeout",
+      "_ga_CPJPTDPL31": "GS2.1.s1750867489$o1$g0$t1750867489$j60$l0$h0",
+      "_ga": "GA1.1.175798668.1750867489",
+      "s_ips": "651",
+      "s_cc": "true",
+      "s_ppn": "datamapper%3Aprofile%3ATUN",
+      "ak_bmsc": "B157495DC5B44BA9CD547B3A5CDA6FCA~000000000000000000000000000000~YAAQF/IUAu9kkH2XAQAAK7PVpxzrUnaFr0YWAuiWdFZD2tODE50NDy6grD+UJzi4kyA7OSgIhKCdiMcmRy9cfljZYKg25dBc/rbhzSYVvfJ0bgYmPyJqhWm6xZIQjPeBtS2ygpW8m4dtF/U7NRyAkchayIy+GCFcynAyofiDN8NWXcVEk46sUNsu+ceBzbEhDnbLwM9a8/5KlwsQWQPDOlQfrfkxvx9yzjq/ZvHuhuifzT7yb+ZajKsOOvWxyrovtCK+xISKSRvOmPHRnBOBG+AuCk7r0TwLypUPyLQQnWOgMhDhFghiQLeQHm8yx7Mhx8W1UVBZCDBMHYzdpFyg7cHK02+qZOUo09xwXZw8l6yIG9iX7J6jBVuVIqjW+g0su37v0bax",
+      "s_invisit": "true",
+      "uws_session": "%7B%22start%22%3A1750867489336%2C%22count%22%3A1%2C%22referrer%22%3A%22%22%7D%7Csession_timeout",
+      "uws_storage": "%22cookie%22",
+      "bm_sv": "CD2C11AA5D914CFCBF17B2DF98A5C9F5~YAAQZ/IUAh7OrX2XAQAAI73VpxytOYCFzvnMT2VnInXGUK9YTk4VkDhWTFI1Ne6RqloMSbkdOVq3aqVyQDD35LCBiYTwSCRnU5WM/Su/0MyBCQ955wntFEHOEZNKR65iTjvF29mrHDb5QpKHgwmEKrgdD3AcHhR+2+iZupuGAGKaMSCOe1xn+3eR1vZ9mrqghNCy8cdQr0ftpYI/mYHgSLjgg8hymTLWjbvioGl6EnZvQ3v+MeosKVPZ+z5h~1",
+      "s_tp": "679",
+      "s_vi": "[CS]v1|342E0F11C3B88BB3-400011A7E3DB9F59[CE]",
+      "s_fid": "1FA80814C59201D2-3E0FBA5839DA78E4",
+      "s_vnum": "1751324400155%26vn%3D1"
+    },
+    "status": "Error",
+    "response_size": 0,
+    "domain": "",
+    "response_file": null
+  },
+  {
+    "url": "https://analytics.foresee.com/ingest/events",
+    "method": "POST",
+    "cookies": {},
+    "status": 405,
+    "response_size": 0,
+    "domain": "analytics.foresee.com",
+    "response_file": null
+  },
+  {
+    "url": "https://analytics.foresee.com/ingest/events",
+    "method": "POST",
+    "cookies": {},
+    "status": 405,
+    "response_size": 0,
+    "domain": "analytics.foresee.com",
+    "response_file": null
+  },
+  {
+    "url": "https://analytics.foresee.com/ingest/events",
+    "method": "POST",
+    "cookies": {},
+    "status": 405,
+    "response_size": 0,
+    "domain": "analytics.foresee.com",
+    "response_file": null
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-CPJPTDPL31&gtm=45je56n1v9130175644za200&_p=1750867488776&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~103308213~103308215~103351869~103351871~104684204~104684207~104718208~104784387~104784389&cid=175798668.1750867489&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B137.0.7151.122%7CChromium%3B137.0.7151.122%7CNot%252FA)Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&dl=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2Ftun&sid=1750867489&sct=1&seg=0&dt=&en=scroll&epn.percent_scrolled=90&_et=9&tfd=6567",
+    "method": "POST",
+    "cookies": {},
+    "status": 204,
+    "response_size": 0,
+    "domain": "www.google-analytics.com",
+    "response_file": null
+  },
+  {
+    "url": "https://swebstats.imf.org/b/ss/imfmainprod/1/JS-2.20.0-LEWM/s76605005393954?AQB=1&ndh=1&pf=1&t=25%2F5%2F2025%2017%3A4%3A59%203%20-60&fid=1FA80814C59201D2-3E0FBA5839DA78E4&ce=UTF-8&pageName=datamapper%3Aprofile%3ATUN&g=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2Fprofile%2FTUN&cc=USD&c20=50&v20=50&v25=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F137.0.0.0%20Safari%2F537.36&pe=lnk_o&pev2=scroll&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=1036&bh=703&lrt=1383&AQE=1",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 43,
+    "domain": "swebstats.imf.org",
+    "response_file": "api_responses\\ee6b5b7bb76c9eb16bf734ba7a02489777d8d48b6546ab9fcae1e1f916f0c7ad.bin"
+  }
+]

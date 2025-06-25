@@ -1,0 +1,849 @@
+{
+  "global": {
+    "updatedAt": "2025-04-09 16:36:24.141Z",
+    "enabled": true,
+    "customcode": true,
+    "customStyles": true
+  },
+  "servers": {
+    "bigData": {
+      "host": "analytics.foresee.com"
+    },
+    "efmSurvey": {
+      "host": "survey.vovici.com"
+    },
+    "efmInvite": {
+      "host": "survey.vovici.com"
+    },
+    "dbaHoover": {
+      "host": "hoover.foresee.com"
+    }
+  },
+  "visitor": {
+    "autoPagenames": "URL",
+    "autoPagenamesVariable": null,
+    "pagenames": [],
+    "properties": [
+      {
+        "name": "Global_Exclude",
+        "type": "multiple",
+        "session": false,
+        "changePage": false,
+        "matchAll": false,
+        "defaultValue": null,
+        "conditions": [],
+        "id": "321d8mml",
+        "values": [
+          {
+            "conditions": [
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Arabic/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Chinese/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/French/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Japanese/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Russian/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Spanish/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/lang/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/cntpst/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/armenian/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/esl/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/german/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/fra/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/polish/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/portuguese/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/romanian/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/ar/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/es/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/fr/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/zh/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/ja/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/ru/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/signinmodify"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/register"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/authgatewaylogin"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/login"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/subscribe"
+              }
+            ],
+            "value": "true"
+          },
+          {
+            "conditions": [
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/Arabic/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/Chinese/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/French/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/Japanese/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/Russian/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/Spanish/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/lang/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/cntpst/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/armenian/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/esl/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/german/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/fra/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/polish/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/portuguese/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/romanian/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/ar/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/es/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/fr/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/zh/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/ja/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/ru/"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/signinmodify"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/register"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/authgatewaylogin"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/login"
+              },
+              {
+                "type": "url",
+                "comparator": "containsNot",
+                "value": "/subscribe"
+              }
+            ],
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "name": "LongRes_Includes",
+        "type": "multiple",
+        "session": false,
+        "changePage": false,
+        "matchAll": false,
+        "defaultValue": "N",
+        "conditions": [],
+        "id": "ypnkbgxw",
+        "owner": 21,
+        "editors": [],
+        "values": [
+          {
+            "conditions": [
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Departmental-Papers-Policy-Papers"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Policy-Papers"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Staff-Discussion-Notes"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/AREB"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Annual-Report-on-Exchange-Arrangements-and-Exchange-Restrictions"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Books"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/CR"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Occasional-Papers"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Pamphlet-Series"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Staff-Discussion-Notes"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/TNM"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/WP"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Analytical-notes/"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/fintech-notes"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/global-financial-stability-notes"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Fiscal-Affairs-Department-How-To-Notes"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/staff-climate-notes"
+              },
+              {
+                "type": "url",
+                "comparator": "contains",
+                "value": "/Publications/Spillover-Notes"
+              }
+            ],
+            "value": "Y"
+          }
+        ]
+      }
+    ]
+  },
+  "rulesEngine": {
+    "enabled": true,
+    "surveyRecording": true,
+    "stories": [
+      {
+        "name": "eLibrary",
+        "enabled": true,
+        "persistent": false,
+        "repeatAfter": "30d",
+        "steps": [
+          {
+            "stepName": "checkDevice",
+            "comparator": "is",
+            "value": "desktop"
+          },
+          {
+            "stepName": "checkProperty",
+            "name": "Global_Exclude",
+            "comparator": "is",
+            "value": "false"
+          },
+          {
+            "stepName": "checkUrl",
+            "comparator": "contains",
+            "value": "elibrary.imf.org"
+          },
+          {
+            "stepName": "checkPageViews",
+            "comparator": "greaterEqual",
+            "value": 2
+          },
+          {
+            "stepName": "samplingRate",
+            "desktop": 75,
+            "tablet": 0,
+            "phone": 0,
+            "namespace": "global"
+          },
+          {
+            "stepName": "showInvite",
+            "positionX": "center",
+            "positionY": "center",
+            "customClass": "",
+            "exclusive": true,
+            "mode": "modal",
+            "width": 500,
+            "showBackdrop": true,
+            "showLogo": true,
+            "logoUrl": "imf_eLibrary_logo.png",
+            "customTexts": false
+          },
+          {
+            "stepName": "externalSurvey",
+            "surveyId": "466C90DA6BEC0CBA",
+            "target": "popup",
+            "context": "_blank",
+            "width": 800,
+            "height": 600,
+            "properties": [
+              "sdkVersion",
+              "siteKey",
+              "container",
+              "configDate",
+              "clientDate",
+              "url",
+              "referrer",
+              "initialReferrer",
+              "deviceType",
+              "userAgent",
+              "visitorId",
+              "pagename",
+              "pageId",
+              "pageViews",
+              "screenWidth",
+              "screenHeight",
+              "viewportWidth",
+              "viewportHeight",
+              "dpr "
+            ]
+          }
+        ],
+        "id": "zir1i14m"
+      },
+      {
+        "name": "Home_Page",
+        "enabled": true,
+        "persistent": false,
+        "repeatAfter": "30d",
+        "steps": [
+          {
+            "stepName": "checkDevice",
+            "comparator": "is",
+            "value": "desktop"
+          },
+          {
+            "stepName": "checkProperty",
+            "name": "Global_Exclude",
+            "comparator": "is",
+            "value": "false"
+          },
+          {
+            "stepName": "checkUrl",
+            "comparator": "contains",
+            "value": "en/Home"
+          },
+          {
+            "stepName": "checkPageViews",
+            "comparator": "is",
+            "value": 1
+          },
+          {
+            "stepName": "samplingRate",
+            "desktop": 20,
+            "tablet": 0,
+            "phone": 0,
+            "namespace": "global"
+          },
+          {
+            "stepName": "showInvite",
+            "positionX": "center",
+            "positionY": "center",
+            "customClass": "",
+            "exclusive": true,
+            "mode": "modal",
+            "width": 500,
+            "showBackdrop": true,
+            "showLogo": true,
+            "logoUrl": "imf_logo.png",
+            "customTexts": false
+          },
+          {
+            "stepName": "externalSurvey",
+            "surveyId": "466C90DA6BEC0C72",
+            "target": "popup",
+            "context": "_blank",
+            "width": 800,
+            "height": 600,
+            "properties": [
+              "sdkVersion",
+              "siteKey",
+              "container",
+              "configDate",
+              "clientDate",
+              "url",
+              "referrer",
+              "initialReferrer",
+              "deviceType",
+              "userAgent",
+              "visitorId",
+              "pagename",
+              "pageId",
+              "pageViews",
+              "screenWidth",
+              "screenHeight",
+              "viewportWidth",
+              "viewportHeight",
+              "dpr "
+            ]
+          }
+        ],
+        "id": "v3hj767u"
+      },
+      {
+        "name": "Browse",
+        "enabled": true,
+        "persistent": false,
+        "repeatAfter": "30d",
+        "steps": [
+          {
+            "stepName": "checkDevice",
+            "comparator": "is",
+            "value": "desktop"
+          },
+          {
+            "stepName": "checkProperty",
+            "name": "Global_Exclude",
+            "comparator": "is",
+            "value": "false"
+          },
+          {
+            "stepName": "checkUrl",
+            "comparator": "notIn",
+            "value": [
+              "imf.org/external/index.htm",
+              "imf.org/external/",
+              "imf.org"
+            ]
+          },
+          {
+            "stepName": "checkPageViews",
+            "comparator": "greaterEqual",
+            "value": 3
+          },
+          {
+            "stepName": "samplingRate",
+            "desktop": 20,
+            "tablet": 0,
+            "phone": 0,
+            "namespace": "global"
+          },
+          {
+            "stepName": "showInvite",
+            "positionX": "center",
+            "positionY": "center",
+            "customClass": "",
+            "exclusive": true,
+            "mode": "modal",
+            "width": 500,
+            "showBackdrop": false,
+            "showLogo": true,
+            "logoUrl": "imf_logo.png",
+            "customTexts": false
+          },
+          {
+            "stepName": "externalSurvey",
+            "surveyId": "466C90DA6BEC0C72",
+            "target": "popup",
+            "context": "_blank",
+            "width": 800,
+            "height": 600,
+            "properties": [
+              "sdkVersion",
+              "siteKey",
+              "container",
+              "configDate",
+              "clientDate",
+              "url",
+              "referrer",
+              "initialReferrer",
+              "deviceType",
+              "userAgent",
+              "visitorId",
+              "pagename",
+              "pageId",
+              "pageViews",
+              "screenWidth",
+              "screenHeight",
+              "viewportWidth",
+              "viewportHeight",
+              "dpr "
+            ]
+          }
+        ],
+        "id": "oan335hh"
+      },
+      {
+        "name": "IMF_Data_Feedback_desktop",
+        "enabled": true,
+        "persistent": false,
+        "repeatAfter": "instant",
+        "steps": [
+          {
+            "stepName": "checkUrl",
+            "comparator": "contains",
+            "value": "imf.org/en/Data"
+          },
+          {
+            "stepName": "checkDevice",
+            "comparator": "is",
+            "value": "desktop"
+          },
+          {
+            "stepName": "showBadge",
+            "side": "top",
+            "alignment": "end",
+            "animation": null,
+            "customTexts": true,
+            "label": "Give Feedback on IMF Data",
+            "customClass": "dataFeedback"
+          },
+          {
+            "stepName": "showModalSurvey",
+            "surveyId": "466C90DA569057B7",
+            "logoUrl": "imf_logo.png",
+            "closeButton": true,
+            "positionX": "center",
+            "positionY": "center",
+            "maxWidth": "550px",
+            "mobileAutoFullScreen": true,
+            "hideBackground": false,
+            "customClass": "",
+            "cancelClosedSurvey": false,
+            "buttonless": false,
+            "endPageCloseButton": false,
+            "autoClose": false
+          }
+        ],
+        "id": "3dnded70"
+      },
+      {
+        "name": "LongRes_Feedback",
+        "enabled": true,
+        "persistent": false,
+        "repeatAfter": "page",
+        "steps": [
+          {
+            "stepName": "checkProperty",
+            "name": "LongRes_Includes",
+            "comparator": "is",
+            "value": "Y"
+          },
+          {
+            "stepName": "showBadge",
+            "side": "bottom",
+            "alignment": "end",
+            "customClass": "longres",
+            "animation": null,
+            "customTexts": true,
+            "label": "Share Feedback"
+          },
+          {
+            "stepName": "showModalSurvey",
+            "surveyId": "466C90DA5894F488",
+            "logoUrl": "imf_logo.png",
+            "closeButton": true,
+            "positionX": "center",
+            "positionY": "center",
+            "maxWidth": "550px",
+            "mobileAutoFullScreen": true,
+            "hideBackground": false,
+            "customClass": "",
+            "cancelClosedSurvey": false,
+            "buttonless": false,
+            "endPageCloseButton": false,
+            "autoClose": false
+          }
+        ],
+        "id": "egemt40i"
+      },
+      {
+        "id": "ilwn0yhs",
+        "name": "IMF_Data_Feedback_mobile",
+        "enabled": true,
+        "persistent": false,
+        "repeatAfter": "instant",
+        "steps": [
+          {
+            "stepName": "checkUrl",
+            "comparator": "is",
+            "value": "imf.org/en/Data"
+          },
+          {
+            "stepName": "checkDevice",
+            "comparator": "isNot",
+            "value": "desktop"
+          },
+          {
+            "stepName": "showBadge",
+            "side": "right",
+            "alignment": "center",
+            "customTexts": true,
+            "showIcon": false,
+            "iconPosition": "before",
+            "label": "Give Feedback on IMF Data",
+            "customClass": "dataMobile"
+          },
+          {
+            "stepName": "showModalSurvey",
+            "surveyId": "466C90DA569057B7",
+            "positionX": "center",
+            "positionY": "center",
+            "maxWidth": "550px",
+            "mobileAutoFullScreen": true,
+            "hideBackground": false,
+            "cancelClosedSurvey": false,
+            "buttonless": false,
+            "endPageCloseButton": false,
+            "autoClose": false,
+            "logoUrl": "imf_logo.png"
+          }
+        ],
+        "owner": 16,
+        "editors": []
+      }
+    ]
+  },
+  "recordingEngine": {
+    "enabled": false,
+    "idsite": null,
+    "maskFullPage": true,
+    "maskingRules": [],
+    "unmaskingRules": [],
+    "blacklist": [],
+    "whitelist": []
+  },
+  "surveyEngine": {
+    "enabled": true,
+    "defaultPhoneCode": null,
+    "phoneCodes": []
+  },
+  "analyticsEngine": {
+    "enabled": true,
+    "customerId": "9k/PZn57kem9MM5athZBsw=="
+  },
+  "scoringEngine": {
+    "enabled": true,
+    "groups": {
+      "struggle": {
+        "enabled": true,
+        "severityLevel": {},
+        "indicators": {}
+      }
+    },
+    "indicators": {}
+  },
+  "integrations": {
+    "fullstory": {
+      "enabled": false
+    },
+    "quantumMetric": {
+      "enabled": false
+    },
+    "logRocket": {
+      "enabled": false
+    }
+  },
+  "i18n": {
+    "defaultLocale": "en-US",
+    "locales": {
+      "en-US": {}
+    }
+  },
+  "styles": {
+    "default": {
+      "colors.primary.default": "#004c97",
+      "colors.primary.dark": "#e67e22",
+      "badge.background.hover": "#e67e22"
+    }
+  }
+}

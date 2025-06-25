@@ -1,0 +1,24 @@
+.dataFeedback {
+margin: 5px 5px 5px -5px !important;
+width: 220px !important;
+background-color: #E35205 !important;
+top: 40% !important;
+}
+.longres {
+  width: 140px !important;
+}
+.uws-choose-one-star-rating__row {
+  justify-content: center;
+}
+.uws-question-heading__required {
+  display: none;
+}
+button.uws-badge.uws-badge--top.dataFeedback:hover{
+  background-color: #99caff !important;
+}
+button.uws-badge.uws-badge--right.dataMobile {
+  background-color: #E35205 !important;
+}
+button.uws-badge.uws-badge--right.dataMobile:hover {
+  background-color: #99caff!important;
+}

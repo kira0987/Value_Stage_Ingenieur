@@ -1,0 +1,13 @@
+// last updated at: 2023-08-22 09:28 AM
+// last updated by: Daniel Kahl
+
+window.unifiedSDK.registerCustomCode(async () => {
+  // const { loader, logger } = window.xmSDK;
+  // const [visitor, rulesEngine] = await loader.requireModules(["visitor", "rulesEngine"]);
+  // visitor.defineProperty("Example Property", () => {
+  //   return "foo";
+  // });
+  // rulesEngine.registerStep("example-step", ({ text }) => {
+  //   logger.info(text);
+  // });
+});
