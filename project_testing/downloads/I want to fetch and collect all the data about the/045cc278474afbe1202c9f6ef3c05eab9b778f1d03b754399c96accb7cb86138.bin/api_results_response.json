@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.textbroker.com/wp-content/cache/min/1/gh/orestbida/cookieconsent@v3.0.0-rc.13/dist/cookieconsent.css?ver=1749539773",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 30079,
+    "domain": "www.textbroker.com",
+    "response_file": "downloads/I want to fetch and collect all the data about the\\045cc278474afbe1202c9f6ef3c05eab9b778f1d03b754399c96accb7cb86138.bin\\163c119d147366d0c9163325060f8981e9234733340fe691681faf0842a9c8e4.bin",
+    "error": null
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v3.0.0-rc.13/dist/cookieconsent.umd.js",
+    "method": "GET",
+    "cookies": {},
+    "status": 200,
+    "response_size": 21674,
+    "domain": "cdn.jsdelivr.net",
+    "response_file": "downloads/I want to fetch and collect all the data about the\\045cc278474afbe1202c9f6ef3c05eab9b778f1d03b754399c96accb7cb86138.bin\\12dda7bb8f5f94a6eeadd2ab240d04d86705ef61766e0e9705acac55e871c35b.bin",
+    "error": null
+  }
+]

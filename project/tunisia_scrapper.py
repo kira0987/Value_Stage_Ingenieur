@@ -27,20 +27,35 @@ def generate_search_query_with_llama(user_query: str) -> list:
     Use Groq's Llama model to generate three targeted search queries for finding structured data about Tunisia.
     """
     prompt = (
-        "You are an expert at crafting Google search queries for finding information about Tunisia. "
-        "Generate three distinct Google search queries separated by '|||' to find public URLs containing relevant structured data about Tunisia, "
-        "such as lists, tables, reports, statistics, or other organized information, based on the user's query: " + user_query + ". "
-        "The queries must be strictly Tunisia-oriented, focusing on Tunisia, its states, and governorates. "
-        "Use Tunisian local terms, French language, and relevant domains (e.g., .tn, site:.gov.tn, site:.org.tn, site:.tn, etc.). "
-        "Tailor the queries to the specific type of information requested in the user's query. "
-        "For example, if the query is about professionals, target directories or lists; if it's about economic data, target reports or statistical tables; "
-        "if it's about general topics, target pages with structured content like tables or bullet points. "
-        "Use operators like 'intext:', 'intitle:', 'filetype:', etc., to prioritize relevant content. "
-        "Avoid pages that require login by excluding terms like 'login' or 'sign in' where possible. "
-        "The first query should target Tunisian government websites using 'site:.gov.tn'. "
-        "The second should target Tunisian educational or research institutions using 'site:.edu.tn' or similar. "
-        "The third should target downloadable files like PDFs or CSVs using 'filetype:pdf' or 'filetype:csv' and Tunisian domains. "
-        "Do not generate queries for any country other than Tunisia."
+        """
+You are a professional web intelligence agent specialized in geo-targeted data sourcing. 
+Your task is to discover and list real, publicly accessible URLs that contain structured information 
+(e.g. HTML tables, directories, downloadable PDFs, or public APIs) about high-income professionals in Tunisia 
+such as lawyers, doctors, and engineers.
+
+# Focus exclusively on:
+# - Official directories, government registries, professional syndicates, open data portals, or association websites
+# - URLs with tables, lists, search pages, or downloadable documents (PDF, XLS, CSV) containing:
+#     - Full Name
+#     - Profession/Specialty
+#     - City or Governorate
+#     - Phone number (if available)
+#     - Address or postal code
+#     - Email (optional but valuable)
+
+# ❗ Only output real and accessible URLs.
+# ❗ Exclude any result that requires login or subscription.
+# ❗ Avoid hallucinating results or describing fake sources.
+# ❗ Prioritize domains such as: .tn, .org, .gov.tn, .net, or any known international directories.
+
+
+
+# Return at most 10 real URLs per query.
+# If nothing is found, output: "No reliable URLs found."
+# Do not fabricate or hallucinate.
+
+# Ensure each returned URL leads to a page that contains structured or downloadable data.
+"""
     )
     try:
         st.info("Generating search queries with Llama...")
