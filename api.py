@@ -1,120 +1,136 @@
 import requests
-import json
-from playwright.sync_api import sync_playwright
+import pandas as pd
+import time
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-# Correct API endpoint (adjust if you find a different one in the network tab)
-url = "http://dataportal.ins.tn/PPService.axd"
-
-# Example: You MUST inspect the network tab for the real parameters!
-params = {
-    # "action": "gettree",  # Example only!
-    # "cube": "...",        # Example only!
-    # Add all required params here
-}
-
-headers = {
-    "User-Agent": "Mozilla/5.0"
-    # Add cookies or other headers if needed
-}
-
-try:
-    response = requests.get(url, headers=headers, params=params, timeout=10)
-    print("Status code:", response.status_code)
-    print("Content-Type:", response.headers.get("Content-Type"))
-    print(response.text)  # or response.json() if JSON
-except Exception as e:
-    print("Error:", e)
-
-# If you want to pretty-print JSON:
-# try:
-#     print(response.json())
-# except Exception:
-#     print(response.text)
-
-robots_url = "http://dataportal.ins.tn/robots.txt"
-resp = requests.get(robots_url)
-print(resp.text)
-
-def log_ppservice_requests_and_responses(url="http://dataportal.ins.tn/fr/DataAnalysis"):
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        page = browser.new_page()
-
-        # List to store all API call data
-        api_calls = []
-
-        # Listen for all requests and responses
-        def handle_response(response):
-            if "PPService.axd" in response.url:
-                try:
-                    content_type = response.headers.get("content-type", "")
-                    if "application/json" in content_type:
-                        body = response.json()
-                    else:
-                        body = response.text()
-                except Exception:
-                    body = "<Failed to decode response>"
-                api_calls.append({
-                    "url": response.url,
-                    "status": response.status,
-                    "headers": dict(response.headers),
-                    "body": body
-                })
-                print(f"API CALL: {response.url} (status: {response.status})")
-
-        page.on("response", handle_response)
-
-        # Go to the main page
-        page.goto(url)
-        print("Interact with the page to trigger API calls...")
-        input("When done, press Enter here to finish and close the browser...")
-
-        browser.close()
-
-        # Save all found API calls and responses to a JSON file
-        with open("ppservice_api_calls.json", "w", encoding="utf-8") as f:
-            json.dump(api_calls, f, ensure_ascii=False, indent=2)
-        print(f"Saved {len(api_calls)} API calls and responses to ppservice_api_calls.json")
-
-if __name__ == "__main__":
-    log_ppservice_requests_and_responses()
-
-# Example: Replace with your actual indicator list
-indicators = [
-    "Agriculture"  # ... fill with real indicator codes/names
+# Possible base URLs to try
+BASE_URLS = [
+    "http://fr-api.data.gov.tn/api/1.0/",
+    "http://dataportal.ins.tn/api/1.0/",
+    "https://fr-api.data.gov.tn/api/1.0/"
 ]
 
-years = range(2018, 2026)
-months = range(1, 13)
+# Optional: Add your API token here if authenticated
+API_TOKEN = None  # Replace with "YOUR_TOKEN" if available
+HEADERS = {"Authorization": f"Bearer {API_TOKEN}"} if API_TOKEN else {}
 
-results = []
+# Configure retry mechanism
+session = requests.Session()
+retries = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
+session.mount("http://", HTTPAdapter(max_retries=retries))
+session.mount("https://", HTTPAdapter(max_retries=retries))
 
-for indicator in indicators:
-    for year in years:
-        for month in months:
-            params = {
-                "indicator": indicator,  # Adjust key as needed
-                "year": year,
-                "month": month
-                # Add any other required params
-            }
-            url = "http://dataportal.ins.tn/PPService.axd"  # Adjust if needed
-            try:
-                response = requests.get(url, params=params, timeout=10)
-                if response.status_code == 200:
-                    data = response.json()
-                    results.append({
-                        "indicator": indicator,
-                        "year": year,
-                        "month": month,
-                        "value": data.get("value"),
-                        "unit": data.get("unit"),
-                        "source": "INS API"
-                    })
-            except Exception as e:
-                print(f"Error for {indicator} {year}-{month}: {e}")
+# Function to fetch all datasets
+def get_all_datasets(base_url):
+    datasets = []
+    try:
+        url = f"{base_url}dataset?pretty=1"
+        print(f"Trying URL: {url}")
+        response = session.get(url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        
+        datasets.extend(data.get('results', []))
+        total = data.get('total', 0)
+        size = data.get('size', 10)
+        fetched = len(datasets)
+        
+        while fetched < total:
+            page = (fetched // size) + 1
+            url = f"{base_url}dataset?pretty=1&from={fetched}"
+            print(f"Fetching page {page}: {url}")
+            response = session.get(url, headers=HEADERS, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            datasets.extend(data.get('results', []))
+            fetched += len(data.get('results', []))
+            time.sleep(1)  # Avoid rate limit
+        return datasets
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching datasets from {base_url}: {str(e)}")
+        return []
 
-with open("indicators_2018_2025_monthly.json", "w", encoding="utf-8") as f:
-    json.dump(results, f, ensure_ascii=False, indent=2)
+# Function to fetch records for a dataset and filter by years (2018-2025)
+def fetch_dataset_records(dataset_code, base_url, years=range(2018, 2026)):
+    records = []
+    try:
+        url = f"{base_url}dataset/{dataset_code}?pretty=1"
+        response = session.get(url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        
+        records_url = f"{base_url}dataset/{dataset_code}/records?pretty=1"
+        response = session.get(records_url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        records_data = response.json()
+        
+        for record in records_data.get('records', []):
+            record_year = None
+            for field, value in record.items():
+                if field.lower() in ['year', 'annee', 'date'] and value:
+                    try:
+                        year = int(str(value)[:4]) if isinstance(value, str) else int(value)
+                        if year in years:
+                            record_year = year
+                            break
+                    except (ValueError, TypeError):
+                        continue
+            if record_year:
+                records.append(record)
+        
+        return records, data.get('title', dataset_code), data.get('fields', [])
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching records for dataset {dataset_code} from {base_url}: {str(e)}")
+        return [], dataset_code, []
 
-print("✅ Saved all indicator data to indicators_2018_2025_monthly.json")
+# Main function to fetch all indicators
+def fetch_tunisia_indicators():
+    all_data = []
+    for base_url in BASE_URLS:
+        print(f"\nAttempting to fetch data using base URL: {base_url}")
+        try:
+            datasets = get_all_datasets(base_url)
+            if not datasets:
+                print(f"No datasets found for {base_url}. Trying next URL...")
+                continue
+            
+            for dataset in datasets:
+                dataset_code = dataset.get('code')
+                if not dataset_code:
+                    continue
+                
+                print(f"Fetching records for dataset: {dataset.get('title', dataset_code)}")
+                records, dataset_title, fields = fetch_dataset_records(dataset_code, base_url)
+                
+                if records:
+                    df = pd.DataFrame(records)
+                    df['Dataset'] = dataset_title
+                    all_data.append(df)
+                time.sleep(1)  # Avoid rate limit
+            
+            if all_data:
+                break  # Exit loop if data was successfully retrieved
+        except Exception as e:
+            print(f"Failed to fetch data from {base_url}: {str(e)}")
+            continue
+    
+    if not all_data:
+        print("No data retrieved from any base URL.")
+        return None
+    
+    combined_df = pd.concat(all_data, ignore_index=True)
+    output_file = 'tunisia_ins_indicators_2018_2025.csv'
+    combined_df.to_csv(output_file, index=False)
+    print(f"Data successfully saved to {output_file}")
+    
+    return combined_df
+
+# Main execution
+if __name__ == "__main__":
+    result = fetch_tunisia_indicators()
+    if result is not None:
+        print("\nSample of retrieved data:")
+        print(result.head())
+    else:
+        print("Failed to retrieve data from all base URLs.")
