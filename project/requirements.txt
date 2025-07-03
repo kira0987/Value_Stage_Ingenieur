@@ -1,0 +1,6 @@
+streamlit
+langchain
+groq
+html2text
+requests
+python-dotenv

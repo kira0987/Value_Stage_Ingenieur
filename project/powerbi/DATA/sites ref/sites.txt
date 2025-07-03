@@ -1,0 +1,7 @@
+https://dash.gallery/Portal/
+https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-opioid-epidemic
+https://github.com/plotly/dash-sample-apps/tree/main/apps
+https://python-visualization.github.io/folium/latest/getting_started.html
+https://plotly.com/python/tile-scatter-maps/
+https://medium.com/ai4sm/handling-geospatial-data-and-mapping-in-python-5e63326a13d5
+https://osmnx.readthedocs.io/en/stable/
