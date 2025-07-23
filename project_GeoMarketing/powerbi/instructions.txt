@@ -1,0 +1,4 @@
+for first prompt  to five context:
+
+
+so as you can see for medecines i have NOM,PRENOM,ADRESSE,CODE_POSTAL,LOCALITE,GOUVERNORAT,SPECIALITE,CONVENTIONNé,CATEGORIE_PRESTATAIRE,APC and in state-municipality-areas i have Delegations.Latitude , Delegations.Longitude, Delegations.Name,Delegations.NameAr,Delegations.PostalCode,Delegations.Value,Name,NameAr and i mapped by postal code One to Many relationship now what i want you to do act like BI Analyst and power bi is your lab for etl and dax and i want to make interactive dashplots later on so make the dashplot as your final stage so make tables , columns that are best suited for GeoMarketing project like heat maps or when i select a region later on on dash plotly it gives me analysis like in https://dash.gallery/dash-opioid-epidemic/ but for now only focus on powerbi as your laboratory and act as a data wizzard and mathematecian
